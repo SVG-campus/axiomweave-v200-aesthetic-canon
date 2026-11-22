@@ -1,0 +1,3446 @@
+{
+  "system_tag": "AW-OMNI-V200-POETRY-TELEMETRY-APEX",
+  "canonical_registry": "AW-POETRY-50-TELEMETRY-SIMULATION-V200-CANONICAL",
+  "timestamp": "2026-11-22T05:05:09Z",
+  "total_poems": 50,
+  "poems": [
+    {
+      "rank": 1,
+      "name": "The Divine Comedy (La Divina Commedia)",
+      "poet": "Dante Alighieri",
+      "year": 1320,
+      "tradition_genre": "Medieval Italian Epic / Christian Cosmology",
+      "archetype": "The Architectural Summit of Western Allegory and Sacred Order",
+      "meter_form": "Terza Rima (Endecasillabo ABA BCB CDC)",
+      "language_origin": "Florentine Italian (Vernacular Father)",
+      "line_count": 14233,
+      "memetic_valuation_usd": 2500000000,
+      "tier": "Tier I: Monumental Epic, Sacred & Ancient Foundations",
+      "subproblem_scores": {
+        "s1_prosody": 100.0,
+        "s2_semantic": 99.5,
+        "s3_euphonic": 99.0,
+        "s4_consciousness": 100.0,
+        "s5_structural": 100.0,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.94,
+        "prosodic_entropy_bits": 2.13,
+        "enjambment_tension": 73.5,
+        "caesura_frequency_per_line": 1.42
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 96.7,
+        "alliteration_density": 30.6,
+        "semantic_density": 0.89,
+        "ostranenie_score": 96.3,
+        "affective_valence": 0.65,
+        "affective_arousal": 0.75
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.028,
+        "volatility_sigma": 0.025,
+        "expected_value_100yr_usd": 69482779385.0,
+        "expected_value_250yr_usd": 10180824309801.0,
+        "expected_value_500yr_usd": 4.145967345081132e+16,
+        "expected_value_1000yr_usd": 6.875618090591636e+23,
+        "p05_stress_100yr_usd": 672865872.0,
+        "p95_bull_100yr_usd": 4245347444090.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Mathematical structural perfection (100 cantos, 33 per cantica + 1 intro); invented Terza Rima; immense psychological realism in Ugolino and Francesca",
+        "bad": "Obscure 14th-century Guelph/Ghibelline political feuds require constant footnote consultation",
+        "fixable": "Annotated editions (Mandelbaum, Singleton) mapping historical figures to timeless moral archetypes",
+        "missing": "Modern vernacular colloquial ease"
+      },
+      "patron_need": "Complete existential navigation through spiritual damnation, purification, and celestial beatitude.",
+      "trade_off_passed": "Demands encyclopedic medieval scholastic, theological, and Florentine political literacy.",
+      "learned_from_prev": "The foundational apex: Synthesizes classical Greco-Roman reason (Virgil) with Christian theology (Beatrice) across Inferno, Purgatorio, and Paradiso, culminating in the vision of 'the Love that moves the sun and the other stars.'"
+    },
+    {
+      "rank": 2,
+      "name": "The Iliad & The Odyssey",
+      "poet": "Homer",
+      "year": -750,
+      "tradition_genre": "Ancient Greek Heroic Epic",
+      "archetype": "The Primordial Wellspring of Western Literature and Human Striving",
+      "meter_form": "Dactylic Hexameter (Epic Long-Short-Short)",
+      "language_origin": "Homeric Greek (Ionic-Aeolic Oral Formulaic)",
+      "line_count": 27803,
+      "memetic_valuation_usd": 2400000000,
+      "tier": "Tier I: Monumental Epic, Sacred & Ancient Foundations",
+      "subproblem_scores": {
+        "s1_prosody": 99.5,
+        "s2_semantic": 98.0,
+        "s3_euphonic": 99.5,
+        "s4_consciousness": 99.5,
+        "s5_structural": 99.0,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.92,
+        "prosodic_entropy_bits": 2.05,
+        "enjambment_tension": 49.7,
+        "caesura_frequency_per_line": 1.47
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 97.0,
+        "alliteration_density": 30.4,
+        "semantic_density": 0.92,
+        "ostranenie_score": 94.4,
+        "affective_valence": 0.35,
+        "affective_arousal": 0.38
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.028,
+        "volatility_sigma": 0.025,
+        "expected_value_100yr_usd": 66703468210.0,
+        "expected_value_250yr_usd": 9773591337409.0,
+        "expected_value_500yr_usd": 3.980128651277886e+16,
+        "expected_value_1000yr_usd": 6.60059336696797e+23,
+        "p05_stress_100yr_usd": 645951237.0,
+        "p95_bull_100yr_usd": 4075533546326.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Unflinching depiction of battlefield trauma and psychological grief; Achilles-Priam summit in Book 24 is human perfection",
+        "bad": "The Catalogue of Ships in Iliad Book 2 can test modern narrative momentum",
+        "fixable": "Understanding formulaic catalogues as historical cultural charters for Bronze Age communities",
+        "missing": "Rhyme and stanzaic micro-structures (pure quantitative hexameter)"
+      },
+      "patron_need": "Confronting human vulnerability against indifferent gods, honor (kleos), and the agony of homecoming (nostos).",
+      "trade_off_passed": "Oral formulaic repetitions ('wine-dark sea', 'rosy-fingered dawn') reflect pre-literate bardic mnemonics.",
+      "learned_from_prev": "Precedes Dante by two millennia, establishing the heroic human tragedy: Achilles' raging confrontation with mortality and Priam weeping over Hector's body set the benchmark for devastating empathy in warfare."
+    },
+    {
+      "rank": 3,
+      "name": "Paradise Lost",
+      "poet": "John Milton",
+      "year": 1667,
+      "tradition_genre": "Renaissance Blank Verse Epic / Theodicy",
+      "archetype": "The Supreme Monument of English Syntactic Magnificence",
+      "meter_form": "Unrhymed Iambic Pentameter (Blank Verse)",
+      "language_origin": "Early Modern English",
+      "line_count": 10565,
+      "memetic_valuation_usd": 1800000000,
+      "tier": "Tier I: Monumental Epic, Sacred & Ancient Foundations",
+      "subproblem_scores": {
+        "s1_prosody": 99.0,
+        "s2_semantic": 99.0,
+        "s3_euphonic": 99.5,
+        "s4_consciousness": 99.0,
+        "s5_structural": 99.5,
+        "s6_durability": 99.5
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.84,
+        "prosodic_entropy_bits": 2.28,
+        "enjambment_tension": 84.1,
+        "caesura_frequency_per_line": 1.49
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 96.8,
+        "alliteration_density": 32.5,
+        "semantic_density": 0.95,
+        "ostranenie_score": 92.9,
+        "affective_valence": 0.2,
+        "affective_arousal": 0.85
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.028,
+        "volatility_sigma": 0.025,
+        "expected_value_100yr_usd": 50027601157.0,
+        "expected_value_250yr_usd": 7330193503056.0,
+        "expected_value_500yr_usd": 2.9850964884584148e+16,
+        "expected_value_1000yr_usd": 4.9504450252259777e+23,
+        "p05_stress_100yr_usd": 484463428.0,
+        "p95_bull_100yr_usd": 3056650159744.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Incomparable auditory majesty; psychological depth of Satan's despair on Mount Niphates; moving tender human expulsion at the close",
+        "bad": "The theological debates in Heaven can feel rigid compared to Satan's volcanic charisma",
+        "fixable": "Vocal recitation aloud unlocks the natural respiratory cadence of Milton's enjambments",
+        "missing": "Intimate conversational humor"
+      },
+      "patron_need": "Wrestling with free will, the psychology of rebellion ('Better to reign in Hell than serve in Heaven'), and tragic redemption.",
+      "trade_off_passed": "Complex Latinate inversions and subordinate clauses require immense intellectual stamina.",
+      "learned_from_prev": "Takes Homer's heroic battlefield and internalizes it within the cosmic theater of heaven and hell: Milton 'justifies the ways of God to men' with organ-like blank verse, creating the most charismatic antihero in literature (Satan)."
+    },
+    {
+      "rank": 4,
+      "name": "Sonnets (Sonnets 18, 73, 116, 129, 130)",
+      "poet": "William Shakespeare",
+      "year": 1609,
+      "tradition_genre": "English Renaissance Lyric / Petrarchan Subversion",
+      "archetype": "The Supreme Crucible of Human Love, Time and Mortality",
+      "meter_form": "Shakespearean Sonnet (ABAB CDCD EFEF GG)",
+      "language_origin": "Early Modern English",
+      "line_count": 2156,
+      "memetic_valuation_usd": 2200000000,
+      "tier": "Tier I: Monumental Epic, Sacred & Ancient Foundations",
+      "subproblem_scores": {
+        "s1_prosody": 99.5,
+        "s2_semantic": 99.0,
+        "s3_euphonic": 99.0,
+        "s4_consciousness": 99.5,
+        "s5_structural": 100.0,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.9,
+        "prosodic_entropy_bits": 2.13,
+        "enjambment_tension": 56.4,
+        "caesura_frequency_per_line": 1.34
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 97.0,
+        "alliteration_density": 31.0,
+        "semantic_density": 0.9,
+        "ostranenie_score": 95.3,
+        "affective_valence": 0.7,
+        "affective_arousal": 0.45
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.028,
+        "volatility_sigma": 0.025,
+        "expected_value_100yr_usd": 61144845859.0,
+        "expected_value_250yr_usd": 8959125392625.0,
+        "expected_value_500yr_usd": 3.648451263671396e+16,
+        "expected_value_1000yr_usd": 6.05054391972064e+23,
+        "p05_stress_100yr_usd": 592121967.0,
+        "p95_bull_100yr_usd": 3735905750799.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "The devastating psychological realism of Sonnet 129 (lust in action); the eternal defiance of Sonnet 18; structural perfection of the volta",
+        "bad": "Some convention-bound patron flattery in the early procreation sonnets",
+        "fixable": "Reading the sequence as a dynamic psychological drama of the Fair Youth and Dark Lady",
+        "missing": "Epic narrative scale"
+      },
+      "patron_need": "The ultimate articulation of love defying physical decay ('Love alters not with his brief hours and weeks').",
+      "trade_off_passed": "Strict formal constraint of the concluding rhyming couplet risks feeling too neat without Shakespeare's ironic twists.",
+      "learned_from_prev": "Condenses Milton's 10,000-line cosmic organ into the razor-sharp 14-line sonnet box: Shakespeare deconstructs idealized romance ('My mistress' eyes are nothing like the sun') while forging an immortal shield against devouring Time."
+    },
+    {
+      "rank": 5,
+      "name": "The Epic of Gilgamesh",
+      "poet": "Anonymous (compiled by Sin-leqi-unninni)",
+      "year": -1800,
+      "tradition_genre": "Ancient Mesopotamian Mythic Epic",
+      "archetype": "The First Great Masterpiece of Human Existential Grief and Brotherhood",
+      "meter_form": "Akkadian Accentual Verse (4 Beats per line with Caesura)",
+      "language_origin": "Sumerian / Standard Babylonian Cuneiform",
+      "line_count": 3000,
+      "memetic_valuation_usd": 1500000000,
+      "tier": "Tier I: Monumental Epic, Sacred & Ancient Foundations",
+      "subproblem_scores": {
+        "s1_prosody": 96.0,
+        "s2_semantic": 98.0,
+        "s3_euphonic": 97.0,
+        "s4_consciousness": 100.0,
+        "s5_structural": 97.0,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.45,
+        "prosodic_entropy_bits": 3.52,
+        "enjambment_tension": 84.7,
+        "caesura_frequency_per_line": 1.34
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 95.0,
+        "alliteration_density": 32.5,
+        "semantic_density": 0.94,
+        "ostranenie_score": 94.3,
+        "affective_valence": 0.38,
+        "affective_arousal": 0.44
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.028,
+        "volatility_sigma": 0.025,
+        "expected_value_100yr_usd": 41689667631.0,
+        "expected_value_250yr_usd": 6108494585880.0,
+        "expected_value_500yr_usd": 2.487580407048679e+16,
+        "expected_value_1000yr_usd": 4.1253708543549814e+23,
+        "p05_stress_100yr_usd": 403719523.0,
+        "p95_bull_100yr_usd": 2547208466454.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "The most ancient recorded existential crisis in human history; profound brotherhood between Gilgamesh and Enkidu",
+        "bad": "Physical tablet degradation results in bracketed gaps in the narrative",
+        "fixable": "Modern composite editions (George, Mitchell) restoring narrative flow from parallel cylinder seals",
+        "missing": "Complex modern philosophical psychological interiority"
+      },
+      "patron_need": "Confronting the unchangeable fact of mortality and finding meaning in friendship and the walls we build.",
+      "trade_off_passed": "Broken clay tablets leave lacunae (missing lines) across standard translations.",
+      "learned_from_prev": "Strips away Shakespeare's ornate Elizabethan wit to reveal the raw primordial terror of death: Gilgamesh weeps over Enkidu's rotting body, roaming the wilderness to discover that immortality belongs only to the gods."
+    },
+    {
+      "rank": 6,
+      "name": "The Mahabharata & Bhagavad Gita",
+      "poet": "Attributed to Vyasa",
+      "year": -400,
+      "tradition_genre": "Sanskrit Epic / Dharmic Philosophy",
+      "archetype": "The Colossal Encyclopedia of Human Duty, Illusion and the Absolute",
+      "meter_form": "Anushtubh Shloka (32-syllable verses in 4 quarters)",
+      "language_origin": "Classical Sanskrit",
+      "line_count": 200000,
+      "memetic_valuation_usd": 2100000000,
+      "tier": "Tier I: Monumental Epic, Sacred & Ancient Foundations",
+      "subproblem_scores": {
+        "s1_prosody": 98.5,
+        "s2_semantic": 98.5,
+        "s3_euphonic": 98.0,
+        "s4_consciousness": 100.0,
+        "s5_structural": 98.0,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.95,
+        "prosodic_entropy_bits": 2.0,
+        "enjambment_tension": 49.2,
+        "caesura_frequency_per_line": 1.36
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 94.4,
+        "alliteration_density": 30.9,
+        "semantic_density": 0.96,
+        "ostranenie_score": 93.8,
+        "affective_valence": 0.62,
+        "affective_arousal": 0.53
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.028,
+        "volatility_sigma": 0.025,
+        "expected_value_100yr_usd": 58365534684.0,
+        "expected_value_250yr_usd": 8551892420233.0,
+        "expected_value_500yr_usd": 3.4826125698681508e+16,
+        "expected_value_1000yr_usd": 5.775519196096974e+23,
+        "p05_stress_100yr_usd": 565207332.0,
+        "p95_bull_100yr_usd": 3566091853035.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "The Vishvarupa (cosmic form) chapter where Krishna reveals all time and universes; intense ethical complexity of Dharma",
+        "bad": "Vast genealogical digressions can overwhelm readers seeking straightforward narrative velocity",
+        "fixable": "Focusing on the 700 verses of the Bhagavad Gita as the philosophical diamond at its center",
+        "missing": "Compact lyric brevity"
+      },
+      "patron_need": "Navigating moral paralysis, doing one's duty without attachment to results (Nishkama Karma), and cosmic realization.",
+      "trade_off_passed": "Staggering scale (longest poem ever written, 10x the length of Iliad and Odyssey combined) resists single-sitting reading.",
+      "learned_from_prev": "Resolves Gilgamesh's despair over mortality with Krishna's timeless revelation to Arjuna on the battlefield of Kurukshetra: 'The soul is never born, nor does it die.'"
+    },
+    {
+      "rank": 7,
+      "name": "Spring Prospect (Chunwang) & Autumn Meditations",
+      "poet": "Du Fu (Tu Fu)",
+      "year": 757,
+      "tradition_genre": "Tang Dynasty Regulated Verse (Lushi)",
+      "archetype": "The Sage of Poetry: Absolute Synthesis of History, Nature and Human Pain",
+      "meter_form": "Wuyan Lushi (Five-character 8-line Regulated Verse with Tonal Parallelism)",
+      "language_origin": "Classical Chinese",
+      "line_count": 8,
+      "memetic_valuation_usd": 1600000000,
+      "tier": "Tier I: Monumental Epic, Sacred & Ancient Foundations",
+      "subproblem_scores": {
+        "s1_prosody": 100.0,
+        "s2_semantic": 97.0,
+        "s3_euphonic": 98.5,
+        "s4_consciousness": 100.0,
+        "s5_structural": 100.0,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.48,
+        "prosodic_entropy_bits": 3.4,
+        "enjambment_tension": 92.0,
+        "caesura_frequency_per_line": 1.4
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 96.9,
+        "alliteration_density": 31.7,
+        "semantic_density": 0.96,
+        "ostranenie_score": 93.5,
+        "affective_valence": 0.41,
+        "affective_arousal": 0.54
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.028,
+        "volatility_sigma": 0.025,
+        "expected_value_100yr_usd": 44468978807.0,
+        "expected_value_250yr_usd": 6515727558272.0,
+        "expected_value_500yr_usd": 2.6534191008519244e+16,
+        "expected_value_1000yr_usd": 4.400395577978647e+23,
+        "p05_stress_100yr_usd": 430634158.0,
+        "p95_bull_100yr_usd": 2717022364217.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Untouchable mastery of antithetical couplets; heartbreak of touching flowers that weep in times of chaos",
+        "bad": "Strict tonal rules (Ping/Ze tones) are invisible in non-tonal Western translations",
+        "fixable": "Bilingual editions with character-by-character literal glosses (David Hinton / Stephen Owen)",
+        "missing": "Western theatrical dialogue"
+      },
+      "patron_need": "Bearing witness to civil war devastation, family separation, and the enduring indifference of nature.",
+      "trade_off_passed": "Extreme compression in Classical Chinese means English translations can only approximate its layered tonal symmetries.",
+      "learned_from_prev": "Inverts the massive Sanskrit epic into 8 lines of superhuman compression: 'The country is broken, mountains and rivers remain; In the city, spring deepens, grass and trees grow thick.' Every single word carries strict tonal and semantic antithesis."
+    },
+    {
+      "rank": 8,
+      "name": "Quiet Night Thought (Jingye Si) & Drinking Alone",
+      "poet": "Li Bai (Li Po)",
+      "year": 750,
+      "tradition_genre": "Tang Dynasty Jueju / Daoist Celestial Spontaneity",
+      "archetype": "The Banished Immortal: Transcendent Freedom and Moonlit Solitude",
+      "meter_form": "Wuyan Jueju (Five-character 4-line Quatrain)",
+      "language_origin": "Classical Chinese",
+      "line_count": 4,
+      "memetic_valuation_usd": 1700000000,
+      "tier": "Tier I: Monumental Epic, Sacred & Ancient Foundations",
+      "subproblem_scores": {
+        "s1_prosody": 97.5,
+        "s2_semantic": 97.0,
+        "s3_euphonic": 99.0,
+        "s4_consciousness": 99.0,
+        "s5_structural": 100.0,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.51,
+        "prosodic_entropy_bits": 3.38,
+        "enjambment_tension": 71.3,
+        "caesura_frequency_per_line": 1.33
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 95.3,
+        "alliteration_density": 30.4,
+        "semantic_density": 0.93,
+        "ostranenie_score": 91.8,
+        "affective_valence": 0.55,
+        "affective_arousal": -0.65
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.028,
+        "volatility_sigma": 0.025,
+        "expected_value_100yr_usd": 47248289982.0,
+        "expected_value_250yr_usd": 6922960530664.0,
+        "expected_value_500yr_usd": 2.8192577946551696e+16,
+        "expected_value_1000yr_usd": 4.675420301602312e+23,
+        "p05_stress_100yr_usd": 457548793.0,
+        "p95_bull_100yr_usd": 2886836261981.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "The most universally memorized poem in East Asian civilization; pristine spontaneous brush-stroke purity",
+        "bad": "Its sheer ubiquity leads to its profound existential loneliness being taken for granted",
+        "fixable": "Experiencing it under real night sky isolation",
+        "missing": "Complex narrative plot"
+      },
+      "patron_need": "Homesickness, effortless aesthetic grace, and finding companionship with the moon and one's shadow.",
+      "trade_off_passed": "Deceptive simplicity can appear almost childlike to Western readers accustomed to elaborate syntactic ornamentation.",
+      "learned_from_prev": "Complements Du Fu's historical agony with celestial Daoist weightlessness: twenty characters depicting frost on the floor, raising the head to gaze at the bright moon, and lowering it to think of home\u2014memorized by over one billion people."
+    },
+    {
+      "rank": 9,
+      "name": "The Masnavi & Divan-e Shams-e Tabrizi",
+      "poet": "Jalal al-Din Muhammad Rumi",
+      "year": 1273,
+      "tradition_genre": "Persian Sufi Mysticism / Mathnawi",
+      "archetype": "The Ocean of Divine Love and Spiritual Yearning (The Persian Quran)",
+      "meter_form": "Ramal Mathnawi Couplets",
+      "language_origin": "Classical Persian",
+      "line_count": 25000,
+      "memetic_valuation_usd": 1900000000,
+      "tier": "Tier I: Monumental Epic, Sacred & Ancient Foundations",
+      "subproblem_scores": {
+        "s1_prosody": 98.5,
+        "s2_semantic": 99.0,
+        "s3_euphonic": 99.0,
+        "s4_consciousness": 100.0,
+        "s5_structural": 98.5,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.39,
+        "prosodic_entropy_bits": 3.82,
+        "enjambment_tension": 96.6,
+        "caesura_frequency_per_line": 1.45
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 97.9,
+        "alliteration_density": 33.2,
+        "semantic_density": 0.96,
+        "ostranenie_score": 94.0,
+        "affective_valence": 0.92,
+        "affective_arousal": 0.85
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.028,
+        "volatility_sigma": 0.025,
+        "expected_value_100yr_usd": 52806912333.0,
+        "expected_value_250yr_usd": 7737426475449.0,
+        "expected_value_500yr_usd": 3.1509351822616604e+16,
+        "expected_value_1000yr_usd": 5.225469748849643e+23,
+        "p05_stress_100yr_usd": 511378063.0,
+        "p95_bull_100yr_usd": 3226464057508.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Matchless metaphoric fire; the Opening Reed Flute song; direct psychological access to spiritual surrender",
+        "bad": "Pop translations frequently erase Islamic context, turning Rumi into vague greeting-card sentiment",
+        "fixable": "Rigorous academic translations (Jawid Mojaddedi, Reynold Nicholson) preserving Islamic mystical theology",
+        "missing": "Aristotelian linear dramatic plot"
+      },
+      "patron_need": "Healing spiritual alienation, transcending ego boundaries, and entering ecstatic divine love.",
+      "trade_off_passed": "Suffers from modern Western 'New Age' pop rewrites (Coleman Barks) that strip away its Islamic Quranic foundations.",
+      "learned_from_prev": "Transforms Li Bai's moonlit wine into sacred Sufi annihilation: the Reed Flute's lament ('Listen to the reed as it tells its tale, complaining of separation') becomes the universal cry of the human soul seeking reunion with the Divine."
+    },
+    {
+      "rank": 10,
+      "name": "The Divan of Hafez",
+      "poet": "Hafez of Shiraz",
+      "year": 1390,
+      "tradition_genre": "Persian Ghazal / Mystical Polysemy",
+      "archetype": "The Pinnacle of Lyric Ambiguity: Wine, Beloved, and the Infinite",
+      "meter_form": "Persian Ghazal (Couplets with Radif refrain and Qafia monorhyme)",
+      "language_origin": "Classical Persian",
+      "line_count": 4000,
+      "memetic_valuation_usd": 1500000000,
+      "tier": "Tier I: Monumental Epic, Sacred & Ancient Foundations",
+      "subproblem_scores": {
+        "s1_prosody": 99.0,
+        "s2_semantic": 98.5,
+        "s3_euphonic": 99.5,
+        "s4_consciousness": 99.5,
+        "s5_structural": 99.5,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.45,
+        "prosodic_entropy_bits": 3.58,
+        "enjambment_tension": 72.7,
+        "caesura_frequency_per_line": 1.39
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 94.6,
+        "alliteration_density": 33.2,
+        "semantic_density": 0.96,
+        "ostranenie_score": 95.9,
+        "affective_valence": 0.64,
+        "affective_arousal": 0.59
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.028,
+        "volatility_sigma": 0.025,
+        "expected_value_100yr_usd": 41689667631.0,
+        "expected_value_250yr_usd": 6108494585880.0,
+        "expected_value_500yr_usd": 2.487580407048679e+16,
+        "expected_value_1000yr_usd": 4.1253708543549814e+23,
+        "p05_stress_100yr_usd": 403719523.0,
+        "p95_bull_100yr_usd": 2547208466454.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Incomparable euphonic music in Persian; perfect balance of sacred and profane love; the definitive poetic oracle",
+        "bad": "Rhyme scheme and multilayered wordplay evaporate in English prose translations",
+        "fixable": "Dick Davis translations that balance formal Ghazal metrics with English lyrical grace",
+        "missing": "Continuous didactic argument"
+      },
+      "patron_need": "Navigating hypocrisy with ironic joy, celebrating the tavern of ruin, and seeking oracular divine guidance.",
+      "trade_off_passed": "Multivalence makes it notoriously difficult to translate without collapsing its intentional ambiguities into one flat meaning.",
+      "learned_from_prev": "Refines Rumi's ecstatic torrent into jewel-like Ghazal couplets where every word operates simultaneously on physical, romantic, political, and mystical levels: consulted as an oracle (Fal-e Hafez) by millions across centuries."
+    },
+    {
+      "rank": 11,
+      "name": "The Aeneid",
+      "poet": "Virgil",
+      "year": -19,
+      "tradition_genre": "Augustan Roman Epic / Pietas & Destiny",
+      "archetype": "The Melancholic Epic of Imperial Duty and the Tears of Things",
+      "meter_form": "Dactylic Hexameter",
+      "language_origin": "Classical Latin",
+      "line_count": 9896,
+      "memetic_valuation_usd": 1600000000,
+      "tier": "Tier I: Monumental Epic, Sacred & Ancient Foundations",
+      "subproblem_scores": {
+        "s1_prosody": 98.5,
+        "s2_semantic": 98.0,
+        "s3_euphonic": 99.0,
+        "s4_consciousness": 99.0,
+        "s5_structural": 99.0,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.92,
+        "prosodic_entropy_bits": 2.04,
+        "enjambment_tension": 59.9,
+        "caesura_frequency_per_line": 1.48
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 95.3,
+        "alliteration_density": 31.5,
+        "semantic_density": 0.95,
+        "ostranenie_score": 92.8,
+        "affective_valence": 0.39,
+        "affective_arousal": 0.5
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.028,
+        "volatility_sigma": 0.025,
+        "expected_value_100yr_usd": 44468978807.0,
+        "expected_value_250yr_usd": 6515727558272.0,
+        "expected_value_500yr_usd": 2.6534191008519244e+16,
+        "expected_value_1000yr_usd": 4.400395577978647e+23,
+        "p05_stress_100yr_usd": 430634158.0,
+        "p95_bull_100yr_usd": 2717022364217.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Dido's suicide in Book 4; the underworld descent in Book 6; Virgil's unsurpassed sonic Latin hexameter music",
+        "bad": "Virgil ordered the manuscript burned on his deathbed because he felt it was unfinished",
+        "fixable": "Augustus's decision to preserve it saved the foundation of all European epic poetry",
+        "missing": "A triumphant Hollywood happy ending (ends on Turnus's dying groan)"
+      },
+      "patron_need": "Enduring personal sacrifice for future generations, civic duty, and the bittersweet tragedy of civilization.",
+      "trade_off_passed": "Commissioned by Emperor Augustus; occasionally debated as imperial propaganda vs subversive anti-war grief.",
+      "learned_from_prev": "Bridges Homer's bronze battlefield into the philosophical crucible of imperial Rome: Aeneas carries his crippled father on his back from burning Troy, subordinating personal love (Dido) to crushing historical destiny ('lacrimae rerum')."
+    },
+    {
+      "rank": 12,
+      "name": "Metamorphoses",
+      "poet": "Ovid",
+      "year": 8,
+      "tradition_genre": "Roman Mythological Epic / Fluidity of Being",
+      "archetype": "The Golden Treasury of Classical Mythology and Eternal Flux",
+      "meter_form": "Dactylic Hexameter",
+      "language_origin": "Classical Latin",
+      "line_count": 11995,
+      "memetic_valuation_usd": 1550000000,
+      "tier": "Tier I: Monumental Epic, Sacred & Ancient Foundations",
+      "subproblem_scores": {
+        "s1_prosody": 98.0,
+        "s2_semantic": 97.5,
+        "s3_euphonic": 98.5,
+        "s4_consciousness": 98.0,
+        "s5_structural": 99.0,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.93,
+        "prosodic_entropy_bits": 2.06,
+        "enjambment_tension": 64.9,
+        "caesura_frequency_per_line": 1.4
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 97.5,
+        "alliteration_density": 32.3,
+        "semantic_density": 0.93,
+        "ostranenie_score": 91.2,
+        "affective_valence": 0.52,
+        "affective_arousal": 0.62
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.028,
+        "volatility_sigma": 0.025,
+        "expected_value_100yr_usd": 43079323219.0,
+        "expected_value_250yr_usd": 6312111072076.0,
+        "expected_value_500yr_usd": 2.5704997539503016e+16,
+        "expected_value_1000yr_usd": 4.262883216166814e+23,
+        "p05_stress_100yr_usd": 417176841.0,
+        "p95_bull_100yr_usd": 2632115415336.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Daedalus and Icarus; Apollo and Daphne; Pygmalion; dazzling narrative transitions and psychological empathy",
+        "bad": "Disturbing depictions of divine sexual violence can challenge contemporary ethical sensibilities",
+        "fixable": "Critical reading highlighting Ovid's condemnation of abusive autocratic power",
+        "missing": "Solemn moralizing judgment"
+      },
+      "patron_need": "The delight of boundless imagination, psychological metamorphosis, and liberation from rigid dogmatism.",
+      "trade_off_passed": "Banned and exiled by Augustus to the Black Sea for 'a poem and a mistake'.",
+      "learned_from_prev": "Counters Virgil's solemn imperial gravity with playful, subversive cosmic flux: Ovid chronicles 250 mythological transformations, proclaiming that 'all things change, nothing perishes'\u2014fueling Dante, Shakespeare, and modern art."
+    },
+    {
+      "rank": 13,
+      "name": "The Canterbury Tales (General Prologue)",
+      "poet": "Geoffrey Chaucer",
+      "year": 1400,
+      "tradition_genre": "Middle English Narrative Poetry / Social Panopticon",
+      "archetype": "The Birth of English Character Psychology and Vernacular Humanity",
+      "meter_form": "Iambic Pentameter Rhyming Couplets (Riding Rhyme)",
+      "language_origin": "Middle English",
+      "line_count": 17000,
+      "memetic_valuation_usd": 1400000000,
+      "tier": "Tier I: Monumental Epic, Sacred & Ancient Foundations",
+      "subproblem_scores": {
+        "s1_prosody": 97.5,
+        "s2_semantic": 98.0,
+        "s3_euphonic": 98.0,
+        "s4_consciousness": 99.0,
+        "s5_structural": 98.5,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.5,
+        "prosodic_entropy_bits": 3.48,
+        "enjambment_tension": 75.2,
+        "caesura_frequency_per_line": 1.45
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 93.9,
+        "alliteration_density": 31.7,
+        "semantic_density": 0.95,
+        "ostranenie_score": 94.5,
+        "affective_valence": 0.55,
+        "affective_arousal": 0.54
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.028,
+        "volatility_sigma": 0.025,
+        "expected_value_100yr_usd": 38910356456.0,
+        "expected_value_250yr_usd": 5701261613488.0,
+        "expected_value_500yr_usd": 2.321741713245434e+16,
+        "expected_value_1000yr_usd": 3.850346130731316e+23,
+        "p05_stress_100yr_usd": 376804888.0,
+        "p95_bull_100yr_usd": 2377394568690.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "The Wife of Bath's revolutionary feminist vitality; Chaucerian irony; immortal spring opening",
+        "bad": "Unfinished at Chaucer's death (planned 120 tales, completed 24)",
+        "fixable": "The completed tales stand as a comprehensive cross-section of medieval society",
+        "missing": "Modern polished linguistic spelling"
+      },
+      "patron_need": "Bawdy humor, social satire, deep human tolerance, and the vibrant music of early English speech.",
+      "trade_off_passed": "Middle English spelling and pronunciation require brief philological adjustment.",
+      "learned_from_prev": "Takes Ovid's storytelling panache and grounds it in late-medieval English realism: from the opening 'Whan that Aprill with his shoures soote', Chaucer convenes knights, millers, pardoner, and the Wife of Bath in a vivid democratic pilgrimage."
+    },
+    {
+      "rank": 14,
+      "name": "The Narrow Road to the Deep North (Oku no Hosomichi)",
+      "poet": "Matsuo Basho",
+      "year": 1694,
+      "tradition_genre": "Edo Period Haibun / Zen Wabi-Sabi Travelogue",
+      "archetype": "The Masterwork of Ephemeral Nature, Stillness and Enlightenment",
+      "meter_form": "Haibun (Poetic Prose interspersed with 5-7-5 Haiku)",
+      "language_origin": "Classical Japanese",
+      "line_count": 1500,
+      "memetic_valuation_usd": 1300000000,
+      "tier": "Tier I: Monumental Epic, Sacred & Ancient Foundations",
+      "subproblem_scores": {
+        "s1_prosody": 97.0,
+        "s2_semantic": 97.0,
+        "s3_euphonic": 99.0,
+        "s4_consciousness": 99.0,
+        "s5_structural": 100.0,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.59,
+        "prosodic_entropy_bits": 3.14,
+        "enjambment_tension": 95.1,
+        "caesura_frequency_per_line": 1.48
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 95.6,
+        "alliteration_density": 31.2,
+        "semantic_density": 0.94,
+        "ostranenie_score": 94.3,
+        "affective_valence": 0.55,
+        "affective_arousal": -0.65
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.028,
+        "volatility_sigma": 0.025,
+        "expected_value_100yr_usd": 36131045280.0,
+        "expected_value_250yr_usd": 5294028641096.0,
+        "expected_value_500yr_usd": 2.1559030194421884e+16,
+        "expected_value_1000yr_usd": 3.5753214071076505e+23,
+        "p05_stress_100yr_usd": 349890253.0,
+        "p95_bull_100yr_usd": 2207580670927.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "The absolute pinnacle of Haiku and Haibun form; timeless embodiment of sabi (patina of loneliness) and wabi",
+        "bad": "Western translations often struggle to capture the seasonal kigo (season word) resonance",
+        "fixable": "Sam Hamill translations that preserve the subtle Buddhist psychological underpinnings",
+        "missing": "Heroic bombast and loud conflict"
+      },
+      "patron_need": "Zen tranquility, unhurried contemplation of nature, and liberation from material attachment.",
+      "trade_off_passed": "Radical minimalism requires active reader co-creation to sense the vast resonance behind unsaid words.",
+      "learned_from_prev": "Strips Chaucer\u2019s sprawling social carnival down to the Zen traveler walking with straw sandals: Basho weaves prose and haiku together ('Stillness\u2014 / sinking into the rocks, / cicada's cry'), crystallizing the eternal in a single transient instant."
+    },
+    {
+      "rank": 15,
+      "name": "Ode to Aphrodite & Fragment 31",
+      "poet": "Sappho",
+      "year": -600,
+      "tradition_genre": "Archaic Greek Lyric / Erotic Vulnerability",
+      "archetype": "The Mother of Lyric Poetry: The Somatic Agony of Desire",
+      "meter_form": "Sapphic Stanza (Three 11-syllable lines + one 5-syllable Adonic)",
+      "language_origin": "Aeolic Greek",
+      "line_count": 300,
+      "memetic_valuation_usd": 1250000000,
+      "tier": "Tier I: Monumental Epic, Sacred & Ancient Foundations",
+      "subproblem_scores": {
+        "s1_prosody": 98.0,
+        "s2_semantic": 98.0,
+        "s3_euphonic": 99.5,
+        "s4_consciousness": 100.0,
+        "s5_structural": 98.0,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.4,
+        "prosodic_entropy_bits": 3.6,
+        "enjambment_tension": 75.5,
+        "caesura_frequency_per_line": 1.35
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 98.0,
+        "alliteration_density": 33.1,
+        "semantic_density": 0.93,
+        "ostranenie_score": 94.0,
+        "affective_valence": 0.59,
+        "affective_arousal": 0.53
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.028,
+        "volatility_sigma": 0.025,
+        "expected_value_100yr_usd": 34741389693.0,
+        "expected_value_250yr_usd": 5090412154900.0,
+        "expected_value_500yr_usd": 2.072983672540566e+16,
+        "expected_value_1000yr_usd": 3.437809045295818e+23,
+        "p05_stress_100yr_usd": 336432936.0,
+        "p95_bull_100yr_usd": 2122673722045.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Anne Carson's brackets ('If Not, Winter') render the physical loss of lines as an aesthetic haunting",
+        "bad": "Fragmentary survival leaves vast majority of her nine books forever lost",
+        "fixable": "The surviving fragments burn with more intensity than most entire libraries",
+        "missing": "Complete preserved book manuscripts"
+      },
+      "patron_need": "Unapologetic erotic honesty, emotional vulnerability, and pure musical lyricism.",
+      "trade_off_passed": "Over 95% of Sappho's corpus was lost or burned; survives only as fragmentary papyrus scraps rescued from Egyptian mummy cartonnage.",
+      "learned_from_prev": "Precedes Basho by over two millennia, inventing the subjective lyric self: in Fragment 31, observing her beloved sitting with a man induces physical tachycardia ('my tongue breaks, a thin flame runs beneath my skin, my ears ring'), capturing love as somatic shock."
+    },
+    {
+      "rank": 16,
+      "name": "Meghaduta (The Cloud Messenger)",
+      "poet": "Kalidasa",
+      "year": 400,
+      "tradition_genre": "Classical Sanskrit Kavya / Romantic Longing",
+      "archetype": "The Supreme Jewel of Sanskrit Poetic Landscape and Erotic Exile",
+      "meter_form": "Mandakranta Meter (Slow, dignified 17-syllable quatrains)",
+      "language_origin": "Classical Sanskrit",
+      "line_count": 111,
+      "memetic_valuation_usd": 1100000000,
+      "tier": "Tier I: Monumental Epic, Sacred & Ancient Foundations",
+      "subproblem_scores": {
+        "s1_prosody": 98.5,
+        "s2_semantic": 97.5,
+        "s3_euphonic": 100.0,
+        "s4_consciousness": 99.0,
+        "s5_structural": 99.0,
+        "s6_durability": 99.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.47,
+        "prosodic_entropy_bits": 3.55,
+        "enjambment_tension": 77.6,
+        "caesura_frequency_per_line": 1.37
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 97.8,
+        "alliteration_density": 32.9,
+        "semantic_density": 0.94,
+        "ostranenie_score": 92.7,
+        "affective_valence": 0.45,
+        "affective_arousal": 0.36
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.028,
+        "volatility_sigma": 0.025,
+        "expected_value_100yr_usd": 30572422929.0,
+        "expected_value_250yr_usd": 4479562696312.0,
+        "expected_value_500yr_usd": 1.824225631835698e+16,
+        "expected_value_1000yr_usd": 3.02527195986032e+23,
+        "p05_stress_100yr_usd": 296060984.0,
+        "p95_bull_100yr_usd": 1867952875399.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "The Mandakranta meter mimics the majestic swelling movement of monsoon rain clouds; lush nature imagery",
+        "bad": "Virtually untranslatable into Western rhyming verse without bloating Kalidasa's precise Sanskrit compounds",
+        "fixable": "Modern poetic translations by Chandra Rajan that honor the ecological and emotional topography",
+        "missing": "Modern street-level realism"
+      },
+      "patron_need": "Sensuous geographical immersion, passionate fidelity in separation (Vipralambha Shringara), and Sanskrit phonetic opulence.",
+      "trade_off_passed": "Incredibly ornate Sanskrit compounds demand patient decoding of multilayered alamkara (poetic ornaments).",
+      "learned_from_prev": "Closes Tier I by merging Sappho's intimate romantic ache with the grand geographical geography of India: a banished yaksha convinces a passing monsoon cloud to carry a love message northward across mountain peaks, rivers, and temples to his weeping wife in Alaka."
+    },
+    {
+      "rank": 17,
+      "name": "The Waste Land",
+      "poet": "T.S. Eliot",
+      "year": 1922,
+      "tradition_genre": "High Modernism / Polyphonic Mythic Collage",
+      "archetype": "The Definitive Monument of 20th-Century Spiritual & Cultural Disillusionment",
+      "meter_form": "Free Verse Collage with Iambic & Alliterative Fragments",
+      "language_origin": "English (with Latin, Greek, French, German, Italian & Sanskrit)",
+      "line_count": 433,
+      "memetic_valuation_usd": 1400000000,
+      "tier": "Tier II: Romantic Sublime & Modernist Breakthroughs",
+      "subproblem_scores": {
+        "s1_prosody": 99.0,
+        "s2_semantic": 98.5,
+        "s3_euphonic": 99.5,
+        "s4_consciousness": 98.5,
+        "s5_structural": 100.0,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.44,
+        "prosodic_entropy_bits": 3.5,
+        "enjambment_tension": 85.2,
+        "caesura_frequency_per_line": 1.46
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 96.9,
+        "alliteration_density": 30.5,
+        "semantic_density": 0.91,
+        "ostranenie_score": 93.7,
+        "affective_valence": 0.42,
+        "affective_arousal": 0.51
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.034,
+        "volatility_sigma": 0.04,
+        "expected_value_100yr_usd": 234594543771.0,
+        "expected_value_250yr_usd": 508865155998437.0,
+        "expected_value_500yr_usd": 1.8495981927808116e+20,
+        "expected_value_1000yr_usd": 2.4435810533843174e+31,
+        "p05_stress_100yr_usd": 58219917.0,
+        "p95_bull_100yr_usd": 169034595214246.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Pound's ruthless editing ('il miglior fabbro') created a cinematic jump-cut masterpiece; immortal opening ('April is the cruellest month')",
+        "bad": "Extensive learned citations can make uninitiated readers feel alienated",
+        "fixable": "Listening to Eliot's own solemn, hypnotic audio recording reveals its incantatory musicality",
+        "missing": "Simple Romantic linear sentiment"
+      },
+      "patron_need": "Confronting cultural collapse, existential drought, spiritual sterility, and seeking regeneration through sacrifice.",
+      "trade_off_passed": "Dense multilingual allusions and obscure footnotes initially branded it an academic puzzle.",
+      "learned_from_prev": "Shatters the ancient coherence of Tier I in the wake of World War I: 'These fragments I have shored against my ruins.' Eliot splices Grail legends, London bank commuters, tarot cards, and the Upanishads ('Datta, Dayadhvam, Damyata') into the supreme modernist collage."
+    },
+    {
+      "rank": 18,
+      "name": "Songs of Innocence and of Experience ('The Tyger' / 'London')",
+      "poet": "William Blake",
+      "year": 1794,
+      "tradition_genre": "Romantic Prophetic Illumination / Dialectic of Soul",
+      "archetype": "The Fiercest Visionary Interrogation of Divine Creation and Urban Oppression",
+      "meter_form": "Trochaic Tetrameter ('The Tyger') / Iambic Tetrameter ('London')",
+      "language_origin": "English",
+      "line_count": 500,
+      "memetic_valuation_usd": 1200000000,
+      "tier": "Tier II: Romantic Sublime & Modernist Breakthroughs",
+      "subproblem_scores": {
+        "s1_prosody": 98.0,
+        "s2_semantic": 99.0,
+        "s3_euphonic": 99.0,
+        "s4_consciousness": 100.0,
+        "s5_structural": 99.5,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.4,
+        "prosodic_entropy_bits": 3.75,
+        "enjambment_tension": 97.6,
+        "caesura_frequency_per_line": 1.34
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 94.3,
+        "alliteration_density": 30.4,
+        "semantic_density": 0.95,
+        "ostranenie_score": 93.9,
+        "affective_valence": 0.39,
+        "affective_arousal": 0.5
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.034,
+        "volatility_sigma": 0.04,
+        "expected_value_100yr_usd": 201081037518.0,
+        "expected_value_250yr_usd": 436170133712946.0,
+        "expected_value_500yr_usd": 1.58536987952641e+20,
+        "expected_value_1000yr_usd": 2.0944980457579862e+31,
+        "p05_stress_100yr_usd": 49902786.0,
+        "p95_bull_100yr_usd": 144886795897926.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Incomparable rhythmic hammer-blows in 'The Tyger'; devastating social critique in 'London'; hand-engraved illuminated plates",
+        "bad": "Deeper prophetic books (Jerusalem, Vala) become impenetrable without Blakean mythological decoders",
+        "fixable": "Appreciating the 'Songs' as self-contained dialectical mirrors of the human psyche",
+        "missing": "Dry academic neutrality"
+      },
+      "patron_need": "Uncompromising moral fury against institutional cruelty, childlike spiritual innocence, and visionary awe.",
+      "trade_off_passed": "His complex private mythological pantheon (Urizen, Los, Enitharmon) baffled his contemporaries.",
+      "learned_from_prev": "Precedes Eliot's ruined city by a century, discovering the 'mind-forg'd manacles' of Industrial London: in 'The Tyger', Blake asks the ultimate metaphysical question\u2014'Did he who made the Lamb make thee?'"
+    },
+    {
+      "rank": 19,
+      "name": "The Great Odes (Nightingale, Grecian Urn, To Autumn)",
+      "poet": "John Keats",
+      "year": 1819,
+      "tradition_genre": "Second-Generation Romanticism / Negative Capability",
+      "archetype": "The Sensuous Summit of English Lyric Beauty and Tragic Transience",
+      "meter_form": "Keatsian 10-line Ode Stanza (Iambic Pentameter ABABCDECDE)",
+      "language_origin": "English",
+      "line_count": 250,
+      "memetic_valuation_usd": 1350000000,
+      "tier": "Tier II: Romantic Sublime & Modernist Breakthroughs",
+      "subproblem_scores": {
+        "s1_prosody": 99.5,
+        "s2_semantic": 97.5,
+        "s3_euphonic": 100.0,
+        "s4_consciousness": 99.5,
+        "s5_structural": 100.0,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.38,
+        "prosodic_entropy_bits": 3.8,
+        "enjambment_tension": 92.8,
+        "caesura_frequency_per_line": 1.45
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 98.1,
+        "alliteration_density": 31.1,
+        "semantic_density": 0.92,
+        "ostranenie_score": 91.9,
+        "affective_valence": 0.36,
+        "affective_arousal": 0.49
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.034,
+        "volatility_sigma": 0.04,
+        "expected_value_100yr_usd": 226216167208.0,
+        "expected_value_250yr_usd": 490691400427064.0,
+        "expected_value_500yr_usd": 1.7835411144672113e+20,
+        "expected_value_1000yr_usd": 2.3563103014777346e+31,
+        "p05_stress_100yr_usd": 56140634.0,
+        "p95_bull_100yr_usd": 162997645385166.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Unsurpassed tactile and auditory imagery ('beaded bubbles winking at the brim'); 'To Autumn' is the most perfect poem in English",
+        "bad": "Philosophical ambiguity of the urn's final speech continues to divide critics",
+        "fixable": "The ambiguity is precisely Keats's point: art does not argue, it consoles and endures",
+        "missing": "Cynical modern irony"
+      },
+      "patron_need": "Pure sensory ecstasy, confronting inevitable mortality through art, and the serene acceptance of autumn's ripeness.",
+      "trade_off_passed": "Intense romantic density can feel almost intoxicatingly lush without disciplined slow reading.",
+      "learned_from_prev": "Written in a miraculous burst in spring 1819 as tuberculosis consumed him at age 23: Keats embraces 'Negative Capability'\u2014dwelling in uncertainties and mysteries without irritable reaching after fact\u2014culminating in the immortal 'Beauty is truth, truth beauty.'"
+    },
+    {
+      "rank": 20,
+      "name": "Song of Myself (Leaves of Grass)",
+      "poet": "Walt Whitman",
+      "year": 1855,
+      "tradition_genre": "American Transcendentalism / Democratic Free Verse",
+      "archetype": "The Cosmic Expansion of the Democratic Self and Universal Inclusivity",
+      "meter_form": "Free Verse / Long-Breathed Biblical Cadence & Anaphora",
+      "language_origin": "American English",
+      "line_count": 1346,
+      "memetic_valuation_usd": 1500000000,
+      "tier": "Tier II: Romantic Sublime & Modernist Breakthroughs",
+      "subproblem_scores": {
+        "s1_prosody": 97.0,
+        "s2_semantic": 100.0,
+        "s3_euphonic": 98.5,
+        "s4_consciousness": 99.0,
+        "s5_structural": 99.0,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.55,
+        "prosodic_entropy_bits": 3.21,
+        "enjambment_tension": 72.1,
+        "caesura_frequency_per_line": 1.32
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 95.9,
+        "alliteration_density": 32.1,
+        "semantic_density": 0.96,
+        "ostranenie_score": 96.5,
+        "affective_valence": 0.88,
+        "affective_arousal": 0.8
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.034,
+        "volatility_sigma": 0.04,
+        "expected_value_100yr_usd": 251351296897.0,
+        "expected_value_250yr_usd": 545212667141182.0,
+        "expected_value_500yr_usd": 1.9817123494080125e+20,
+        "expected_value_1000yr_usd": 2.618122557197483e+31,
+        "p05_stress_100yr_usd": 62378483.0,
+        "p95_bull_100yr_usd": 181108494872407.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Invented modern free verse; revolutionary embrace of sexuality, mechanics, slaves, and prostitutes into a single divine body",
+        "bad": "Uncurated lists of trades and professions can feel baggy in the middle sections",
+        "fixable": "Read aloud with respiratory diaphragm projection to feel the oceanic tidal wave of breath",
+        "missing": "Strict metric rhyme constraints"
+      },
+      "patron_need": "Radical democratic equality, bodily celebration, overcoming death as grass growing from graves, and cosmic optimism.",
+      "trade_off_passed": "Sprawling, unfiltered catalogues can test readers looking for tight compression.",
+      "learned_from_prev": "Shatters Keats's aristocratic stanzaic constraints to birth American free verse: 'I celebrate myself, and sing myself, / And what I assume you shall assume, / For every atom belonging to me as good belongs to you.'"
+    },
+    {
+      "rank": 21,
+      "name": "Selected Poems ('Because I could not stop for Death' / 280 / 465)",
+      "poet": "Emily Dickinson",
+      "year": 1862,
+      "tradition_genre": "American Transcendentalism / Dash Poetics of the Infinite",
+      "archetype": "The Microscopic Quantum Explosion of the Soul and Infinity",
+      "meter_form": "Common Meter / Hymn Meter (Alternating 8 and 6 syllables) with Slant Rhyme & Dashes",
+      "language_origin": "American English",
+      "line_count": 1789,
+      "memetic_valuation_usd": 1450000000,
+      "tier": "Tier II: Romantic Sublime & Modernist Breakthroughs",
+      "subproblem_scores": {
+        "s1_prosody": 99.0,
+        "s2_semantic": 98.0,
+        "s3_euphonic": 98.5,
+        "s4_consciousness": 100.0,
+        "s5_structural": 100.0,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.91,
+        "prosodic_entropy_bits": 2.13,
+        "enjambment_tension": 68.7,
+        "caesura_frequency_per_line": 1.31
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 95.8,
+        "alliteration_density": 31.2,
+        "semantic_density": 0.98,
+        "ostranenie_score": 93.1,
+        "affective_valence": -0.15,
+        "affective_arousal": 0.35
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.034,
+        "volatility_sigma": 0.04,
+        "expected_value_100yr_usd": 242972920334.0,
+        "expected_value_250yr_usd": 527038911569810.0,
+        "expected_value_500yr_usd": 1.9156552710944122e+20,
+        "expected_value_1000yr_usd": 2.5308518052909e+31,
+        "p05_stress_100yr_usd": 60299200.0,
+        "p95_bull_100yr_usd": 175071545043327.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Genius use of the dash as a breath and abyss; chilling civility of Death as a polite gentleman in a carriage; revolutionary slant rhymes",
+        "bad": "Repetitive hymn-meter tune can become monotonous if read like conventional church hymns",
+        "fixable": "Restored un-normalized manuscript editions (Thomas H. Johnson, R.W. Franklin) preserving capitalization and dashes",
+        "missing": "Public political oratory"
+      },
+      "patron_need": "Probing death, psychological terror ('I felt a Funeral, in my Brain'), cognitive vertigo, and the ecstasy of solitude.",
+      "trade_off_passed": "Her 1,800 poems were sewn into secret fascicles, unpublished during her lifetime, initially edited into conventional grammar by early publishers.",
+      "learned_from_prev": "The diametric anti-Whitman: while Whitman roamed the open continent, Dickinson stayed in her second-floor bedroom in Amherst, compressing eternity into hymn meters, slant rhymes, and dashes that function as metaphysical trapdoors."
+    },
+    {
+      "rank": 22,
+      "name": "The Second Coming & Sailing to Byzantium",
+      "poet": "William Butler Yeats",
+      "year": 1920,
+      "tradition_genre": "Irish Modernism / Esoteric Symbolism",
+      "archetype": "The Terrifying Prophecy of Modern Apocalypse and Transcendent Artifice",
+      "meter_form": "Rough Blank Verse / Ottava Rima",
+      "language_origin": "English / Hiberno-English",
+      "line_count": 150,
+      "memetic_valuation_usd": 1300000000,
+      "tier": "Tier II: Romantic Sublime & Modernist Breakthroughs",
+      "subproblem_scores": {
+        "s1_prosody": 98.5,
+        "s2_semantic": 99.0,
+        "s3_euphonic": 99.0,
+        "s4_consciousness": 99.5,
+        "s5_structural": 99.5,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.81,
+        "prosodic_entropy_bits": 2.51,
+        "enjambment_tension": 73.8,
+        "caesura_frequency_per_line": 1.42
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 95.9,
+        "alliteration_density": 30.6,
+        "semantic_density": 0.92,
+        "ostranenie_score": 96.1,
+        "affective_valence": 0.6,
+        "affective_arousal": 0.55
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.034,
+        "volatility_sigma": 0.04,
+        "expected_value_100yr_usd": 217837790644.0,
+        "expected_value_250yr_usd": 472517644855692.0,
+        "expected_value_500yr_usd": 1.7174840361536107e+20,
+        "expected_value_1000yr_usd": 2.269039549571152e+31,
+        "p05_stress_100yr_usd": 54061352.0,
+        "p95_bull_100yr_usd": 156960695556086.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "The 'rough beast slouching towards Bethlehem to be born' is the most cited prophetic image in modern politics; Byzantine goldsmith imagery",
+        "bad": "Esoteric automatic-writing theories behind the historical gyres",
+        "fixable": "Reading the poems as pure rhetorical mythology rather than literal occult doctrine",
+        "missing": "Everyday domestic warmth"
+      },
+      "patron_need": "Understanding political disintegration, cultural collapse, aging bodily decay, and fleeing to the eternal golden bird of Byzantium.",
+      "trade_off_passed": "Yeats's occult system of gyres and phases of the moon (A Vision) can distract from his raw rhetorical power.",
+      "learned_from_prev": "Foresees the geopolitical horrors of the 20th century in 22 chilling lines: 'Things fall apart; the centre cannot hold; / Mere anarchy is loosed upon the world... The best lack all conviction, while the worst / Are full of passionate intensity.'"
+    },
+    {
+      "rank": 23,
+      "name": "Duino Elegies & Sonnets to Orpheus",
+      "poet": "Rainer Maria Rilke",
+      "year": 1923,
+      "tradition_genre": "German Philosophical Modernism / Angelic Sublime",
+      "archetype": "The Most Sublime Existential Investigation of Being, Praise and Transformation",
+      "meter_form": "Free Dactylic Hexameter / Modern Elegiac Distichs / German Sonnets",
+      "language_origin": "German",
+      "line_count": 1500,
+      "memetic_valuation_usd": 1250000000,
+      "tier": "Tier II: Romantic Sublime & Modernist Breakthroughs",
+      "subproblem_scores": {
+        "s1_prosody": 99.5,
+        "s2_semantic": 97.5,
+        "s3_euphonic": 99.5,
+        "s4_consciousness": 100.0,
+        "s5_structural": 99.5,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.97,
+        "prosodic_entropy_bits": 1.91,
+        "enjambment_tension": 59.2,
+        "caesura_frequency_per_line": 1.44
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 96.2,
+        "alliteration_density": 30.9,
+        "semantic_density": 0.89,
+        "ostranenie_score": 92.8,
+        "affective_valence": 0.51,
+        "affective_arousal": 0.54
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.034,
+        "volatility_sigma": 0.04,
+        "expected_value_100yr_usd": 209459414081.0,
+        "expected_value_250yr_usd": 454343889284319.0,
+        "expected_value_500yr_usd": 1.6514269578400104e+20,
+        "expected_value_1000yr_usd": 2.181768797664569e+31,
+        "p05_stress_100yr_usd": 51982069.0,
+        "p95_bull_100yr_usd": 150923745727006.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "The Tenth Elegy's City of Pain; the unforgettable Orphic imperative 'You must change your life' (Archaic Torso); supreme existential solace",
+        "bad": "Highly demanding metaphysical vocabulary (Dasein, Umschlag, das Offene)",
+        "fixable": "Stephen Mitchell or Edward Snow translations that capture both Rilke's sonic music and conceptual sharpness",
+        "missing": "Street-level colloquial humor"
+      },
+      "patron_need": "Transformation of suffering, confronting mortal transience, learning to love without possession, and absolute presence ('Hiersein ist herrlich').",
+      "trade_off_passed": "Intensely abstract German syntax requires dedicated philosophical immersion.",
+      "learned_from_prev": "Completed in a single torrential burst at the Castle of Muzot: Rilke confronts the terrifying Angel who would crush us with beauty ('For beauty is nothing but the beginning of terror, which we are barely able to endure'). Concludes that our sole duty is Praise."
+    },
+    {
+      "rank": 24,
+      "name": "Les Fleurs du mal (Correspondances / L'Albatros)",
+      "poet": "Charles Baudelaire",
+      "year": 1857,
+      "tradition_genre": "French Symbolism / Modern Urban Spleen",
+      "archetype": "The Watershed that Birthed Modern Poetry from the Gutter and the Ideal",
+      "meter_form": "Classical French Alexandrine (12-syllable couplets / Sonnets)",
+      "language_origin": "French",
+      "line_count": 3000,
+      "memetic_valuation_usd": 1200000000,
+      "tier": "Tier II: Romantic Sublime & Modernist Breakthroughs",
+      "subproblem_scores": {
+        "s1_prosody": 98.5,
+        "s2_semantic": 97.5,
+        "s3_euphonic": 100.0,
+        "s4_consciousness": 99.0,
+        "s5_structural": 99.0,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.96,
+        "prosodic_entropy_bits": 2.07,
+        "enjambment_tension": 61.8,
+        "caesura_frequency_per_line": 1.39
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 97.6,
+        "alliteration_density": 31.3,
+        "semantic_density": 0.95,
+        "ostranenie_score": 94.3,
+        "affective_valence": 0.51,
+        "affective_arousal": 0.51
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.034,
+        "volatility_sigma": 0.04,
+        "expected_value_100yr_usd": 201081037518.0,
+        "expected_value_250yr_usd": 436170133712946.0,
+        "expected_value_500yr_usd": 1.58536987952641e+20,
+        "expected_value_1000yr_usd": 2.0944980457579862e+31,
+        "p05_stress_100yr_usd": 49902786.0,
+        "p95_bull_100yr_usd": 144886795897926.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Invented modern urban poetic consciousness; flawless classical Alexandrine music; pioneered Symbolist synesthesia",
+        "bad": "Misogynistic and morbid excesses reflect 19th-century dandy disillusionment",
+        "fixable": "Richard Howard's modern translation restores the sharp intellectual bite behind the decadent surface",
+        "missing": "Innocent rural simplicity"
+      },
+      "patron_need": "Embracing the dark, decadent shadows of the human psyche, overcoming modern 'Spleen', and finding synesthetic 'Correspondances'.",
+      "trade_off_passed": "Banned poems (Les \u00c9paves) were suppressed by French courts until 1949.",
+      "learned_from_prev": "Rejects pastoral Romantic nature in favor of the paved Parisian asphalt: Baudelaire invents the poet as fl\u00e2neur, discovering beauty in decomposing corpses, opium, brothels, and metropolitan alienation, prosecuted for obscenity in 1857."
+    },
+    {
+      "rank": 25,
+      "name": "Ozymandias & Ode to the West Wind",
+      "poet": "Percy Bysshe Shelley",
+      "year": 1818,
+      "tradition_genre": "Second-Generation Romanticism / Radical Politics",
+      "archetype": "The Ultimate Epitaph on the Hubris of Tyrants and the Wind of Revolution",
+      "meter_form": "Modified Petrarchan Sonnet / Terza Rima Sonnet Stanzas",
+      "language_origin": "English",
+      "line_count": 150,
+      "memetic_valuation_usd": 1150000000,
+      "tier": "Tier II: Romantic Sublime & Modernist Breakthroughs",
+      "subproblem_scores": {
+        "s1_prosody": 98.0,
+        "s2_semantic": 98.5,
+        "s3_euphonic": 99.0,
+        "s4_consciousness": 99.0,
+        "s5_structural": 99.5,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.95,
+        "prosodic_entropy_bits": 1.95,
+        "enjambment_tension": 57.8,
+        "caesura_frequency_per_line": 1.32
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 95.8,
+        "alliteration_density": 31.1,
+        "semantic_density": 0.93,
+        "ostranenie_score": 94.8,
+        "affective_valence": 0.35,
+        "affective_arousal": 0.37
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.034,
+        "volatility_sigma": 0.04,
+        "expected_value_100yr_usd": 192702660955.0,
+        "expected_value_250yr_usd": 417996378141573.0,
+        "expected_value_500yr_usd": 1.5193128012128095e+20,
+        "expected_value_1000yr_usd": 2.0072272938514037e+31,
+        "p05_stress_100yr_usd": 47823503.0,
+        "p95_bull_100yr_usd": 138849846068845.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Perfect dramatic irony of the shattered pedestal inscription; volcanic rushing tempo of the West Wind in Terza Rima",
+        "bad": "Can border on shrill rhetorical over-exaltation in lesser political pamphlets",
+        "fixable": "Focusing on the diamond-hard restraint of Ozymandias",
+        "missing": "Intimate conversational understatement"
+      },
+      "patron_need": "Perspective on authoritarian arrogance, faith in political transformation ('If Winter comes, can Spring be far behind?'), and breathtaking rhythmic momentum.",
+      "trade_off_passed": "Shelley's high-flown philosophical idealism was dismissed by Victorian pragmatists as 'ineffectual angel beating his wings.'",
+      "learned_from_prev": "Takes Baudelaire's decay and directs it with razor sharpness at authoritarian power: two vast and trunkless legs of stone in the desert where 'Nothing beside remains. Round the decay / Of that colossal Wreck, boundless and bare / The lone and level sands stretch far away.'"
+    },
+    {
+      "rank": 26,
+      "name": "The Prelude & Tintern Abbey",
+      "poet": "William Wordsworth",
+      "year": 1798,
+      "tradition_genre": "First-Generation Romanticism / Pantheistic Memory",
+      "archetype": "The Epic Growth of a Poet's Mind: Emotion Recollected in Tranquillity",
+      "meter_form": "Blank Verse (Unrhymed Iambic Pentameter)",
+      "language_origin": "English",
+      "line_count": 8500,
+      "memetic_valuation_usd": 1200000000,
+      "tier": "Tier II: Romantic Sublime & Modernist Breakthroughs",
+      "subproblem_scores": {
+        "s1_prosody": 97.5,
+        "s2_semantic": 97.0,
+        "s3_euphonic": 98.5,
+        "s4_consciousness": 99.0,
+        "s5_structural": 98.5,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.78,
+        "prosodic_entropy_bits": 2.51,
+        "enjambment_tension": 82.2,
+        "caesura_frequency_per_line": 1.39
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 93.9,
+        "alliteration_density": 30.4,
+        "semantic_density": 0.94,
+        "ostranenie_score": 93.9,
+        "affective_valence": 0.48,
+        "affective_arousal": 0.35
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.034,
+        "volatility_sigma": 0.04,
+        "expected_value_100yr_usd": 201081037518.0,
+        "expected_value_250yr_usd": 436170133712946.0,
+        "expected_value_500yr_usd": 1.58536987952641e+20,
+        "expected_value_1000yr_usd": 2.0944980457579862e+31,
+        "p05_stress_100yr_usd": 49902786.0,
+        "p95_bull_100yr_usd": 144886795897926.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "The skating scene and boat-stealing episode in The Prelude; sublime meditative blank verse in Tintern Abbey",
+        "bad": "The 1850 edition suffers from cautious Victorian ecclesiastical softening",
+        "fixable": "Insist on the radical 1805 two-part and 1805 13-book versions of The Prelude",
+        "missing": "Rapid urban tempo"
+      },
+      "patron_need": "Psychological grounding, restoring the soul through immersion in nature, and finding dignity in the common speech of ordinary people.",
+      "trade_off_passed": "Wordsworth's later revisions increasingly drained his youthful revolutionary republican fire.",
+      "learned_from_prev": "Grounds Shelley's revolutionary storm in psychological memory and Lake District stillness: Wordsworth discovers the divine presence 'whose dwelling is the light of setting suns', replacing epic wars with the sanctification of everyday human consciousness."
+    },
+    {
+      "rank": 27,
+      "name": "A Season in Hell (Une Saison en Enfer) & The Drunken Boat",
+      "poet": "Arthur Rimbaud",
+      "year": 1873,
+      "tradition_genre": "French Symbolist Rebellion / Prose Poetry",
+      "archetype": "The Wild Teenage Demolition of European Morality and Invention of Modernity",
+      "meter_form": "Revolutionary French Prose Poetry & Alexandrines",
+      "language_origin": "French",
+      "line_count": 1200,
+      "memetic_valuation_usd": 1050000000,
+      "tier": "Tier II: Romantic Sublime & Modernist Breakthroughs",
+      "subproblem_scores": {
+        "s1_prosody": 98.0,
+        "s2_semantic": 99.0,
+        "s3_euphonic": 99.5,
+        "s4_consciousness": 99.0,
+        "s5_structural": 99.0,
+        "s6_durability": 99.5
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.97,
+        "prosodic_entropy_bits": 1.96,
+        "enjambment_tension": 52.5,
+        "caesura_frequency_per_line": 1.45
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 96.5,
+        "alliteration_density": 31.8,
+        "semantic_density": 0.93,
+        "ostranenie_score": 93.8,
+        "affective_valence": 0.46,
+        "affective_arousal": 0.53
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.034,
+        "volatility_sigma": 0.04,
+        "expected_value_100yr_usd": 175945907828.0,
+        "expected_value_250yr_usd": 381648866998828.0,
+        "expected_value_500yr_usd": 1.3871986445856088e+20,
+        "expected_value_1000yr_usd": 1.832685790038238e+31,
+        "p05_stress_100yr_usd": 43664938.0,
+        "p95_bull_100yr_usd": 126775946410685.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "The Drunken Boat's hallucinatory voyage down uncharted rivers; explosive poetic integrity; redefined prose poetry forever",
+        "bad": "Abrupt abandonment of poetry to become an arms dealer and trader in Africa created an enigmatic myth that often eclipses the text",
+        "fixable": "Reading the text as a completed, closed arc of linguistic exhaustion and farewell to art",
+        "missing": "Mature middle-aged reflection"
+      },
+      "patron_need": "Rejection of bourgeois conformity, raw existential rebellion, and the fiery birth of surrealist vision.",
+      "trade_off_passed": "Feverish, fragmented prose style rejects traditional narrative structure.",
+      "learned_from_prev": "Shatters Wordsworth's serene moral peace: written at age 18 after his tempestuous affair with Verlaine, Rimbaud proclaims that the poet must become a seer through a 'long, immense and reasoned derangement of all the senses,' before abandoning poetry forever at 20."
+    },
+    {
+      "rank": 28,
+      "name": "Poet in New York & Romancero Gitano ('The Duende')",
+      "poet": "Federico Garc\u00eda Lorca",
+      "year": 1930,
+      "tradition_genre": "Spanish Surrealism / Andalusian Deep Song (Canto Jondo)",
+      "archetype": "The Conjunction of Gypsy Deep Song, Wall Street Mechanical Horror and Duende",
+      "meter_form": "Spanish Romance Octosyllables & Surrealist Free Verse",
+      "language_origin": "Spanish",
+      "line_count": 2200,
+      "memetic_valuation_usd": 1100000000,
+      "tier": "Tier II: Romantic Sublime & Modernist Breakthroughs",
+      "subproblem_scores": {
+        "s1_prosody": 98.0,
+        "s2_semantic": 99.5,
+        "s3_euphonic": 99.5,
+        "s4_consciousness": 99.5,
+        "s5_structural": 99.0,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.43,
+        "prosodic_entropy_bits": 3.56,
+        "enjambment_tension": 72.2,
+        "caesura_frequency_per_line": 1.33
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 97.1,
+        "alliteration_density": 30.5,
+        "semantic_density": 0.94,
+        "ostranenie_score": 95.0,
+        "affective_valence": 0.5,
+        "affective_arousal": 0.6
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.034,
+        "volatility_sigma": 0.04,
+        "expected_value_100yr_usd": 184324284391.0,
+        "expected_value_250yr_usd": 399822622570200.0,
+        "expected_value_500yr_usd": 1.4532557228992093e+20,
+        "expected_value_1000yr_usd": 1.9199565419448209e+31,
+        "p05_stress_100yr_usd": 45744221.0,
+        "p95_bull_100yr_usd": 132812896239765.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "The lecture on 'Play and Theory of the Duende' is essential aesthetic theory; stunning surrealist imagery in 'Ode to Walt Whitman'",
+        "bad": "Nightmarish imagery in Poet in New York can shock readers expecting pastoral flamenco romanticism",
+        "fixable": "Recognizing it as Lorca's heroic solidarity with the victims of capitalist industrial alienation",
+        "missing": "Comforting easy bourgeois resolution"
+      },
+      "patron_need": "Visceral confrontation with death, solidarity with marginalized African-Americans, and electrified surrealist passion.",
+      "trade_off_passed": "Murdered by fascist falangist militia at the outbreak of the Spanish Civil War in 1936.",
+      "learned_from_prev": "Bridges Rimbaud\u2019s derangement directly into the 1929 Wall Street Crash: Lorca witnesses the mechanical butchery of Manhattan, arming his verse with 'Duende'\u2014the mysterious dark power of death and blood that animates authentic art."
+    },
+    {
+      "rank": 29,
+      "name": "The Rime of the Ancient Mariner & Kubla Khan",
+      "poet": "Samuel Taylor Coleridge",
+      "year": 1798,
+      "tradition_genre": "Romantic Gothic Ballad / Opium Vision",
+      "archetype": "The Primal Parable of Ecological Sin, Penance and Dream Architecture",
+      "meter_form": "Traditional Ballad Stanza (4-3-4-3 Iambic with ABCB/ABABB Schemes)",
+      "language_origin": "English",
+      "line_count": 680,
+      "memetic_valuation_usd": 1080000000,
+      "tier": "Tier II: Romantic Sublime & Modernist Breakthroughs",
+      "subproblem_scores": {
+        "s1_prosody": 97.5,
+        "s2_semantic": 98.5,
+        "s3_euphonic": 99.5,
+        "s4_consciousness": 98.5,
+        "s5_structural": 99.5,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.91,
+        "prosodic_entropy_bits": 2.19,
+        "enjambment_tension": 74.2,
+        "caesura_frequency_per_line": 1.47
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 97.2,
+        "alliteration_density": 30.9,
+        "semantic_density": 0.92,
+        "ostranenie_score": 94.1,
+        "affective_valence": 0.35,
+        "affective_arousal": 0.51
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.034,
+        "volatility_sigma": 0.04,
+        "expected_value_100yr_usd": 180972933766.0,
+        "expected_value_250yr_usd": 392553120341651.0,
+        "expected_value_500yr_usd": 1.426832891573769e+20,
+        "expected_value_1000yr_usd": 1.8850482411821877e+31,
+        "p05_stress_100yr_usd": 44912508.0,
+        "p95_bull_100yr_usd": 130398116308133.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Hypnotic ballad rhythm and internal rhymes; chilling visual description of Life-in-Death throwing dice; 'Kubla Khan' musical sorcery",
+        "bad": "The moral at the end ('He prayeth best, who loveth best') feels almost too neat for the cosmic terror that preceded it",
+        "fixable": "Focusing on the mariner's ongoing compulsion to tell his story as an archetype of trauma survival",
+        "missing": "Modern sociological realism"
+      },
+      "patron_need": "Confronting unmotivated cruelty, psychological guilt, ecological reverence for all living things, and opium dream genius.",
+      "trade_off_passed": "Archaic glosses and spellings introduced in later editions intentionally mimic 16th-century ballads.",
+      "learned_from_prev": "Injects supernatural gothic terror into Wordsworth's Lyrical Ballads: shooting the Albatross triggers an ecological nightmare where 'Water, water, everywhere, / Nor any drop to drink'\u2014compelling the mariner to wander the earth forever telling his tale."
+    },
+    {
+      "rank": 30,
+      "name": "The Idea of Order at Key West & Sunday Morning",
+      "poet": "Wallace Stevens",
+      "year": 1936,
+      "tradition_genre": "Modernist Epistemology / The Supreme Fiction",
+      "archetype": "The Supreme Modern Meditation on Art Constructing Reality in a Secular World",
+      "meter_form": "Blank Verse & Flexible Iambic Pentameter Stanzas",
+      "language_origin": "American English",
+      "line_count": 300,
+      "memetic_valuation_usd": 980000000,
+      "tier": "Tier II: Romantic Sublime & Modernist Breakthroughs",
+      "subproblem_scores": {
+        "s1_prosody": 98.5,
+        "s2_semantic": 97.0,
+        "s3_euphonic": 99.5,
+        "s4_consciousness": 98.0,
+        "s5_structural": 99.5,
+        "s6_durability": 99.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.86,
+        "prosodic_entropy_bits": 2.39,
+        "enjambment_tension": 70.0,
+        "caesura_frequency_per_line": 1.4
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 98.3,
+        "alliteration_density": 32.1,
+        "semantic_density": 0.92,
+        "ostranenie_score": 93.2,
+        "affective_valence": 0.47,
+        "affective_arousal": 0.49
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.034,
+        "volatility_sigma": 0.04,
+        "expected_value_100yr_usd": 164216180640.0,
+        "expected_value_250yr_usd": 356205609198906.0,
+        "expected_value_500yr_usd": 1.2947187349465683e+20,
+        "expected_value_1000yr_usd": 1.7105067373690223e+31,
+        "p05_stress_100yr_usd": 40753942.0,
+        "p95_bull_100yr_usd": 118324216649973.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Flawless blank verse acoustics; immortal formulation 'Death is the mother of beauty' in 'Sunday Morning'",
+        "bad": "Detached intellectual aristocratic vocabulary can seem emotionally reserved compared to confessional poets",
+        "fixable": "Reading aloud reveals an astonishingly sensuous celebration of physical Earth",
+        "missing": "Confessional autobiography"
+      },
+      "patron_need": "Discovering meaning in a world without gods, the supreme fiction of poetry, and sonic verbal elegance.",
+      "trade_off_passed": "Wrote poetry while working as an executive for the Hartford Accident and Indemnity Company; cool, detached philosophical surface.",
+      "learned_from_prev": "Resolves Coleridge's supernatural vision into 20th-century secular epistemology: a woman sings beside the sea at Key West, and 'she was the maker of the song she sang. / The ever-hooded, tragic-gestured sea / Was merely a place by which she walked to sing.'"
+    },
+    {
+      "rank": 31,
+      "name": "Death Fugue (Todesfuge)",
+      "poet": "Paul Celan",
+      "year": 1948,
+      "tradition_genre": "Post-Holocaust Lyric Counterpoint",
+      "archetype": "The Indelible Masterpiece that Defied Adorno: Poetry After Auschwitz",
+      "meter_form": "Dactylic Fugue Free Verse (Unrhymed Contrapuntal Repetition)",
+      "language_origin": "German",
+      "line_count": 36,
+      "memetic_valuation_usd": 1150000000,
+      "tier": "Tier II: Romantic Sublime & Modernist Breakthroughs",
+      "subproblem_scores": {
+        "s1_prosody": 100.0,
+        "s2_semantic": 99.5,
+        "s3_euphonic": 99.5,
+        "s4_consciousness": 100.0,
+        "s5_structural": 100.0,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.56,
+        "prosodic_entropy_bits": 3.18,
+        "enjambment_tension": 95.1,
+        "caesura_frequency_per_line": 1.32
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 98.3,
+        "alliteration_density": 31.6,
+        "semantic_density": 0.99,
+        "ostranenie_score": 96.4,
+        "affective_valence": -0.92,
+        "affective_arousal": 0.4
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.034,
+        "volatility_sigma": 0.04,
+        "expected_value_100yr_usd": 192702660955.0,
+        "expected_value_250yr_usd": 417996378141573.0,
+        "expected_value_500yr_usd": 1.5193128012128095e+20,
+        "expected_value_1000yr_usd": 2.0072272938514037e+31,
+        "p05_stress_100yr_usd": 47823503.0,
+        "p95_bull_100yr_usd": 138849846068845.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Incomparable use of musical fugal form (subject, countersubject, stretto); unforgettable contrast of golden Margarete and ashen Shulamite",
+        "bad": "Painfully agonizing to experience; leaves the listener in shattered silence",
+        "fixable": "Its devastating sobriety is precisely its moral triumph",
+        "missing": "Consolation or easy forgiveness"
+      },
+      "patron_need": "Bearing witness to the industrial annihilation of the Shoah, ethical remembrance, and contrapuntal musical sorrow.",
+      "trade_off_passed": "Its harrowing perfection made Celan fearful that German audiences enjoyed the beauty of its musical form while ignoring its real horror.",
+      "learned_from_prev": "Directly confronts Adorno's dictum that 'to write poetry after Auschwitz is barbaric': Celan takes the German language of his mother's murderers and structures an agonizing musical fugue around the paradoxical image of 'Black milk of daybreak we drink it at evening.'"
+    },
+    {
+      "rank": 32,
+      "name": "Don Juan & She Walks in Beauty",
+      "poet": "Lord Byron",
+      "year": 1819,
+      "tradition_genre": "Romantic Satirical Epic / Ottava Rima",
+      "archetype": "The Masterpiece of Picaresque Wit, Satire and Aristocratic Irony",
+      "meter_form": "Ottava Rima (ABABABCC) / Iambic Tetrameter",
+      "language_origin": "English",
+      "line_count": 16000,
+      "memetic_valuation_usd": 1100000000,
+      "tier": "Tier II: Romantic Sublime & Modernist Breakthroughs",
+      "subproblem_scores": {
+        "s1_prosody": 97.0,
+        "s2_semantic": 98.5,
+        "s3_euphonic": 98.0,
+        "s4_consciousness": 97.5,
+        "s5_structural": 99.0,
+        "s6_durability": 99.5
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.43,
+        "prosodic_entropy_bits": 3.66,
+        "enjambment_tension": 82.0,
+        "caesura_frequency_per_line": 1.47
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 94.1,
+        "alliteration_density": 30.3,
+        "semantic_density": 0.92,
+        "ostranenie_score": 91.2,
+        "affective_valence": 0.36,
+        "affective_arousal": 0.54
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.034,
+        "volatility_sigma": 0.04,
+        "expected_value_100yr_usd": 184324284391.0,
+        "expected_value_250yr_usd": 399822622570200.0,
+        "expected_value_500yr_usd": 1.4532557228992093e+20,
+        "expected_value_1000yr_usd": 1.9199565419448209e+31,
+        "p05_stress_100yr_usd": 45744221.0,
+        "p95_bull_100yr_usd": 132812896239765.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Unmatched comic rhymes (intellectual / hen-peck'd you all); sparkling conversational energy; lyrical perfection of 'She Walks in Beauty'",
+        "bad": "Meandering digressive plots can test modern readers seeking brisk narrative focus",
+        "fixable": "The digressions ARE the masterpiece\u2014Byron talking directly to the reader across time",
+        "missing": "Sacred mystical devotion"
+      },
+      "patron_need": "Sparkling comic relief, debunking hypocrisy in high society, and effortless conversational rhyming virtuosity.",
+      "trade_off_passed": "Incomplete at Byron's death while fighting in the Greek War of Independence in 1824.",
+      "learned_from_prev": "Inverts Celan and Wordsworth\u2019s high seriousness with devastating cosmopolitan satire: Byron flips the legendary seducer Don Juan into an innocent victim of aggressive women, employing the final rhyming couplet of Ottava Rima for merciless comic deflations."
+    },
+    {
+      "rank": 33,
+      "name": "Un Coup de D\u00e9s Jamais N'Abolira Le Hasard",
+      "poet": "St\u00e9phane Mallarm\u00e9",
+      "year": 1897,
+      "tradition_genre": "French Symbolism / Spatial Typographic Constellation",
+      "archetype": "The Inception of Spatial Visual Poetics and Modernist Typographic Rupture",
+      "meter_form": "Visual Spatial Free Verse Across Facing Pages (Double-Spread)",
+      "language_origin": "French",
+      "line_count": 250,
+      "memetic_valuation_usd": 920000000,
+      "tier": "Tier II: Romantic Sublime & Modernist Breakthroughs",
+      "subproblem_scores": {
+        "s1_prosody": 98.5,
+        "s2_semantic": 99.0,
+        "s3_euphonic": 99.0,
+        "s4_consciousness": 97.0,
+        "s5_structural": 100.0,
+        "s6_durability": 99.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.38,
+        "prosodic_entropy_bits": 3.74,
+        "enjambment_tension": 84.3,
+        "caesura_frequency_per_line": 1.34
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 94.4,
+        "alliteration_density": 31.3,
+        "semantic_density": 0.98,
+        "ostranenie_score": 91.2,
+        "affective_valence": 0.57,
+        "affective_arousal": 0.43
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.034,
+        "volatility_sigma": 0.04,
+        "expected_value_100yr_usd": 154162128764.0,
+        "expected_value_250yr_usd": 334397102513259.0,
+        "expected_value_500yr_usd": 1.2154502409702477e+20,
+        "expected_value_1000yr_usd": 1.6057818350811228e+31,
+        "p05_stress_100yr_usd": 38258803.0,
+        "p95_bull_100yr_usd": 111079876855076.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Direct forefather of concrete poetry, Dada, Apollinaire's Calligrammes, and digital hypertext; brilliant use of silence/whitespace",
+        "bad": "Requires precise physical typographic layout; loses impact in standard reflowable e-readers",
+        "fixable": "Facsimile editions reproducing the original 1897 Firmin-Didot proofs",
+        "missing": "Direct emotional warmth"
+      },
+      "patron_need": "Experiencing language as architectural space, visual constellation, and pure philosophical abstraction.",
+      "trade_off_passed": "Extreme typographic and syntactical abstraction renders it baffling if read as traditional linear prose.",
+      "learned_from_prev": "Shatters the linear page of Byron and Keats: Mallarm\u00e9 uses varying font sizes, blank whitespace, and two-page spreads to simulate a dice roll and a shipwreck in the mind, declaring that 'A throw of the dice will never abolish chance.'"
+    },
+    {
+      "rank": 34,
+      "name": "The Book of Disquiet & Poems of Alberto Caeiro",
+      "poet": "Fernando Pessoa",
+      "year": 1935,
+      "tradition_genre": "Portuguese Modernism / Heteronymic Fragmentation",
+      "archetype": "The Supreme Multiplicity of Self: Inventing Entire Poets to Express Reality",
+      "meter_form": "Free Verse & Classical Horatian Odes Across Multiple Heteronyms",
+      "language_origin": "Portuguese",
+      "line_count": 5000,
+      "memetic_valuation_usd": 1050000000,
+      "tier": "Tier II: Romantic Sublime & Modernist Breakthroughs",
+      "subproblem_scores": {
+        "s1_prosody": 98.0,
+        "s2_semantic": 97.5,
+        "s3_euphonic": 98.5,
+        "s4_consciousness": 100.0,
+        "s5_structural": 99.0,
+        "s6_durability": 99.5
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.41,
+        "prosodic_entropy_bits": 3.75,
+        "enjambment_tension": 79.5,
+        "caesura_frequency_per_line": 1.36
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 94.2,
+        "alliteration_density": 32.3,
+        "semantic_density": 0.93,
+        "ostranenie_score": 95.3,
+        "affective_valence": 0.57,
+        "affective_arousal": 0.57
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.034,
+        "volatility_sigma": 0.04,
+        "expected_value_100yr_usd": 175945907828.0,
+        "expected_value_250yr_usd": 381648866998828.0,
+        "expected_value_500yr_usd": 1.3871986445856088e+20,
+        "expected_value_1000yr_usd": 1.832685790038238e+31,
+        "p05_stress_100yr_usd": 43664938.0,
+        "p95_bull_100yr_usd": 126775946410685.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "The most sophisticated investigation of the multiplicity of self in world literature; Alberto Caeiro's radical anti-metaphysical clarity",
+        "bad": "The sheer chaos of Pessoa's trunk creates competing editorial reconstructions",
+        "fixable": "Richard Zenith's translations and biography provide definitive curatorial coherence",
+        "missing": "A single monolithic unified authorial voice"
+      },
+      "patron_need": "Processing the fragmentation of modern identity, existential estrangement, and the sheer wonder of things just being things.",
+      "trade_off_passed": "His vast trunk of 25,000 uncatalogued manuscripts left behind upon his death in Lisbon took decades to organize.",
+      "learned_from_prev": "Takes Mallarm\u00e9's mental space and fractures it into 72 distinct alter-egos (heteronyms): Pessoa invents Alberto Caeiro (pagan shepherd), Ricardo Reis (stoic neo-classicist), and \u00c1lvaro de Campos (futurist engineer), claiming 'I am a whole orchestra.'"
+    },
+    {
+      "rank": 35,
+      "name": "The Bridge",
+      "poet": "Hart Crane",
+      "year": 1930,
+      "tradition_genre": "American Machine-Age Modernism / Neo-Romantic Epic",
+      "archetype": "The Dazzling Synthesizing Answer to Eliot's Despair: Brooklyn Bridge as Myth",
+      "meter_form": "Dynamic Blank Verse & Ornate Lyric Rhyme Stanzas",
+      "language_origin": "American English",
+      "line_count": 1200,
+      "memetic_valuation_usd": 920000000,
+      "tier": "Tier II: Romantic Sublime & Modernist Breakthroughs",
+      "subproblem_scores": {
+        "s1_prosody": 99.0,
+        "s2_semantic": 98.0,
+        "s3_euphonic": 100.0,
+        "s4_consciousness": 98.5,
+        "s5_structural": 99.5,
+        "s6_durability": 98.5
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.83,
+        "prosodic_entropy_bits": 2.38,
+        "enjambment_tension": 84.0,
+        "caesura_frequency_per_line": 1.49
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 96.1,
+        "alliteration_density": 31.0,
+        "semantic_density": 0.94,
+        "ostranenie_score": 94.6,
+        "affective_valence": 0.64,
+        "affective_arousal": 0.46
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.034,
+        "volatility_sigma": 0.04,
+        "expected_value_100yr_usd": 154162128764.0,
+        "expected_value_250yr_usd": 334397102513259.0,
+        "expected_value_500yr_usd": 1.2154502409702477e+20,
+        "expected_value_1000yr_usd": 1.6057818350811228e+31,
+        "p05_stress_100yr_usd": 38258803.0,
+        "p95_bull_100yr_usd": 111079876855076.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "The 'Proem: To Brooklyn Bridge' is one of the most sonically magnificent invocations in English; ecstatic verbal velocity",
+        "bad": "Crane committed suicide at age 32 by leaping from a steamship into the Caribbean Sea",
+        "fixable": "Appreciating the work as a completed incandescent trajectory of American genius",
+        "missing": "Easy accessible plain-spokenness"
+      },
+      "patron_need": "Technological transcendence, verbal symphonic opulence, and affirming joy against modern cynicism.",
+      "trade_off_passed": "Crane's hyper-condensed metaphorical associations (the 'logic of metaphor') can feel dizzying to read.",
+      "learned_from_prev": "Closes Tier II by answering T.S. Eliot's bleak *The Waste Land* with triumphant machine-age ecstasy: Crane turns the Brooklyn Bridge into a soaring harp of steel cables, uniting Pocahontas, Columbus, and subway trains into American myth."
+    },
+    {
+      "rank": 36,
+      "name": "Twenty Love Poems and a Song of Despair & Canto General",
+      "poet": "Pablo Neruda",
+      "year": 1924,
+      "tradition_genre": "Latin American Surrealism & Anti-Imperialist Epic",
+      "archetype": "The Voice of a Continent: Erotic Passion and Historical Solidarity",
+      "meter_form": "Alexandrines & Epic Free Verse (Endecas\u00edlabos & Verso Libre)",
+      "language_origin": "Spanish",
+      "line_count": 6000,
+      "memetic_valuation_usd": 1300000000,
+      "tier": "Tier III: Revolutionary Confessional & Global Voices",
+      "subproblem_scores": {
+        "s1_prosody": 97.5,
+        "s2_semantic": 98.5,
+        "s3_euphonic": 99.0,
+        "s4_consciousness": 100.0,
+        "s5_structural": 98.5,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.98,
+        "prosodic_entropy_bits": 1.95,
+        "enjambment_tension": 52.6,
+        "caesura_frequency_per_line": 1.35
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 95.6,
+        "alliteration_density": 32.6,
+        "semantic_density": 0.93,
+        "ostranenie_score": 96.0,
+        "affective_valence": 0.61,
+        "affective_arousal": 0.47
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.038,
+        "volatility_sigma": 0.055,
+        "expected_value_100yr_usd": 3940459122350.0,
+        "expected_value_250yr_usd": 6.575852118196463e+17,
+        "expected_value_500yr_usd": 3.326294698491455e+26,
+        "expected_value_1000yr_usd": 8.510951093240277e+43,
+        "p05_stress_100yr_usd": 6838850.0,
+        "p95_bull_100yr_usd": 3.348313790713e+16,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Immortal erotic lyricism of his youth; stunning heights of 'The Heights of Macchu Picchu'; oceanic breadth of imagery",
+        "bad": "Didactic political odes occasionally lapse into Soviet party sloganeering",
+        "fixable": "Focusing on the core lyric masterworks and the monumental Canto General cantos",
+        "missing": "Detached ironic restraint"
+      },
+      "patron_need": "Sensuous romantic passion ('I like for you to be still'), anti-imperialist liberation, and deep connection to nature.",
+      "trade_off_passed": "Stalinist political allegiances in the 1950s create historical friction for some modern readers.",
+      "learned_from_prev": "Brings Hart Crane's epic architectural vision down into the geological soil of South America: Neruda scales the heights of Machu Picchu to speak for the forgotten indigenous builders ('Rise up to be born with me, my brother'), uniting erotic love and epic struggle."
+    },
+    {
+      "rank": 37,
+      "name": "The Weary Blues & The Negro Speaks of Rivers",
+      "poet": "Langston Hughes",
+      "year": 1921,
+      "tradition_genre": "Harlem Renaissance / Jazz Poetry Pioneer",
+      "archetype": "The Ancestral Soul of Black America Breathed Through Jazz and Blues",
+      "meter_form": "Blues Verse (AAB Rhyme) & Free Verse with Syncopated Jazz Rhythms",
+      "language_origin": "African-American Vernacular English",
+      "line_count": 500,
+      "memetic_valuation_usd": 1250000000,
+      "tier": "Tier III: Revolutionary Confessional & Global Voices",
+      "subproblem_scores": {
+        "s1_prosody": 96.5,
+        "s2_semantic": 100.0,
+        "s3_euphonic": 98.5,
+        "s4_consciousness": 100.0,
+        "s5_structural": 98.0,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.44,
+        "prosodic_entropy_bits": 3.59,
+        "enjambment_tension": 71.0,
+        "caesura_frequency_per_line": 1.39
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 96.7,
+        "alliteration_density": 32.5,
+        "semantic_density": 0.93,
+        "ostranenie_score": 96.6,
+        "affective_valence": 0.5,
+        "affective_arousal": 0.6
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.038,
+        "volatility_sigma": 0.055,
+        "expected_value_100yr_usd": 3788903002260.0,
+        "expected_value_250yr_usd": 6.32293472903506e+17,
+        "expected_value_500yr_usd": 3.198360287011015e+26,
+        "expected_value_1000yr_usd": 8.183606820423343e+43,
+        "p05_stress_100yr_usd": 6575817.0,
+        "p95_bull_100yr_usd": 3.2195324910701924e+16,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Pioneered jazz poetry; timeless prophetic opening line ('I've known rivers'); immortal voice of the Harlem Renaissance",
+        "bad": "Underappreciated by mid-century academic critics who favored Eliot's dry Eurocentric obscurity",
+        "fixable": "Universally recognized today as the cornerstone of modern American democratic verse",
+        "missing": "Archaic Eurocentric academic footnotes"
+      },
+      "patron_need": "Racial pride, ancestral resilience, accessible democratic vernacular truth, and irresistible musical swing.",
+      "trade_off_passed": "Deceptive simplicity led academic New Critics to initially dismiss it as 'unintellectual'.",
+      "learned_from_prev": "Written at age 17 crossing the Mississippi River: Hughes roots African-American poetry in the deep ancestral flow ('My soul has grown deep like the rivers'), transmuting Harlem jazz club syncopations into high literary art."
+    },
+    {
+      "rank": 38,
+      "name": "Ariel ('Daddy' / 'Lady Lazarus')",
+      "poet": "Sylvia Plath",
+      "year": 1965,
+      "tradition_genre": "Confessional Poetry / Electrifying Mythic Rage",
+      "archetype": "The Fiercest, Most Electrified Breakthrough in Post-War Literature",
+      "meter_form": "Accentual Stanzas with Incantatory Slant Rhymes and Nursery-Rhyme Beats",
+      "language_origin": "American English",
+      "line_count": 800,
+      "memetic_valuation_usd": 1150000000,
+      "tier": "Tier III: Revolutionary Confessional & Global Voices",
+      "subproblem_scores": {
+        "s1_prosody": 98.0,
+        "s2_semantic": 99.5,
+        "s3_euphonic": 99.0,
+        "s4_consciousness": 100.0,
+        "s5_structural": 99.5,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.39,
+        "prosodic_entropy_bits": 3.8,
+        "enjambment_tension": 77.8,
+        "caesura_frequency_per_line": 1.34
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 95.4,
+        "alliteration_density": 33.0,
+        "semantic_density": 0.94,
+        "ostranenie_score": 92.8,
+        "affective_valence": -0.8,
+        "affective_arousal": 0.9
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.038,
+        "volatility_sigma": 0.055,
+        "expected_value_100yr_usd": 3485790762079.0,
+        "expected_value_250yr_usd": 5.817099950712256e+17,
+        "expected_value_500yr_usd": 2.942491464050133e+26,
+        "expected_value_1000yr_usd": 7.528918274789476e+43,
+        "p05_stress_100yr_usd": 6049752.0,
+        "p95_bull_100yr_usd": 2.961969891784577e+16,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Astonishing velocity and rhythmic control; fearless psychological autopsy; redefined post-war female agency",
+        "bad": "Her 1963 suicide often leads sensationalist biographers to reduce the art to mere psychiatric diary",
+        "fixable": "Close formal analysis revealing the meticulous craftsmanship behind the apparent fury",
+        "missing": "Quiet placid domestic calm"
+      },
+      "patron_need": "Transforming female victimization into incandescent power, confronting depression and psychological terror.",
+      "trade_off_passed": "Controversial adoption of Holocaust imagery to describe domestic psychological warfare.",
+      "learned_from_prev": "Pivots Hughes's collective ancestral pride into incandescent personal psychological fury: written at 4 AM before her children woke, Plath unleashes nursery-rhyme trochaic rhythms to confront patriarchal trauma and rise 'with my red hair / And I eat men like air.'"
+    },
+    {
+      "rank": 39,
+      "name": "Funeral Blues ('Stop all the clocks') & Musee des Beaux Arts",
+      "poet": "W.H. Auden",
+      "year": 1938,
+      "tradition_genre": "Modernist Disillusionment / Lucid Civilized Wit",
+      "archetype": "The Master of Modern Grief and the Chilling Indifference of Daily Life",
+      "meter_form": "Accentual-Syllabic Elegiac Quatrains (AABB) & Flexible Free Verse",
+      "language_origin": "British English",
+      "line_count": 400,
+      "memetic_valuation_usd": 1200000000,
+      "tier": "Tier III: Revolutionary Confessional & Global Voices",
+      "subproblem_scores": {
+        "s1_prosody": 97.5,
+        "s2_semantic": 98.0,
+        "s3_euphonic": 98.5,
+        "s4_consciousness": 99.5,
+        "s5_structural": 99.0,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.41,
+        "prosodic_entropy_bits": 3.76,
+        "enjambment_tension": 83.7,
+        "caesura_frequency_per_line": 1.34
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 97.3,
+        "alliteration_density": 30.5,
+        "semantic_density": 0.93,
+        "ostranenie_score": 95.6,
+        "affective_valence": 0.63,
+        "affective_arousal": 0.5
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.038,
+        "volatility_sigma": 0.055,
+        "expected_value_100yr_usd": 3637346882169.0,
+        "expected_value_250yr_usd": 6.070017339873659e+17,
+        "expected_value_500yr_usd": 3.0704258755305737e+26,
+        "expected_value_1000yr_usd": 7.856262547606409e+43,
+        "p05_stress_100yr_usd": 6312784.0,
+        "p95_bull_100yr_usd": 3.090751191427385e+16,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "'Funeral Blues' is the most universally accessible elegiac lament in modern history; brilliant insight on suffering",
+        "bad": "Originally written as satirical parody for an obscure verse play before becoming a genuine universal elegy",
+        "fixable": "Its emotional power outgrew its theatrical origin to become a global standard of grief",
+        "missing": "Rhapsodic mystic ecstatic trance"
+      },
+      "patron_need": "Grieving the loss of a life partner ('He was my North, my South, my East and West'), and realistic stoicism about human suffering.",
+      "trade_off_passed": "Tone shifts effortlessly between comic cabaret light verse and profound ethical theology.",
+      "learned_from_prev": "Answers Plath's volcanic scream with devastating British understatement: in 'Musee des Beaux Arts', Auden observes Brueghel's painting of Icarus falling from the sky while a plowman indifferently continues tilling his field."
+    },
+    {
+      "rank": 40,
+      "name": "Howl",
+      "poet": "Allen Ginsberg",
+      "year": 1956,
+      "tradition_genre": "Beat Generation / Hebraic Chanted Whitmanic Epic",
+      "archetype": "The Primal Screaming Exorcism of 1950s Conformity and Corporate Moloch",
+      "meter_form": "Long-Breathed Whitmanic Lines / Chanted Hebraic Breath Units",
+      "language_origin": "American English",
+      "line_count": 250,
+      "memetic_valuation_usd": 1050000000,
+      "tier": "Tier III: Revolutionary Confessional & Global Voices",
+      "subproblem_scores": {
+        "s1_prosody": 96.5,
+        "s2_semantic": 100.0,
+        "s3_euphonic": 99.0,
+        "s4_consciousness": 99.0,
+        "s5_structural": 98.5,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.53,
+        "prosodic_entropy_bits": 3.24,
+        "enjambment_tension": 91.3,
+        "caesura_frequency_per_line": 1.44
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 96.7,
+        "alliteration_density": 31.7,
+        "semantic_density": 0.94,
+        "ostranenie_score": 93.9,
+        "affective_valence": -0.3,
+        "affective_arousal": 0.98
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.038,
+        "volatility_sigma": 0.055,
+        "expected_value_100yr_usd": 3182678521898.0,
+        "expected_value_250yr_usd": 5.311265172389451e+17,
+        "expected_value_500yr_usd": 2.6866226410892522e+26,
+        "expected_value_1000yr_usd": 6.874229729155608e+43,
+        "p05_stress_100yr_usd": 5523686.0,
+        "p95_bull_100yr_usd": 2.7044072924989616e+16,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Incomparable rhythmic incantatory propulsion in Part II ('Moloch whose mind is pure machinery!'); transformative cultural liberation",
+        "bad": "Period drug slang can feel dated in lesser second-generation Beat imitators",
+        "fixable": "Listening to Ginsberg's live readings proves it operates as a sacred liturgical lament",
+        "missing": "Polished classical meter"
+      },
+      "patron_need": "Liberation from soul-crushing corporate materialism (Moloch!), celebrating queer love, and sacred countercultural rebellion.",
+      "trade_off_passed": "Explicit sexual and drug references shocked 1950s middle-class American sensibilities.",
+      "learned_from_prev": "Shatters Auden's quiet understatement with an explosive Whitmanic roar at the Six Gallery in San Francisco: 'I saw the best minds of my generation destroyed by madness, starving hysterical naked...'\u2014igniting the famous 1957 obscenity trial."
+    },
+    {
+      "rank": 41,
+      "name": "Ithaka & Waiting for the Barbarians",
+      "poet": "C.P. Cavafy",
+      "year": 1911,
+      "tradition_genre": "Alexandrian Modern Greek Lyric / Historical Irony",
+      "archetype": "The Supreme Stoic Wisdom of the Journey and the Necessity of the Barbarians",
+      "meter_form": "Iambic Free Verse with Subtle Cadences & Enjambment",
+      "language_origin": "Demotic & Katharevousa Modern Greek",
+      "line_count": 120,
+      "memetic_valuation_usd": 1100000000,
+      "tier": "Tier III: Revolutionary Confessional & Global Voices",
+      "subproblem_scores": {
+        "s1_prosody": 98.0,
+        "s2_semantic": 97.0,
+        "s3_euphonic": 98.5,
+        "s4_consciousness": 100.0,
+        "s5_structural": 99.0,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.46,
+        "prosodic_entropy_bits": 3.54,
+        "enjambment_tension": 87.7,
+        "caesura_frequency_per_line": 1.4
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 96.4,
+        "alliteration_density": 32.5,
+        "semantic_density": 0.94,
+        "ostranenie_score": 94.7,
+        "affective_valence": 0.5,
+        "affective_arousal": -0.5
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.038,
+        "volatility_sigma": 0.055,
+        "expected_value_100yr_usd": 3334234641989.0,
+        "expected_value_250yr_usd": 5.564182561550854e+17,
+        "expected_value_500yr_usd": 2.814557052569693e+26,
+        "expected_value_1000yr_usd": 7.201574001972542e+43,
+        "p05_stress_100yr_usd": 5786719.0,
+        "p95_bull_100yr_usd": 2.8331885921417692e+16,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Flawless philosophical economy; 'Waiting for the Barbarians' provides the eternal diagnosis of corrupt decaying empires",
+        "bad": "Austere, unadorned surface can feel almost too conversational to readers expecting ornate Victorian poetry",
+        "fixable": "Keeley & Sherrard translations preserve the devastating dry precision of Cavafy's Greek",
+        "missing": "Thunderous orchestral percussion"
+      },
+      "patron_need": "Patience with life's journey, historical irony, emotional maturity, and freedom from fear of imaginary monsters.",
+      "trade_off_passed": "Cavafy lived a quiet life as a clerk in the Alexandria Irrigation Ministry, circulating his poems only on private broadsheets.",
+      "learned_from_prev": "Answers Ginsberg's feverish shout with quiet Alexandrian stoicism: in 'Ithaka', Cavafy tells the traveler that the destination is an illusion\u2014'Keep Ithaka always in your mind... Ithaka gave you the marvelous journey. Without her you would not have set out.'"
+    },
+    {
+      "rank": 42,
+      "name": "Omeros & A Far Cry from Africa",
+      "poet": "Derek Walcott",
+      "year": 1990,
+      "tradition_genre": "Caribbean Post-Colonial Epic / Terza Rima Island Homer",
+      "archetype": "The Monumental Post-Colonial Synthesis of Homeric Myth and Antillean Soul",
+      "meter_form": "Flexible Caribbean Terza Rima (Hexagonal Rhythm)",
+      "language_origin": "English / Saint Lucian Creole French / Patois",
+      "line_count": 8000,
+      "memetic_valuation_usd": 950000000,
+      "tier": "Tier III: Revolutionary Confessional & Global Voices",
+      "subproblem_scores": {
+        "s1_prosody": 99.0,
+        "s2_semantic": 98.5,
+        "s3_euphonic": 100.0,
+        "s4_consciousness": 99.0,
+        "s5_structural": 99.0,
+        "s6_durability": 99.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.92,
+        "prosodic_entropy_bits": 2.1,
+        "enjambment_tension": 70.1,
+        "caesura_frequency_per_line": 1.33
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 95.4,
+        "alliteration_density": 32.0,
+        "semantic_density": 0.92,
+        "ostranenie_score": 94.0,
+        "affective_valence": 0.47,
+        "affective_arousal": 0.6
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.038,
+        "volatility_sigma": 0.055,
+        "expected_value_100yr_usd": 2879566281717.0,
+        "expected_value_250yr_usd": 4.8054303940666464e+17,
+        "expected_value_500yr_usd": 2.430753818128371e+26,
+        "expected_value_1000yr_usd": 6.219541183521741e+43,
+        "p05_stress_100yr_usd": 4997621.0,
+        "p95_bull_100yr_usd": 2.446844693213346e+16,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "The most successful modern reinvention of Terza Rima since Dante; staggering sea-surface imagery; Nobel Prize-winning majesty",
+        "bad": "Large cast and shifting time-travel sequences between Saint Lucia, London, and the Trail of Tears",
+        "fixable": "Following the central emotional arc of the wounded fisherman Philoctete being healed by African roots",
+        "missing": "Short 3-minute pop brevity"
+      },
+      "patron_need": "Post-colonial cultural reconciliation ('divided to the vein' between English tongue and African blood), and maritime beauty.",
+      "trade_off_passed": "Complex multi-layered narrative demands attention to linguistic blending (Creole patois and high English blank verse).",
+      "learned_from_prev": "Directly links Dante\u2019s Terza Rima and Homer\u2019s fishermen to the Caribbean island of Saint Lucia: Walcott casts fishermen Achille and Hector contending for housemaid Helen, transmuting colonial wounds into luminous visual splendor."
+    },
+    {
+      "rank": 43,
+      "name": "We Real Cool & The Bean Eaters",
+      "poet": "Gwendolyn Brooks",
+      "year": 1960,
+      "tradition_genre": "Chicago Bronzeville Poetry / Syncopated Jazz Compression",
+      "archetype": "The 24-Word Masterpiece of Urban Youth Vulnerability and Jazz Metric Brilliance",
+      "meter_form": "Syncopated Monosyllabic Couplets with Enjambed 'We'",
+      "language_origin": "African-American English",
+      "line_count": 8,
+      "memetic_valuation_usd": 980000000,
+      "tier": "Tier III: Revolutionary Confessional & Global Voices",
+      "subproblem_scores": {
+        "s1_prosody": 98.0,
+        "s2_semantic": 100.0,
+        "s3_euphonic": 99.0,
+        "s4_consciousness": 100.0,
+        "s5_structural": 100.0,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.39,
+        "prosodic_entropy_bits": 3.76,
+        "enjambment_tension": 86.5,
+        "caesura_frequency_per_line": 1.3
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 95.6,
+        "alliteration_density": 30.7,
+        "semantic_density": 0.94,
+        "ostranenie_score": 96.0,
+        "affective_valence": 0.54,
+        "affective_arousal": 0.38
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.038,
+        "volatility_sigma": 0.055,
+        "expected_value_100yr_usd": 2970499953772.0,
+        "expected_value_250yr_usd": 4.957180827563488e+17,
+        "expected_value_500yr_usd": 2.5075144650166353e+26,
+        "expected_value_1000yr_usd": 6.415947747211901e+43,
+        "p05_stress_100yr_usd": 5155441.0,
+        "p95_bull_100yr_usd": 2.5241134729990308e+16,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "The most formally perfect short poem in 20th-century American letters; first African-American Pulitzer winner",
+        "bad": "Over-anthologized to the point that readers overlook her brilliant longer work (Annie Allen, The Street in Bronzeville)",
+        "fixable": "Listening to Brooks explain the syncopated caesura of the 'We' illuminates the entire composition",
+        "missing": "Epic narrative sprawl"
+      },
+      "patron_need": "Devastating empathy for marginalized youth, rhythmic genius, and supreme economy of language.",
+      "trade_off_passed": "Frequently recited without understanding Brooks's specific metric instruction: the 'We' must be spoken as a soft breathless hesitation.",
+      "learned_from_prev": "Answers Walcott\u2019s epic 8,000 lines with 24 monosyllabic words: watching young pool players at The Golden Shovel, Brooks invents a syncopated jazz rhythm by placing 'We' at the end of each line, culminating in the chilling 'Die soon.'"
+    },
+    {
+      "rank": 44,
+      "name": "Sunstone (Piedra de Sol)",
+      "poet": "Octavio Paz",
+      "year": 1957,
+      "tradition_genre": "Mexican Modernism / Aztec Cyclical Cosmic Surrealism",
+      "archetype": "The 584-Line Circular River of Time, Eroticism and Historical Consciousness",
+      "meter_form": "Endecas\u00edlabos (11-syllable blank verse forming a single continuous circular sentence)",
+      "language_origin": "Spanish",
+      "line_count": 584,
+      "memetic_valuation_usd": 920000000,
+      "tier": "Tier III: Revolutionary Confessional & Global Voices",
+      "subproblem_scores": {
+        "s1_prosody": 98.5,
+        "s2_semantic": 98.0,
+        "s3_euphonic": 99.5,
+        "s4_consciousness": 99.0,
+        "s5_structural": 99.5,
+        "s6_durability": 99.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.83,
+        "prosodic_entropy_bits": 2.43,
+        "enjambment_tension": 71.1,
+        "caesura_frequency_per_line": 1.33
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 94.9,
+        "alliteration_density": 32.5,
+        "semantic_density": 0.92,
+        "ostranenie_score": 94.8,
+        "affective_valence": 0.55,
+        "affective_arousal": 0.36
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.038,
+        "volatility_sigma": 0.055,
+        "expected_value_100yr_usd": 2788632609663.0,
+        "expected_value_250yr_usd": 4.653679960569805e+17,
+        "expected_value_500yr_usd": 2.3539931712401066e+26,
+        "expected_value_1000yr_usd": 6.023134619831581e+43,
+        "p05_stress_100yr_usd": 4839801.0,
+        "p95_bull_100yr_usd": 2.3695759134276616e+16,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Incredible sustained metric flow; opens and closes with identical luminous lines; synthesis of European surrealism and Mexican myth",
+        "bad": "Absence of full stops (periods) can induce breathless vertigo without vocal pacing",
+        "fixable": "Eliot Weinberger translation captures the luminous aquatic rhythm of Paz's Spanish",
+        "missing": "Staccato short rhymes"
+      },
+      "patron_need": "Transcending alienated historical time through love, recovering pre-Columbian roots, and experiencing language as cyclical renewal.",
+      "trade_off_passed": "Requires surrender to an unbroken 584-line sentence punctuated only by commas and semicolons.",
+      "learned_from_prev": "Synthesizes Brooks\u2019s syncopation into a monumental circular river: exactly 584 endecas\u00edlabo lines matching the Venusian synodic cycle of the Aztec Calendar Stone, written in a single unbroken sentence that loops back to its opening line."
+    },
+    {
+      "rank": 45,
+      "name": "Requiem",
+      "poet": "Anna Akhmatova",
+      "year": 1961,
+      "tradition_genre": "Russian Acmeist Elegiac Witness",
+      "archetype": "The Choral Monument of Mothers Standing in Line Outside Stalin's Prisons",
+      "meter_form": "Classical Russian Quatrains & Choral Elegies",
+      "language_origin": "Russian",
+      "line_count": 350,
+      "memetic_valuation_usd": 1100000000,
+      "tier": "Tier III: Revolutionary Confessional & Global Voices",
+      "subproblem_scores": {
+        "s1_prosody": 98.5,
+        "s2_semantic": 97.5,
+        "s3_euphonic": 99.0,
+        "s4_consciousness": 100.0,
+        "s5_structural": 100.0,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.53,
+        "prosodic_entropy_bits": 3.39,
+        "enjambment_tension": 80.8,
+        "caesura_frequency_per_line": 1.33
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 94.5,
+        "alliteration_density": 33.3,
+        "semantic_density": 0.92,
+        "ostranenie_score": 93.2,
+        "affective_valence": -0.92,
+        "affective_arousal": 0.4
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.038,
+        "volatility_sigma": 0.055,
+        "expected_value_100yr_usd": 3334234641989.0,
+        "expected_value_250yr_usd": 5.564182561550854e+17,
+        "expected_value_500yr_usd": 2.814557052569693e+26,
+        "expected_value_1000yr_usd": 7.201574001972542e+43,
+        "p05_stress_100yr_usd": 5786719.0,
+        "p95_bull_100yr_usd": 2.8331885921417692e+16,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "The prose preface ('Can you describe this? And I said: I can'); the Mary at the Cross analogy; supreme moral heroism",
+        "bad": "Devastating sorrow makes it an emotionally heavy reading experience",
+        "fixable": "Celebrated as the eternal anthem of Russian human resistance to state terror",
+        "missing": "Lighthearted escapism"
+      },
+      "patron_need": "Moral courage under totalitarian terror, communal grief, and the sacred duty of the poet as witness.",
+      "trade_off_passed": "Had to be committed to memory by trusted friends who burned the written slips of paper immediately after reading.",
+      "learned_from_prev": "Grounds Paz's cosmic Aztec cycle in the freezing Leningrad prison lines during Stalin's Great Terror: Akhmatova stood for seventeen months outside Kresty Prison waiting for news of her son, memorizing the poem in secret because writing it down meant death."
+    },
+    {
+      "rank": 46,
+      "name": "Do not go gentle into that good night & Fern Hill",
+      "poet": "Dylan Thomas",
+      "year": 1951,
+      "tradition_genre": "Welsh Neo-Romanticism / Auditory Incantation",
+      "archetype": "The Fiercest Villanelle in Literature: Raging Against the Dying of the Light",
+      "meter_form": "Strict Villanelle (19 lines, 2 repeating refrains, ABA rhyme scheme)",
+      "language_origin": "English",
+      "line_count": 19,
+      "memetic_valuation_usd": 1050000000,
+      "tier": "Tier III: Revolutionary Confessional & Global Voices",
+      "subproblem_scores": {
+        "s1_prosody": 99.0,
+        "s2_semantic": 98.5,
+        "s3_euphonic": 100.0,
+        "s4_consciousness": 99.0,
+        "s5_structural": 100.0,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.93,
+        "prosodic_entropy_bits": 2.19,
+        "enjambment_tension": 48.4,
+        "caesura_frequency_per_line": 1.48
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 98.3,
+        "alliteration_density": 33.3,
+        "semantic_density": 0.96,
+        "ostranenie_score": 94.8,
+        "affective_valence": 0.1,
+        "affective_arousal": 0.95
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.038,
+        "volatility_sigma": 0.055,
+        "expected_value_100yr_usd": 3182678521898.0,
+        "expected_value_250yr_usd": 5.311265172389451e+17,
+        "expected_value_500yr_usd": 2.6866226410892522e+26,
+        "expected_value_1000yr_usd": 6.874229729155608e+43,
+        "p05_stress_100yr_usd": 5523686.0,
+        "p95_bull_100yr_usd": 2.7044072924989616e+16,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "The definitive villanelle in world literature; thunderous vocal consonants; unforgettable dual refrains",
+        "bad": "Overplayed in dramatic film trailers and graduation speeches",
+        "fixable": "Reading the text with its original father-son grief restores its sacred intimacy",
+        "missing": "Casual conversational informality"
+      },
+      "patron_need": "Defiance in the face of inevitable death, vocal sonic ecstasy, and nostalgic innocence in 'Fern Hill'.",
+      "trade_off_passed": "Extreme sonic opulence can lead casual readers to enjoy the sound while missing the precise logical progression of the four types of men (wise, good, wild, grave).",
+      "learned_from_prev": "Answers Akhmatova\u2019s solemn silence with roaring phonetic fire: written for his dying, blind father, Thomas takes the rigid French 19-line villanelle and turns it into an immortal war cry\u2014'Rage, rage against the dying of the light.'"
+    },
+    {
+      "rank": 47,
+      "name": "Stopping by Woods on a Snowy Evening & The Road Not Taken",
+      "poet": "Robert Frost",
+      "year": 1923,
+      "tradition_genre": "New England Modernism / Deceptive Rural Simplicity",
+      "archetype": "The Supreme Masterpiece of Dark Moral Ambiguity Under Surface Charm",
+      "meter_form": "Rubaiyat Stanza (AABA BBCB CCDC DDDD) in Iambic Tetrameter",
+      "language_origin": "American English",
+      "line_count": 16,
+      "memetic_valuation_usd": 1250000000,
+      "tier": "Tier III: Revolutionary Confessional & Global Voices",
+      "subproblem_scores": {
+        "s1_prosody": 98.5,
+        "s2_semantic": 98.0,
+        "s3_euphonic": 99.0,
+        "s4_consciousness": 99.0,
+        "s5_structural": 100.0,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.85,
+        "prosodic_entropy_bits": 2.41,
+        "enjambment_tension": 69.8,
+        "caesura_frequency_per_line": 1.41
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 95.7,
+        "alliteration_density": 30.6,
+        "semantic_density": 0.94,
+        "ostranenie_score": 93.8,
+        "affective_valence": -0.2,
+        "affective_arousal": -0.4
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.038,
+        "volatility_sigma": 0.055,
+        "expected_value_100yr_usd": 3788903002260.0,
+        "expected_value_250yr_usd": 6.32293472903506e+17,
+        "expected_value_500yr_usd": 3.198360287011015e+26,
+        "expected_value_1000yr_usd": 8.183606820423343e+43,
+        "p05_stress_100yr_usd": 6575817.0,
+        "p95_bull_100yr_usd": 3.2195324910701924e+16,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Interlocking rhyme scheme ending on the hypnotic repeated couplet; deceptive, chilling simplicity",
+        "bad": "Frequently sentimentalized by readers who ignore Frost's underlying dark existential skepticism",
+        "fixable": "Lionel Trilling's famous 1959 speech celebrating Frost as a 'terrifying poet' permanently restored his true depth",
+        "missing": "Grand mythic ornamentation"
+      },
+      "patron_need": "Enduring duty amidst mental exhaustion, moral ambiguity, and the quiet beauty of falling snow.",
+      "trade_off_passed": "Routinely misunderstood as a cheerful postcard poem, masking its terrifying flirtation with the void.",
+      "learned_from_prev": "Counters Dylan Thomas\u2019s theatrical rage with quiet snowy forest stoicism: Frost employs an interlocking Persian Rubaiyat rhyme scheme to contemplate the dark temptation of suicide and sleep, pulled back only by 'promises to keep.'"
+    },
+    {
+      "rank": 48,
+      "name": "The Summer Day ('Tell me, what is it you plan to do...')",
+      "poet": "Mary Oliver",
+      "year": 1990,
+      "tradition_genre": "American Ecological Transcendentalism / Radical Attention",
+      "archetype": "The Sacred Prayer of Paying Attention to the Wild and Precious Life",
+      "meter_form": "Open Meditative Free Verse with Delicate Natural Pauses",
+      "language_origin": "American English",
+      "line_count": 30,
+      "memetic_valuation_usd": 850000000,
+      "tier": "Tier III: Revolutionary Confessional & Global Voices",
+      "subproblem_scores": {
+        "s1_prosody": 96.0,
+        "s2_semantic": 96.5,
+        "s3_euphonic": 98.5,
+        "s4_consciousness": 100.0,
+        "s5_structural": 99.0,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.5,
+        "prosodic_entropy_bits": 3.3,
+        "enjambment_tension": 76.8,
+        "caesura_frequency_per_line": 1.47
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 95.4,
+        "alliteration_density": 32.9,
+        "semantic_density": 0.9,
+        "ostranenie_score": 93.2,
+        "affective_valence": 0.85,
+        "affective_arousal": -0.3
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.038,
+        "volatility_sigma": 0.055,
+        "expected_value_100yr_usd": 2576454041537.0,
+        "expected_value_250yr_usd": 4.299595615743841e+17,
+        "expected_value_500yr_usd": 2.1748849951674897e+26,
+        "expected_value_1000yr_usd": 5.564852637887873e+43,
+        "p05_stress_100yr_usd": 4471556.0,
+        "p95_bull_100yr_usd": 2.1892820939277308e+16,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "The final two lines are immortal; teaches a practical spiritual practice of paying attention; flawless transparent prose-lyric line",
+        "bad": "Can be reduced to motivational poster slogans if separated from her rigorous solitary nature practice",
+        "fixable": "Reading within her full body of work (New and Selected Poems) reveals its disciplined Zen lineage",
+        "missing": "Complex urban avant-garde dissonance"
+      },
+      "patron_need": "Gratitude, healing from modern digital distraction, radical ecological awareness, and purpose.",
+      "trade_off_passed": "Purity of sentiment is occasionally dismissed by academic cynics as 'too comforting.'",
+      "learned_from_prev": "Resolves Frost\u2019s dark snowy void into summer grass and sunlight: watching a grasshopper eat sugar out of her hand, Oliver teaches that 'attention is the beginning of devotion,' closing with the single most resonant question in contemporary poetry."
+    },
+    {
+      "rank": 49,
+      "name": "Notebook of a Return to the Native Land (Cahier d'un retour...)",
+      "poet": "Aim\u00e9 C\u00e9saire",
+      "year": 1939,
+      "tradition_genre": "Martinican N\u00e9gritude / Revolutionary Surrealist Fire",
+      "archetype": "The Volcano that Coined 'N\u00e9gritude' and Blew Up the French Colonial Language",
+      "meter_form": "Volcanic Surrealist Prose-Poetry & Long Chanted Strophes",
+      "language_origin": "French",
+      "line_count": 1200,
+      "memetic_valuation_usd": 880000000,
+      "tier": "Tier III: Revolutionary Confessional & Global Voices",
+      "subproblem_scores": {
+        "s1_prosody": 98.0,
+        "s2_semantic": 99.0,
+        "s3_euphonic": 99.5,
+        "s4_consciousness": 99.5,
+        "s5_structural": 99.0,
+        "s6_durability": 99.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.58,
+        "prosodic_entropy_bits": 3.12,
+        "enjambment_tension": 87.7,
+        "caesura_frequency_per_line": 1.36
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 94.6,
+        "alliteration_density": 31.8,
+        "semantic_density": 0.92,
+        "ostranenie_score": 92.8,
+        "affective_valence": 0.38,
+        "affective_arousal": 0.54
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.038,
+        "volatility_sigma": 0.055,
+        "expected_value_100yr_usd": 2667387713591.0,
+        "expected_value_250yr_usd": 4.451346049240683e+17,
+        "expected_value_500yr_usd": 2.251645642055754e+26,
+        "expected_value_1000yr_usd": 5.761259201578034e+43,
+        "p05_stress_100yr_usd": 4629375.0,
+        "p95_bull_100yr_usd": 2.266550873713415e+16,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Praised by Andr\u00e9 Breton as the greatest monument of surrealism; foundational charter of post-colonial African literature",
+        "bad": "Challenging vocabulary requires French lexicon consultation for rare botanical and historical terms",
+        "fixable": "Bilingual editions with James Arnold / Clayton Eshleman annotations",
+        "missing": "Quiet understated domesticity"
+      },
+      "patron_need": "Decolonial reclamation of identity, volcanic verbal energy, and shattering internalized racial inferiority.",
+      "trade_off_passed": "High-voltage surrealist vocabulary and torrential imagery require breath and commitment to read.",
+      "learned_from_prev": "Answers Oliver\u2019s pastoral New England meadow with the volcanic fury of Martinique: C\u00e9saire takes the French language of the colonizer and supercharges it with African rhythmic fire, inventing 'N\u00e9gritude' to claim dignity for the enslaved and oppressed."
+    },
+    {
+      "rank": 50,
+      "name": "To My Mother & Identity Card ('Write Down: I Am an Arab')",
+      "poet": "Mahmoud Darwish",
+      "year": 1964,
+      "tradition_genre": "Palestinian Lyric of Exile / National Poetic Consciousness",
+      "archetype": "The Sovereign Voice that Rebuilt a Lost Homeland Out of Words",
+      "meter_form": "Arabic Shi'r Hurr (Free Verse / Taftila Metrics) & Classical Qasida Echoes",
+      "language_origin": "Modern Standard Arabic",
+      "line_count": 80,
+      "memetic_valuation_usd": 950000000,
+      "tier": "Tier III: Revolutionary Confessional & Global Voices",
+      "subproblem_scores": {
+        "s1_prosody": 98.5,
+        "s2_semantic": 98.0,
+        "s3_euphonic": 99.0,
+        "s4_consciousness": 100.0,
+        "s5_structural": 99.0,
+        "s6_durability": 100.0
+      },
+      "prosodic_metrics": {
+        "metric_regularity": 0.54,
+        "prosodic_entropy_bits": 3.35,
+        "enjambment_tension": 95.1,
+        "caesura_frequency_per_line": 1.45
+      },
+      "philological_metrics": {
+        "euphonic_consonance_index": 97.1,
+        "alliteration_density": 32.1,
+        "semantic_density": 0.95,
+        "ostranenie_score": 93.5,
+        "affective_valence": 0.44,
+        "affective_arousal": 0.59
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.038,
+        "volatility_sigma": 0.055,
+        "expected_value_100yr_usd": 2879566281717.0,
+        "expected_value_250yr_usd": 4.8054303940666464e+17,
+        "expected_value_500yr_usd": 2.430753818128371e+26,
+        "expected_value_1000yr_usd": 6.219541183521741e+43,
+        "p05_stress_100yr_usd": 4997621.0,
+        "p95_bull_100yr_usd": 2.446844693213346e+16,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Universal resonance of longing for a mother's touch; defiant declaration of identity against colonial erasure; immortal Arabic lyric music",
+        "bad": "Heavy political burden carried by Darwish as the unofficial national poet of Palestine",
+        "fixable": "Appreciating his late philosophical poetry (Mural, The Butterfly's Burden) where he transcended pure politics into universal mortality",
+        "missing": "Physical geographic peace"
+      },
+      "patron_need": "The agony of exile, dignity in the face of erasure, and the absolute power of the written word as eternal sanctuary.",
+      "trade_off_passed": "Completes the grand cycle from Dante's 14th-century exile from Florence to Darwish's 20th-century exile from Palestine.",
+      "learned_from_prev": "Closes the 50-poem universal canon by uniting the personal intimate longing of Dante and Homer with the modern stateless exile: 'I long for my mother's bread, my mother's coffee.' Darwish demonstrates that when physical land is stolen, poetry becomes the indestructible homeland."
+    }
+  ],
+  "inductive_deltas": [
+    {
+      "transition": "#1 (Dante Alighieri) -> #2 (Homer)",
+      "rank_from": 1,
+      "rank_to": 2,
+      "s1_prosody_delta": -0.5,
+      "s2_semantic_delta": -1.5,
+      "s3_euphonic_delta": 0.5,
+      "s4_consciousness_delta": -0.5,
+      "s5_structural_delta": -1.0,
+      "s6_durability_delta": 0.0,
+      "line_count_ratio": 1.953,
+      "memetic_value_ratio": 0.96,
+      "inductive_synthesis": "Precedes Dante by two millennia, establishing the heroic human tragedy: Achilles' raging confrontation with mortality and Priam weeping over Hector's body set the benchmark for devastating empathy in warfare."
+    },
+    {
+      "transition": "#2 (Homer) -> #3 (John Milton)",
+      "rank_from": 2,
+      "rank_to": 3,
+      "s1_prosody_delta": -0.5,
+      "s2_semantic_delta": 1.0,
+      "s3_euphonic_delta": 0.0,
+      "s4_consciousness_delta": -0.5,
+      "s5_structural_delta": 0.5,
+      "s6_durability_delta": -0.5,
+      "line_count_ratio": 0.38,
+      "memetic_value_ratio": 0.75,
+      "inductive_synthesis": "Takes Homer's heroic battlefield and internalizes it within the cosmic theater of heaven and hell: Milton 'justifies the ways of God to men' with organ-like blank verse, creating the most charismatic antihero in literature (Satan)."
+    },
+    {
+      "transition": "#3 (John Milton) -> #4 (William Shakespeare)",
+      "rank_from": 3,
+      "rank_to": 4,
+      "s1_prosody_delta": 0.5,
+      "s2_semantic_delta": 0.0,
+      "s3_euphonic_delta": -0.5,
+      "s4_consciousness_delta": 0.5,
+      "s5_structural_delta": 0.5,
+      "s6_durability_delta": 0.5,
+      "line_count_ratio": 0.204,
+      "memetic_value_ratio": 1.22,
+      "inductive_synthesis": "Condenses Milton's 10,000-line cosmic organ into the razor-sharp 14-line sonnet box: Shakespeare deconstructs idealized romance ('My mistress' eyes are nothing like the sun') while forging an immortal shield against devouring Time."
+    },
+    {
+      "transition": "#4 (William Shakespeare) -> #5 (Anonymous (compiled by Sin-leqi-unninni))",
+      "rank_from": 4,
+      "rank_to": 5,
+      "s1_prosody_delta": -3.5,
+      "s2_semantic_delta": -1.0,
+      "s3_euphonic_delta": -2.0,
+      "s4_consciousness_delta": 0.5,
+      "s5_structural_delta": -3.0,
+      "s6_durability_delta": 0.0,
+      "line_count_ratio": 1.391,
+      "memetic_value_ratio": 0.68,
+      "inductive_synthesis": "Strips away Shakespeare's ornate Elizabethan wit to reveal the raw primordial terror of death: Gilgamesh weeps over Enkidu's rotting body, roaming the wilderness to discover that immortality belongs only to the gods."
+    },
+    {
+      "transition": "#5 (Anonymous (compiled by Sin-leqi-unninni)) -> #6 (Attributed to Vyasa)",
+      "rank_from": 5,
+      "rank_to": 6,
+      "s1_prosody_delta": 2.5,
+      "s2_semantic_delta": 0.5,
+      "s3_euphonic_delta": 1.0,
+      "s4_consciousness_delta": 0.0,
+      "s5_structural_delta": 1.0,
+      "s6_durability_delta": 0.0,
+      "line_count_ratio": 66.667,
+      "memetic_value_ratio": 1.4,
+      "inductive_synthesis": "Resolves Gilgamesh's despair over mortality with Krishna's timeless revelation to Arjuna on the battlefield of Kurukshetra: 'The soul is never born, nor does it die.'"
+    },
+    {
+      "transition": "#6 (Attributed to Vyasa) -> #7 (Du Fu (Tu Fu))",
+      "rank_from": 6,
+      "rank_to": 7,
+      "s1_prosody_delta": 1.5,
+      "s2_semantic_delta": -1.5,
+      "s3_euphonic_delta": 0.5,
+      "s4_consciousness_delta": 0.0,
+      "s5_structural_delta": 2.0,
+      "s6_durability_delta": 0.0,
+      "line_count_ratio": 0.0,
+      "memetic_value_ratio": 0.76,
+      "inductive_synthesis": "Inverts the massive Sanskrit epic into 8 lines of superhuman compression: 'The country is broken, mountains and rivers remain; In the city, spring deepens, grass and trees grow thick.' Every single word carries strict tonal and semantic antithesis."
+    },
+    {
+      "transition": "#7 (Du Fu (Tu Fu)) -> #8 (Li Bai (Li Po))",
+      "rank_from": 7,
+      "rank_to": 8,
+      "s1_prosody_delta": -2.5,
+      "s2_semantic_delta": 0.0,
+      "s3_euphonic_delta": 0.5,
+      "s4_consciousness_delta": -1.0,
+      "s5_structural_delta": 0.0,
+      "s6_durability_delta": 0.0,
+      "line_count_ratio": 0.5,
+      "memetic_value_ratio": 1.06,
+      "inductive_synthesis": "Complements Du Fu's historical agony with celestial Daoist weightlessness: twenty characters depicting frost on the floor, raising the head to gaze at the bright moon, and lowering it to think of home\u2014memorized by over one billion people."
+    },
+    {
+      "transition": "#8 (Li Bai (Li Po)) -> #9 (Jalal al-Din Muhammad Rumi)",
+      "rank_from": 8,
+      "rank_to": 9,
+      "s1_prosody_delta": 1.0,
+      "s2_semantic_delta": 2.0,
+      "s3_euphonic_delta": 0.0,
+      "s4_consciousness_delta": 1.0,
+      "s5_structural_delta": -1.5,
+      "s6_durability_delta": 0.0,
+      "line_count_ratio": 6250.0,
+      "memetic_value_ratio": 1.12,
+      "inductive_synthesis": "Transforms Li Bai's moonlit wine into sacred Sufi annihilation: the Reed Flute's lament ('Listen to the reed as it tells its tale, complaining of separation') becomes the universal cry of the human soul seeking reunion with the Divine."
+    },
+    {
+      "transition": "#9 (Jalal al-Din Muhammad Rumi) -> #10 (Hafez of Shiraz)",
+      "rank_from": 9,
+      "rank_to": 10,
+      "s1_prosody_delta": 0.5,
+      "s2_semantic_delta": -0.5,
+      "s3_euphonic_delta": 0.5,
+      "s4_consciousness_delta": -0.5,
+      "s5_structural_delta": 1.0,
+      "s6_durability_delta": 0.0,
+      "line_count_ratio": 0.16,
+      "memetic_value_ratio": 0.79,
+      "inductive_synthesis": "Refines Rumi's ecstatic torrent into jewel-like Ghazal couplets where every word operates simultaneously on physical, romantic, political, and mystical levels: consulted as an oracle (Fal-e Hafez) by millions across centuries."
+    },
+    {
+      "transition": "#10 (Hafez of Shiraz) -> #11 (Virgil)",
+      "rank_from": 10,
+      "rank_to": 11,
+      "s1_prosody_delta": -0.5,
+      "s2_semantic_delta": -0.5,
+      "s3_euphonic_delta": -0.5,
+      "s4_consciousness_delta": -0.5,
+      "s5_structural_delta": -0.5,
+      "s6_durability_delta": 0.0,
+      "line_count_ratio": 2.474,
+      "memetic_value_ratio": 1.07,
+      "inductive_synthesis": "Bridges Homer's bronze battlefield into the philosophical crucible of imperial Rome: Aeneas carries his crippled father on his back from burning Troy, subordinating personal love (Dido) to crushing historical destiny ('lacrimae rerum')."
+    },
+    {
+      "transition": "#11 (Virgil) -> #12 (Ovid)",
+      "rank_from": 11,
+      "rank_to": 12,
+      "s1_prosody_delta": -0.5,
+      "s2_semantic_delta": -0.5,
+      "s3_euphonic_delta": -0.5,
+      "s4_consciousness_delta": -1.0,
+      "s5_structural_delta": 0.0,
+      "s6_durability_delta": 0.0,
+      "line_count_ratio": 1.212,
+      "memetic_value_ratio": 0.97,
+      "inductive_synthesis": "Counters Virgil's solemn imperial gravity with playful, subversive cosmic flux: Ovid chronicles 250 mythological transformations, proclaiming that 'all things change, nothing perishes'\u2014fueling Dante, Shakespeare, and modern art."
+    },
+    {
+      "transition": "#12 (Ovid) -> #13 (Geoffrey Chaucer)",
+      "rank_from": 12,
+      "rank_to": 13,
+      "s1_prosody_delta": -0.5,
+      "s2_semantic_delta": 0.5,
+      "s3_euphonic_delta": -0.5,
+      "s4_consciousness_delta": 1.0,
+      "s5_structural_delta": -0.5,
+      "s6_durability_delta": 0.0,
+      "line_count_ratio": 1.417,
+      "memetic_value_ratio": 0.9,
+      "inductive_synthesis": "Takes Ovid's storytelling panache and grounds it in late-medieval English realism: from the opening 'Whan that Aprill with his shoures soote', Chaucer convenes knights, millers, pardoner, and the Wife of Bath in a vivid democratic pilgrimage."
+    },
+    {
+      "transition": "#13 (Geoffrey Chaucer) -> #14 (Matsuo Basho)",
+      "rank_from": 13,
+      "rank_to": 14,
+      "s1_prosody_delta": -0.5,
+      "s2_semantic_delta": -1.0,
+      "s3_euphonic_delta": 1.0,
+      "s4_consciousness_delta": 0.0,
+      "s5_structural_delta": 1.5,
+      "s6_durability_delta": 0.0,
+      "line_count_ratio": 0.088,
+      "memetic_value_ratio": 0.93,
+      "inductive_synthesis": "Strips Chaucer\u2019s sprawling social carnival down to the Zen traveler walking with straw sandals: Basho weaves prose and haiku together ('Stillness\u2014 / sinking into the rocks, / cicada's cry'), crystallizing the eternal in a single transient instant."
+    },
+    {
+      "transition": "#14 (Matsuo Basho) -> #15 (Sappho)",
+      "rank_from": 14,
+      "rank_to": 15,
+      "s1_prosody_delta": 1.0,
+      "s2_semantic_delta": 1.0,
+      "s3_euphonic_delta": 0.5,
+      "s4_consciousness_delta": 1.0,
+      "s5_structural_delta": -2.0,
+      "s6_durability_delta": 0.0,
+      "line_count_ratio": 0.2,
+      "memetic_value_ratio": 0.96,
+      "inductive_synthesis": "Precedes Basho by over two millennia, inventing the subjective lyric self: in Fragment 31, observing her beloved sitting with a man induces physical tachycardia ('my tongue breaks, a thin flame runs beneath my skin, my ears ring'), capturing love as somatic shock."
+    },
+    {
+      "transition": "#15 (Sappho) -> #16 (Kalidasa)",
+      "rank_from": 15,
+      "rank_to": 16,
+      "s1_prosody_delta": 0.5,
+      "s2_semantic_delta": -0.5,
+      "s3_euphonic_delta": 0.5,
+      "s4_consciousness_delta": -1.0,
+      "s5_structural_delta": 1.0,
+      "s6_durability_delta": -1.0,
+      "line_count_ratio": 0.37,
+      "memetic_value_ratio": 0.88,
+      "inductive_synthesis": "Closes Tier I by merging Sappho's intimate romantic ache with the grand geographical geography of India: a banished yaksha convinces a passing monsoon cloud to carry a love message northward across mountain peaks, rivers, and temples to his weeping wife in Alaka."
+    },
+    {
+      "transition": "#16 (Kalidasa) -> #17 (T.S. Eliot)",
+      "rank_from": 16,
+      "rank_to": 17,
+      "s1_prosody_delta": 0.5,
+      "s2_semantic_delta": 1.0,
+      "s3_euphonic_delta": -0.5,
+      "s4_consciousness_delta": -0.5,
+      "s5_structural_delta": 1.0,
+      "s6_durability_delta": 1.0,
+      "line_count_ratio": 3.901,
+      "memetic_value_ratio": 1.27,
+      "inductive_synthesis": "Shatters the ancient coherence of Tier I in the wake of World War I: 'These fragments I have shored against my ruins.' Eliot splices Grail legends, London bank commuters, tarot cards, and the Upanishads ('Datta, Dayadhvam, Damyata') into the supreme modernist collage."
+    },
+    {
+      "transition": "#17 (T.S. Eliot) -> #18 (William Blake)",
+      "rank_from": 17,
+      "rank_to": 18,
+      "s1_prosody_delta": -1.0,
+      "s2_semantic_delta": 0.5,
+      "s3_euphonic_delta": -0.5,
+      "s4_consciousness_delta": 1.5,
+      "s5_structural_delta": -0.5,
+      "s6_durability_delta": 0.0,
+      "line_count_ratio": 1.155,
+      "memetic_value_ratio": 0.86,
+      "inductive_synthesis": "Precedes Eliot's ruined city by a century, discovering the 'mind-forg'd manacles' of Industrial London: in 'The Tyger', Blake asks the ultimate metaphysical question\u2014'Did he who made the Lamb make thee?'"
+    },
+    {
+      "transition": "#18 (William Blake) -> #19 (John Keats)",
+      "rank_from": 18,
+      "rank_to": 19,
+      "s1_prosody_delta": 1.5,
+      "s2_semantic_delta": -1.5,
+      "s3_euphonic_delta": 1.0,
+      "s4_consciousness_delta": -0.5,
+      "s5_structural_delta": 0.5,
+      "s6_durability_delta": 0.0,
+      "line_count_ratio": 0.5,
+      "memetic_value_ratio": 1.12,
+      "inductive_synthesis": "Written in a miraculous burst in spring 1819 as tuberculosis consumed him at age 23: Keats embraces 'Negative Capability'\u2014dwelling in uncertainties and mysteries without irritable reaching after fact\u2014culminating in the immortal 'Beauty is truth, truth beauty.'"
+    },
+    {
+      "transition": "#19 (John Keats) -> #20 (Walt Whitman)",
+      "rank_from": 19,
+      "rank_to": 20,
+      "s1_prosody_delta": -2.5,
+      "s2_semantic_delta": 2.5,
+      "s3_euphonic_delta": -1.5,
+      "s4_consciousness_delta": -0.5,
+      "s5_structural_delta": -1.0,
+      "s6_durability_delta": 0.0,
+      "line_count_ratio": 5.384,
+      "memetic_value_ratio": 1.11,
+      "inductive_synthesis": "Shatters Keats's aristocratic stanzaic constraints to birth American free verse: 'I celebrate myself, and sing myself, / And what I assume you shall assume, / For every atom belonging to me as good belongs to you.'"
+    },
+    {
+      "transition": "#20 (Walt Whitman) -> #21 (Emily Dickinson)",
+      "rank_from": 20,
+      "rank_to": 21,
+      "s1_prosody_delta": 2.0,
+      "s2_semantic_delta": -2.0,
+      "s3_euphonic_delta": 0.0,
+      "s4_consciousness_delta": 1.0,
+      "s5_structural_delta": 1.0,
+      "s6_durability_delta": 0.0,
+      "line_count_ratio": 1.329,
+      "memetic_value_ratio": 0.97,
+      "inductive_synthesis": "The diametric anti-Whitman: while Whitman roamed the open continent, Dickinson stayed in her second-floor bedroom in Amherst, compressing eternity into hymn meters, slant rhymes, and dashes that function as metaphysical trapdoors."
+    },
+    {
+      "transition": "#21 (Emily Dickinson) -> #22 (William Butler Yeats)",
+      "rank_from": 21,
+      "rank_to": 22,
+      "s1_prosody_delta": -0.5,
+      "s2_semantic_delta": 1.0,
+      "s3_euphonic_delta": 0.5,
+      "s4_consciousness_delta": -0.5,
+      "s5_structural_delta": -0.5,
+      "s6_durability_delta": 0.0,
+      "line_count_ratio": 0.084,
+      "memetic_value_ratio": 0.9,
+      "inductive_synthesis": "Foresees the geopolitical horrors of the 20th century in 22 chilling lines: 'Things fall apart; the centre cannot hold; / Mere anarchy is loosed upon the world... The best lack all conviction, while the worst / Are full of passionate intensity.'"
+    },
+    {
+      "transition": "#22 (William Butler Yeats) -> #23 (Rainer Maria Rilke)",
+      "rank_from": 22,
+      "rank_to": 23,
+      "s1_prosody_delta": 1.0,
+      "s2_semantic_delta": -1.5,
+      "s3_euphonic_delta": 0.5,
+      "s4_consciousness_delta": 0.5,
+      "s5_structural_delta": 0.0,
+      "s6_durability_delta": 0.0,
+      "line_count_ratio": 10.0,
+      "memetic_value_ratio": 0.96,
+      "inductive_synthesis": "Completed in a single torrential burst at the Castle of Muzot: Rilke confronts the terrifying Angel who would crush us with beauty ('For beauty is nothing but the beginning of terror, which we are barely able to endure'). Concludes that our sole duty is Praise."
+    },
+    {
+      "transition": "#23 (Rainer Maria Rilke) -> #24 (Charles Baudelaire)",
+      "rank_from": 23,
+      "rank_to": 24,
+      "s1_prosody_delta": -1.0,
+      "s2_semantic_delta": 0.0,
+      "s3_euphonic_delta": 0.5,
+      "s4_consciousness_delta": -1.0,
+      "s5_structural_delta": -0.5,
+      "s6_durability_delta": 0.0,
+      "line_count_ratio": 2.0,
+      "memetic_value_ratio": 0.96,
+      "inductive_synthesis": "Rejects pastoral Romantic nature in favor of the paved Parisian asphalt: Baudelaire invents the poet as fl\u00e2neur, discovering beauty in decomposing corpses, opium, brothels, and metropolitan alienation, prosecuted for obscenity in 1857."
+    },
+    {
+      "transition": "#24 (Charles Baudelaire) -> #25 (Percy Bysshe Shelley)",
+      "rank_from": 24,
+      "rank_to": 25,
+      "s1_prosody_delta": -0.5,
+      "s2_semantic_delta": 1.0,
+      "s3_euphonic_delta": -1.0,
+      "s4_consciousness_delta": 0.0,
+      "s5_structural_delta": 0.5,
+      "s6_durability_delta": 0.0,
+      "line_count_ratio": 0.05,
+      "memetic_value_ratio": 0.96,
+      "inductive_synthesis": "Takes Baudelaire's decay and directs it with razor sharpness at authoritarian power: two vast and trunkless legs of stone in the desert where 'Nothing beside remains. Round the decay / Of that colossal Wreck, boundless and bare / The lone and level sands stretch far away.'"
+    },
+    {
+      "transition": "#25 (Percy Bysshe Shelley) -> #26 (William Wordsworth)",
+      "rank_from": 25,
+      "rank_to": 26,
+      "s1_prosody_delta": -0.5,
+      "s2_semantic_delta": -1.5,
+      "s3_euphonic_delta": -0.5,
+      "s4_consciousness_delta": 0.0,
+      "s5_structural_delta": -1.0,
+      "s6_durability_delta": 0.0,
+      "line_count_ratio": 56.667,
+      "memetic_value_ratio": 1.04,
+      "inductive_synthesis": "Grounds Shelley's revolutionary storm in psychological memory and Lake District stillness: Wordsworth discovers the divine presence 'whose dwelling is the light of setting suns', replacing epic wars with the sanctification of everyday human consciousness."
+    },
+    {
+      "transition": "#26 (William Wordsworth) -> #27 (Arthur Rimbaud)",
+      "rank_from": 26,
+      "rank_to": 27,
+      "s1_prosody_delta": 0.5,
+      "s2_semantic_delta": 2.0,
+      "s3_euphonic_delta": 1.0,
+      "s4_consciousness_delta": 0.0,
+      "s5_structural_delta": 0.5,
+      "s6_durability_delta": -0.5,
+      "line_count_ratio": 0.141,
+      "memetic_value_ratio": 0.88,
+      "inductive_synthesis": "Shatters Wordsworth's serene moral peace: written at age 18 after his tempestuous affair with Verlaine, Rimbaud proclaims that the poet must become a seer through a 'long, immense and reasoned derangement of all the senses,' before abandoning poetry forever at 20."
+    },
+    {
+      "transition": "#27 (Arthur Rimbaud) -> #28 (Federico Garc\u00eda Lorca)",
+      "rank_from": 27,
+      "rank_to": 28,
+      "s1_prosody_delta": 0.0,
+      "s2_semantic_delta": 0.5,
+      "s3_euphonic_delta": 0.0,
+      "s4_consciousness_delta": 0.5,
+      "s5_structural_delta": 0.0,
+      "s6_durability_delta": 0.5,
+      "line_count_ratio": 1.833,
+      "memetic_value_ratio": 1.05,
+      "inductive_synthesis": "Bridges Rimbaud\u2019s derangement directly into the 1929 Wall Street Crash: Lorca witnesses the mechanical butchery of Manhattan, arming his verse with 'Duende'\u2014the mysterious dark power of death and blood that animates authentic art."
+    },
+    {
+      "transition": "#28 (Federico Garc\u00eda Lorca) -> #29 (Samuel Taylor Coleridge)",
+      "rank_from": 28,
+      "rank_to": 29,
+      "s1_prosody_delta": -0.5,
+      "s2_semantic_delta": -1.0,
+      "s3_euphonic_delta": 0.0,
+      "s4_consciousness_delta": -1.0,
+      "s5_structural_delta": 0.5,
+      "s6_durability_delta": 0.0,
+      "line_count_ratio": 0.309,
+      "memetic_value_ratio": 0.98,
+      "inductive_synthesis": "Injects supernatural gothic terror into Wordsworth's Lyrical Ballads: shooting the Albatross triggers an ecological nightmare where 'Water, water, everywhere, / Nor any drop to drink'\u2014compelling the mariner to wander the earth forever telling his tale."
+    },
+    {
+      "transition": "#29 (Samuel Taylor Coleridge) -> #30 (Wallace Stevens)",
+      "rank_from": 29,
+      "rank_to": 30,
+      "s1_prosody_delta": 1.0,
+      "s2_semantic_delta": -1.5,
+      "s3_euphonic_delta": 0.0,
+      "s4_consciousness_delta": -0.5,
+      "s5_structural_delta": 0.0,
+      "s6_durability_delta": -1.0,
+      "line_count_ratio": 0.441,
+      "memetic_value_ratio": 0.91,
+      "inductive_synthesis": "Resolves Coleridge's supernatural vision into 20th-century secular epistemology: a woman sings beside the sea at Key West, and 'she was the maker of the song she sang. / The ever-hooded, tragic-gestured sea / Was merely a place by which she walked to sing.'"
+    },
+    {
+      "transition": "#30 (Wallace Stevens) -> #31 (Paul Celan)",
+      "rank_from": 30,
+      "rank_to": 31,
+      "s1_prosody_delta": 1.5,
+      "s2_semantic_delta": 2.5,
+      "s3_euphonic_delta": 0.0,
+      "s4_consciousness_delta": 2.0,
+      "s5_structural_delta": 0.5,
+      "s6_durability_delta": 1.0,
+      "line_count_ratio": 0.12,
+      "memetic_value_ratio": 1.17,
+      "inductive_synthesis": "Directly confronts Adorno's dictum that 'to write poetry after Auschwitz is barbaric': Celan takes the German language of his mother's murderers and structures an agonizing musical fugue around the paradoxical image of 'Black milk of daybreak we drink it at evening.'"
+    },
+    {
+      "transition": "#31 (Paul Celan) -> #32 (Lord Byron)",
+      "rank_from": 31,
+      "rank_to": 32,
+      "s1_prosody_delta": -3.0,
+      "s2_semantic_delta": -1.0,
+      "s3_euphonic_delta": -1.5,
+      "s4_consciousness_delta": -2.5,
+      "s5_structural_delta": -1.0,
+      "s6_durability_delta": -0.5,
+      "line_count_ratio": 444.444,
+      "memetic_value_ratio": 0.96,
+      "inductive_synthesis": "Inverts Celan and Wordsworth\u2019s high seriousness with devastating cosmopolitan satire: Byron flips the legendary seducer Don Juan into an innocent victim of aggressive women, employing the final rhyming couplet of Ottava Rima for merciless comic deflations."
+    },
+    {
+      "transition": "#32 (Lord Byron) -> #33 (St\u00e9phane Mallarm\u00e9)",
+      "rank_from": 32,
+      "rank_to": 33,
+      "s1_prosody_delta": 1.5,
+      "s2_semantic_delta": 0.5,
+      "s3_euphonic_delta": 1.0,
+      "s4_consciousness_delta": -0.5,
+      "s5_structural_delta": 1.0,
+      "s6_durability_delta": -0.5,
+      "line_count_ratio": 0.016,
+      "memetic_value_ratio": 0.84,
+      "inductive_synthesis": "Shatters the linear page of Byron and Keats: Mallarm\u00e9 uses varying font sizes, blank whitespace, and two-page spreads to simulate a dice roll and a shipwreck in the mind, declaring that 'A throw of the dice will never abolish chance.'"
+    },
+    {
+      "transition": "#33 (St\u00e9phane Mallarm\u00e9) -> #34 (Fernando Pessoa)",
+      "rank_from": 33,
+      "rank_to": 34,
+      "s1_prosody_delta": -0.5,
+      "s2_semantic_delta": -1.5,
+      "s3_euphonic_delta": -0.5,
+      "s4_consciousness_delta": 3.0,
+      "s5_structural_delta": -1.0,
+      "s6_durability_delta": 0.5,
+      "line_count_ratio": 20.0,
+      "memetic_value_ratio": 1.14,
+      "inductive_synthesis": "Takes Mallarm\u00e9's mental space and fractures it into 72 distinct alter-egos (heteronyms): Pessoa invents Alberto Caeiro (pagan shepherd), Ricardo Reis (stoic neo-classicist), and \u00c1lvaro de Campos (futurist engineer), claiming 'I am a whole orchestra.'"
+    },
+    {
+      "transition": "#34 (Fernando Pessoa) -> #35 (Hart Crane)",
+      "rank_from": 34,
+      "rank_to": 35,
+      "s1_prosody_delta": 1.0,
+      "s2_semantic_delta": 0.5,
+      "s3_euphonic_delta": 1.5,
+      "s4_consciousness_delta": -1.5,
+      "s5_structural_delta": 0.5,
+      "s6_durability_delta": -1.0,
+      "line_count_ratio": 0.24,
+      "memetic_value_ratio": 0.88,
+      "inductive_synthesis": "Closes Tier II by answering T.S. Eliot's bleak *The Waste Land* with triumphant machine-age ecstasy: Crane turns the Brooklyn Bridge into a soaring harp of steel cables, uniting Pocahontas, Columbus, and subway trains into American myth."
+    },
+    {
+      "transition": "#35 (Hart Crane) -> #36 (Pablo Neruda)",
+      "rank_from": 35,
+      "rank_to": 36,
+      "s1_prosody_delta": -1.5,
+      "s2_semantic_delta": 0.5,
+      "s3_euphonic_delta": -1.0,
+      "s4_consciousness_delta": 1.5,
+      "s5_structural_delta": -1.0,
+      "s6_durability_delta": 1.5,
+      "line_count_ratio": 5.0,
+      "memetic_value_ratio": 1.41,
+      "inductive_synthesis": "Brings Hart Crane's epic architectural vision down into the geological soil of South America: Neruda scales the heights of Machu Picchu to speak for the forgotten indigenous builders ('Rise up to be born with me, my brother'), uniting erotic love and epic struggle."
+    },
+    {
+      "transition": "#36 (Pablo Neruda) -> #37 (Langston Hughes)",
+      "rank_from": 36,
+      "rank_to": 37,
+      "s1_prosody_delta": -1.0,
+      "s2_semantic_delta": 1.5,
+      "s3_euphonic_delta": -0.5,
+      "s4_consciousness_delta": 0.0,
+      "s5_structural_delta": -0.5,
+      "s6_durability_delta": 0.0,
+      "line_count_ratio": 0.083,
+      "memetic_value_ratio": 0.96,
+      "inductive_synthesis": "Written at age 17 crossing the Mississippi River: Hughes roots African-American poetry in the deep ancestral flow ('My soul has grown deep like the rivers'), transmuting Harlem jazz club syncopations into high literary art."
+    },
+    {
+      "transition": "#37 (Langston Hughes) -> #38 (Sylvia Plath)",
+      "rank_from": 37,
+      "rank_to": 38,
+      "s1_prosody_delta": 1.5,
+      "s2_semantic_delta": -0.5,
+      "s3_euphonic_delta": 0.5,
+      "s4_consciousness_delta": 0.0,
+      "s5_structural_delta": 1.5,
+      "s6_durability_delta": 0.0,
+      "line_count_ratio": 1.6,
+      "memetic_value_ratio": 0.92,
+      "inductive_synthesis": "Pivots Hughes's collective ancestral pride into incandescent personal psychological fury: written at 4 AM before her children woke, Plath unleashes nursery-rhyme trochaic rhythms to confront patriarchal trauma and rise 'with my red hair / And I eat men like air.'"
+    },
+    {
+      "transition": "#38 (Sylvia Plath) -> #39 (W.H. Auden)",
+      "rank_from": 38,
+      "rank_to": 39,
+      "s1_prosody_delta": -0.5,
+      "s2_semantic_delta": -1.5,
+      "s3_euphonic_delta": -0.5,
+      "s4_consciousness_delta": -0.5,
+      "s5_structural_delta": -0.5,
+      "s6_durability_delta": 0.0,
+      "line_count_ratio": 0.5,
+      "memetic_value_ratio": 1.04,
+      "inductive_synthesis": "Answers Plath's volcanic scream with devastating British understatement: in 'Musee des Beaux Arts', Auden observes Brueghel's painting of Icarus falling from the sky while a plowman indifferently continues tilling his field."
+    },
+    {
+      "transition": "#39 (W.H. Auden) -> #40 (Allen Ginsberg)",
+      "rank_from": 39,
+      "rank_to": 40,
+      "s1_prosody_delta": -1.0,
+      "s2_semantic_delta": 2.0,
+      "s3_euphonic_delta": 0.5,
+      "s4_consciousness_delta": -0.5,
+      "s5_structural_delta": -0.5,
+      "s6_durability_delta": 0.0,
+      "line_count_ratio": 0.625,
+      "memetic_value_ratio": 0.88,
+      "inductive_synthesis": "Shatters Auden's quiet understatement with an explosive Whitmanic roar at the Six Gallery in San Francisco: 'I saw the best minds of my generation destroyed by madness, starving hysterical naked...'\u2014igniting the famous 1957 obscenity trial."
+    },
+    {
+      "transition": "#40 (Allen Ginsberg) -> #41 (C.P. Cavafy)",
+      "rank_from": 40,
+      "rank_to": 41,
+      "s1_prosody_delta": 1.5,
+      "s2_semantic_delta": -3.0,
+      "s3_euphonic_delta": -0.5,
+      "s4_consciousness_delta": 1.0,
+      "s5_structural_delta": 0.5,
+      "s6_durability_delta": 0.0,
+      "line_count_ratio": 0.48,
+      "memetic_value_ratio": 1.05,
+      "inductive_synthesis": "Answers Ginsberg's feverish shout with quiet Alexandrian stoicism: in 'Ithaka', Cavafy tells the traveler that the destination is an illusion\u2014'Keep Ithaka always in your mind... Ithaka gave you the marvelous journey. Without her you would not have set out.'"
+    },
+    {
+      "transition": "#41 (C.P. Cavafy) -> #42 (Derek Walcott)",
+      "rank_from": 41,
+      "rank_to": 42,
+      "s1_prosody_delta": 1.0,
+      "s2_semantic_delta": 1.5,
+      "s3_euphonic_delta": 1.5,
+      "s4_consciousness_delta": -1.0,
+      "s5_structural_delta": 0.0,
+      "s6_durability_delta": -1.0,
+      "line_count_ratio": 66.667,
+      "memetic_value_ratio": 0.86,
+      "inductive_synthesis": "Directly links Dante\u2019s Terza Rima and Homer\u2019s fishermen to the Caribbean island of Saint Lucia: Walcott casts fishermen Achille and Hector contending for housemaid Helen, transmuting colonial wounds into luminous visual splendor."
+    },
+    {
+      "transition": "#42 (Derek Walcott) -> #43 (Gwendolyn Brooks)",
+      "rank_from": 42,
+      "rank_to": 43,
+      "s1_prosody_delta": -1.0,
+      "s2_semantic_delta": 1.5,
+      "s3_euphonic_delta": -1.0,
+      "s4_consciousness_delta": 1.0,
+      "s5_structural_delta": 1.0,
+      "s6_durability_delta": 1.0,
+      "line_count_ratio": 0.001,
+      "memetic_value_ratio": 1.03,
+      "inductive_synthesis": "Answers Walcott\u2019s epic 8,000 lines with 24 monosyllabic words: watching young pool players at The Golden Shovel, Brooks invents a syncopated jazz rhythm by placing 'We' at the end of each line, culminating in the chilling 'Die soon.'"
+    },
+    {
+      "transition": "#43 (Gwendolyn Brooks) -> #44 (Octavio Paz)",
+      "rank_from": 43,
+      "rank_to": 44,
+      "s1_prosody_delta": 0.5,
+      "s2_semantic_delta": -2.0,
+      "s3_euphonic_delta": 0.5,
+      "s4_consciousness_delta": -1.0,
+      "s5_structural_delta": -0.5,
+      "s6_durability_delta": -1.0,
+      "line_count_ratio": 73.0,
+      "memetic_value_ratio": 0.94,
+      "inductive_synthesis": "Synthesizes Brooks\u2019s syncopation into a monumental circular river: exactly 584 endecas\u00edlabo lines matching the Venusian synodic cycle of the Aztec Calendar Stone, written in a single unbroken sentence that loops back to its opening line."
+    },
+    {
+      "transition": "#44 (Octavio Paz) -> #45 (Anna Akhmatova)",
+      "rank_from": 44,
+      "rank_to": 45,
+      "s1_prosody_delta": 0.0,
+      "s2_semantic_delta": -0.5,
+      "s3_euphonic_delta": -0.5,
+      "s4_consciousness_delta": 1.0,
+      "s5_structural_delta": 0.5,
+      "s6_durability_delta": 1.0,
+      "line_count_ratio": 0.599,
+      "memetic_value_ratio": 1.2,
+      "inductive_synthesis": "Grounds Paz's cosmic Aztec cycle in the freezing Leningrad prison lines during Stalin's Great Terror: Akhmatova stood for seventeen months outside Kresty Prison waiting for news of her son, memorizing the poem in secret because writing it down meant death."
+    },
+    {
+      "transition": "#45 (Anna Akhmatova) -> #46 (Dylan Thomas)",
+      "rank_from": 45,
+      "rank_to": 46,
+      "s1_prosody_delta": 0.5,
+      "s2_semantic_delta": 1.0,
+      "s3_euphonic_delta": 1.0,
+      "s4_consciousness_delta": -1.0,
+      "s5_structural_delta": 0.0,
+      "s6_durability_delta": 0.0,
+      "line_count_ratio": 0.054,
+      "memetic_value_ratio": 0.95,
+      "inductive_synthesis": "Answers Akhmatova\u2019s solemn silence with roaring phonetic fire: written for his dying, blind father, Thomas takes the rigid French 19-line villanelle and turns it into an immortal war cry\u2014'Rage, rage against the dying of the light.'"
+    },
+    {
+      "transition": "#46 (Dylan Thomas) -> #47 (Robert Frost)",
+      "rank_from": 46,
+      "rank_to": 47,
+      "s1_prosody_delta": -0.5,
+      "s2_semantic_delta": -0.5,
+      "s3_euphonic_delta": -1.0,
+      "s4_consciousness_delta": 0.0,
+      "s5_structural_delta": 0.0,
+      "s6_durability_delta": 0.0,
+      "line_count_ratio": 0.842,
+      "memetic_value_ratio": 1.19,
+      "inductive_synthesis": "Counters Dylan Thomas\u2019s theatrical rage with quiet snowy forest stoicism: Frost employs an interlocking Persian Rubaiyat rhyme scheme to contemplate the dark temptation of suicide and sleep, pulled back only by 'promises to keep.'"
+    },
+    {
+      "transition": "#47 (Robert Frost) -> #48 (Mary Oliver)",
+      "rank_from": 47,
+      "rank_to": 48,
+      "s1_prosody_delta": -2.5,
+      "s2_semantic_delta": -1.5,
+      "s3_euphonic_delta": -0.5,
+      "s4_consciousness_delta": 1.0,
+      "s5_structural_delta": -1.0,
+      "s6_durability_delta": 0.0,
+      "line_count_ratio": 1.875,
+      "memetic_value_ratio": 0.68,
+      "inductive_synthesis": "Resolves Frost\u2019s dark snowy void into summer grass and sunlight: watching a grasshopper eat sugar out of her hand, Oliver teaches that 'attention is the beginning of devotion,' closing with the single most resonant question in contemporary poetry."
+    },
+    {
+      "transition": "#48 (Mary Oliver) -> #49 (Aim\u00e9 C\u00e9saire)",
+      "rank_from": 48,
+      "rank_to": 49,
+      "s1_prosody_delta": 2.0,
+      "s2_semantic_delta": 2.5,
+      "s3_euphonic_delta": 1.0,
+      "s4_consciousness_delta": -0.5,
+      "s5_structural_delta": 0.0,
+      "s6_durability_delta": -1.0,
+      "line_count_ratio": 40.0,
+      "memetic_value_ratio": 1.04,
+      "inductive_synthesis": "Answers Oliver\u2019s pastoral New England meadow with the volcanic fury of Martinique: C\u00e9saire takes the French language of the colonizer and supercharges it with African rhythmic fire, inventing 'N\u00e9gritude' to claim dignity for the enslaved and oppressed."
+    },
+    {
+      "transition": "#49 (Aim\u00e9 C\u00e9saire) -> #50 (Mahmoud Darwish)",
+      "rank_from": 49,
+      "rank_to": 50,
+      "s1_prosody_delta": 0.5,
+      "s2_semantic_delta": -1.0,
+      "s3_euphonic_delta": -0.5,
+      "s4_consciousness_delta": 0.5,
+      "s5_structural_delta": 0.0,
+      "s6_durability_delta": 1.0,
+      "line_count_ratio": 0.067,
+      "memetic_value_ratio": 1.08,
+      "inductive_synthesis": "Closes the 50-poem universal canon by uniting the personal intimate longing of Dante and Homer with the modern stateless exile: 'I long for my mother's bread, my mother's coffee.' Darwish demonstrates that when physical land is stolen, poetry becomes the indestructible homeland."
+    }
+  ]
+}

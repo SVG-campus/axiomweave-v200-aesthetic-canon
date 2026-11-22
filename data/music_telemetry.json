@@ -1,0 +1,3446 @@
+{
+  "system_tag": "AW-OMNI-V200-MUSIC-TELEMETRY-APEX",
+  "canonical_registry": "AW-MUSIC-50-TELEMETRY-SIMULATION-V200-CANONICAL",
+  "timestamp": "2026-11-22T04:39:33Z",
+  "total_works": 50,
+  "works": [
+    {
+      "rank": 1,
+      "name": "Mass in B Minor (BWV 232)",
+      "artist": "Johann Sebastian Bach",
+      "year": 1749,
+      "genre": "Sacred Baroque / Monumental Polyphony",
+      "archetype": "The Everest of Western Polyphonic Counterpoint",
+      "key_signature": "B minor / D major",
+      "tempo_bpm": 68,
+      "duration_min": 108.0,
+      "catalog_value_usd": 1500000000,
+      "tier": "Tier I: Monumental Orchestral, Sacred & Jazz Transfigurations",
+      "subproblem_scores": {
+        "s1_harmonic": 100.0,
+        "s2_rhythmic": 95.0,
+        "s3_timbral": 98.5,
+        "s4_poetic": 100.0,
+        "s5_production": 95.0,
+        "s6_cultural": 100.0
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 20.4,
+        "lufs_integrated": -21.2,
+        "true_peak_dbfs": -0.6,
+        "crest_factor_db": 21.6,
+        "spectral_centroid_hz": 2739.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.83,
+        "syncopation_index": 85.3,
+        "micro_timing_ms": 27.4,
+        "affective_valence": 0.7,
+        "affective_arousal": 0.6
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.038,
+        "volatility_sigma": 0.045,
+        "expected_value_10yr_usd": 2321631547.0,
+        "expected_value_25yr_usd": 4470399671.0,
+        "expected_value_50yr_usd": 13322982145.0,
+        "expected_value_100yr_usd": 118334568820.0,
+        "p05_stress_10yr_usd": 1046252893.0,
+        "p95_bull_10yr_usd": 4867206660.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Incomparable contrapuntal architecture; perfect structural symmetry; timeless emotional catharsis in 'Dona nobis pacem'",
+        "bad": "108-minute span can overwhelm casual listeners without liturgical or contrapuntal grounding",
+        "fixable": "Curated listening guides isolating the 'Crucifixus' and 'Et resurrexit' structural pivots",
+        "missing": "Modern rhythmic syncopation (confined to strict baroque dance meters)"
+      },
+      "patron_need": "The ultimate transcendent encounter with divine mathematical order and cosmic human consolation.",
+      "trade_off_passed": "Demands absolute polyphonic vocal stamina; requires elite chamber orchestra and vocalists capable of complex melismatic floridity.",
+      "learned_from_prev": "Baseline root of the universal canon: Synthesizes Latin sacred liturgy with perfect 4-to-8 voice counterpoint, chromatic passacaglia ('Crucifixus'), and triumphant 5-part chorus with natural trumpets and timpani."
+    },
+    {
+      "rank": 2,
+      "name": "Symphony No. 9 in D minor, Op. 125 'Choral'",
+      "artist": "Ludwig van Beethoven",
+      "year": 1824,
+      "genre": "Romantic Symphony / Universal Humanist Synthesis",
+      "archetype": "The Universal Anthem of Human Fraternity and Freedom",
+      "key_signature": "D minor / D major",
+      "tempo_bpm": 116,
+      "duration_min": 68.0,
+      "catalog_value_usd": 1200000000,
+      "tier": "Tier I: Monumental Orchestral, Sacred & Jazz Transfigurations",
+      "subproblem_scores": {
+        "s1_harmonic": 98.5,
+        "s2_rhythmic": 96.0,
+        "s3_timbral": 99.0,
+        "s4_poetic": 99.5,
+        "s5_production": 94.0,
+        "s6_cultural": 100.0
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 19.3,
+        "lufs_integrated": -24.4,
+        "true_peak_dbfs": -1.4,
+        "crest_factor_db": 20.5,
+        "spectral_centroid_hz": 3439.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.84,
+        "syncopation_index": 90.7,
+        "micro_timing_ms": 24.2,
+        "affective_valence": 0.85,
+        "affective_arousal": 0.88
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.038,
+        "volatility_sigma": 0.045,
+        "expected_value_10yr_usd": 1857305237.0,
+        "expected_value_25yr_usd": 3576319737.0,
+        "expected_value_50yr_usd": 10658385716.0,
+        "expected_value_100yr_usd": 94667655056.0,
+        "p05_stress_10yr_usd": 837002315.0,
+        "p95_bull_10yr_usd": 3893765328.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Revolutionary structural integration of vocal chorus in symphonic form; monumental emotional arc",
+        "bad": "Brutal vocal tessitura for the soprano solo and chorus tenors",
+        "fixable": "Contemporary historical-informed performance tuning (A=430 Hz) reduces vocal strain",
+        "missing": "Intimate micro-tonal flexibility (demands massive 100-piece orchestral heft)"
+      },
+      "patron_need": "Existential transcendence, democratic solidarity, and cathartic emotional victory over suffering.",
+      "trade_off_passed": "Soprano vocal line demands sustained fortissimo high notes (top A and B) that strain even world-class vocalists.",
+      "learned_from_prev": "Takes Bach's contrapuntal rigor and shatters classical restraint: introduces human vocal soloists and chorus into the symphony for the first time in history, transforming Schiller's 'Ode to Joy' into universal humanist triumph."
+    },
+    {
+      "rank": 3,
+      "name": "A Love Supreme (Part I: Acknowledgement)",
+      "artist": "John Coltrane",
+      "year": 1965,
+      "genre": "Spiritual Jazz / Modal Transcendence",
+      "archetype": "The Spiritual Sacrement of 20th-Century Improvisation",
+      "key_signature": "F minor / Modal F pentatonic",
+      "tempo_bpm": 108,
+      "duration_min": 33.0,
+      "catalog_value_usd": 450000000,
+      "tier": "Tier I: Monumental Orchestral, Sacred & Jazz Transfigurations",
+      "subproblem_scores": {
+        "s1_harmonic": 99.5,
+        "s2_rhythmic": 99.0,
+        "s3_timbral": 97.0,
+        "s4_poetic": 99.0,
+        "s5_production": 96.0,
+        "s6_cultural": 99.5
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 14.9,
+        "lufs_integrated": -15.7,
+        "true_peak_dbfs": -0.8,
+        "crest_factor_db": 15.7,
+        "spectral_centroid_hz": 2876.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.71,
+        "syncopation_index": 93.2,
+        "micro_timing_ms": 18.1,
+        "affective_valence": 0.5,
+        "affective_arousal": 0.75
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.038,
+        "volatility_sigma": 0.045,
+        "expected_value_10yr_usd": 696489464.0,
+        "expected_value_25yr_usd": 1341119901.0,
+        "expected_value_50yr_usd": 3996894643.0,
+        "expected_value_100yr_usd": 35500370646.0,
+        "p05_stress_10yr_usd": 313875868.0,
+        "p95_bull_10yr_usd": 1460161998.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "The 4-note motif (F-Ab-F-Bb) modulated through all 12 keys; Elvin Jones's polyrhythmic mastery; Van Gelder analog room tone",
+        "bad": "Free-form multiphonic intensity in 'Pursuance' can alienate listeners seeking traditional swing",
+        "fixable": "Pristine acoustic remastering from original Van Gelder master tapes preserves dynamic headroom",
+        "missing": "Structured pop/folk vocal verse-chorus hook"
+      },
+      "patron_need": "Spiritual devotion, addiction redemption, and direct transcendent communion through improvisational mastery.",
+      "trade_off_passed": "Demands active, focused listening; does not serve as ambient background jazz.",
+      "learned_from_prev": "Translates European liturgical grandeur into African-American spiritual liberation: Coltrane\u2019s classic quartet (McCoy Tyner, Jimmy Garrison, Elvin Jones) replaces rigid notation with ecstatic modal exploration and prayer chant."
+    },
+    {
+      "rank": 4,
+      "name": "The Rite of Spring (Le Sacre du printemps)",
+      "artist": "Igor Stravinsky",
+      "year": 1913,
+      "genre": "Modernist Orchestral / Polyrhythmic Primitivism",
+      "archetype": "The Big Bang of Modern 20th-Century Rhythmic Violence",
+      "key_signature": "Bi-tonal (Eb7 over Fb major)",
+      "tempo_bpm": 132,
+      "duration_min": 34.0,
+      "catalog_value_usd": 850000000,
+      "tier": "Tier I: Monumental Orchestral, Sacred & Jazz Transfigurations",
+      "subproblem_scores": {
+        "s1_harmonic": 98.5,
+        "s2_rhythmic": 100.0,
+        "s3_timbral": 99.5,
+        "s4_poetic": 96.0,
+        "s5_production": 95.0,
+        "s6_cultural": 99.5
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 22.7,
+        "lufs_integrated": -24.2,
+        "true_peak_dbfs": -1.3,
+        "crest_factor_db": 23.9,
+        "spectral_centroid_hz": 2620.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.69,
+        "syncopation_index": 94.8,
+        "micro_timing_ms": 38.5,
+        "affective_valence": -0.3,
+        "affective_arousal": 0.98
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.038,
+        "volatility_sigma": 0.045,
+        "expected_value_10yr_usd": 1315591210.0,
+        "expected_value_25yr_usd": 2533226480.0,
+        "expected_value_50yr_usd": 7549689882.0,
+        "expected_value_100yr_usd": 67056255665.0,
+        "p05_stress_10yr_usd": 592876639.0,
+        "p95_bull_10yr_usd": 2758083774.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Polychord syncopation; revolutionary orchestration; redefined orchestral percussion and rhythm forever",
+        "bad": "Extreme difficulty for conductors and musicians; metric modulations can derail performance without world-class baton technique",
+        "fixable": "Modern click-track rehearsal software and metric subdivision coaching",
+        "missing": "Lyrical sentimental melody"
+      },
+      "patron_need": "Visceral physical kinetic thrill, avant-garde rupture, and primal pagan energy.",
+      "trade_off_passed": "Abrasive dissonance and relentless rhythmic brutality intentionally subvert conventional romantic sweetness.",
+      "learned_from_prev": "Breaks Coltrane's and Beethoven's melodic lyrical continuity: unleashes asymmetrical additive meters (5/8, 7/8, 3/16), crushing polychord accents, and extreme bassoon register screams, igniting the 1913 Paris riot."
+    },
+    {
+      "rank": 5,
+      "name": "Requiem in D minor (K. 626)",
+      "artist": "Wolfgang Amadeus Mozart",
+      "year": 1791,
+      "genre": "Classical Choral Sublime / Deathbed Masterwork",
+      "archetype": "The Most Haunting Meditation on Mortality Ever Composed",
+      "key_signature": "D minor",
+      "tempo_bpm": 56,
+      "duration_min": 52.0,
+      "catalog_value_usd": 1100000000,
+      "tier": "Tier I: Monumental Orchestral, Sacred & Jazz Transfigurations",
+      "subproblem_scores": {
+        "s1_harmonic": 98.0,
+        "s2_rhythmic": 92.0,
+        "s3_timbral": 98.0,
+        "s4_poetic": 100.0,
+        "s5_production": 93.5,
+        "s6_cultural": 100.0
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 20.0,
+        "lufs_integrated": -22.9,
+        "true_peak_dbfs": -1.0,
+        "crest_factor_db": 21.2,
+        "spectral_centroid_hz": 2462.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.77,
+        "syncopation_index": 82.7,
+        "micro_timing_ms": 39.0,
+        "affective_valence": -0.75,
+        "affective_arousal": 0.45
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.038,
+        "volatility_sigma": 0.045,
+        "expected_value_10yr_usd": 1702529801.0,
+        "expected_value_25yr_usd": 3278293092.0,
+        "expected_value_50yr_usd": 9770186906.0,
+        "expected_value_100yr_usd": 86778683801.0,
+        "p05_stress_10yr_usd": 767252122.0,
+        "p95_bull_10yr_usd": 3569284884.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "'Lacrimosa' weeping violin figures; 'Dies Irae' choral terror; basset horns dark woodwind timbre",
+        "bad": "S\u00fcssmayr's completion in the 'Sanctus' lacks Mozart's peak genius",
+        "fixable": "Modern critical editions by Levin, Maunder, or Beyer restoring Mozartian voice-leading",
+        "missing": "A single definitive manuscript written entirely in Mozart's own hand"
+      },
+      "patron_need": "Grief processing, existential awe in the face of death, and ultimate celestial peace.",
+      "trade_off_passed": "Incomplete score finished by Franz Xaver S\u00fcssmayr creates musicological debates over authenticity.",
+      "learned_from_prev": "Resolves Stravinsky's violent chaos back into classical perfection: the 8-bar fragment of 'Lacrimosa' penned on Mozart's deathbed captures weeping grief and terrifying majesty with unearthly economy."
+    },
+    {
+      "rank": 6,
+      "name": "Kind of Blue ('So What' / 'Blue in Green')",
+      "artist": "Miles Davis",
+      "year": 1959,
+      "genre": "Modal Jazz / Minimalist Cool",
+      "archetype": "The Best-Selling and Most Influential Jazz Album of All Time",
+      "key_signature": "D Dorian / Eb Dorian",
+      "tempo_bpm": 136,
+      "duration_min": 45.0,
+      "catalog_value_usd": 650000000,
+      "tier": "Tier I: Monumental Orchestral, Sacred & Jazz Transfigurations",
+      "subproblem_scores": {
+        "s1_harmonic": 96.5,
+        "s2_rhythmic": 98.0,
+        "s3_timbral": 99.0,
+        "s4_poetic": 98.0,
+        "s5_production": 99.0,
+        "s6_cultural": 100.0
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 14.9,
+        "lufs_integrated": -17.9,
+        "true_peak_dbfs": -0.6,
+        "crest_factor_db": 15.7,
+        "spectral_centroid_hz": 2393.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.65,
+        "syncopation_index": 92.3,
+        "micro_timing_ms": 28.5,
+        "affective_valence": 0.54,
+        "affective_arousal": 0.43
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.038,
+        "volatility_sigma": 0.045,
+        "expected_value_10yr_usd": 1006040337.0,
+        "expected_value_25yr_usd": 1937173191.0,
+        "expected_value_50yr_usd": 5773292263.0,
+        "expected_value_100yr_usd": 51278313155.0,
+        "p05_stress_10yr_usd": 453376254.0,
+        "p95_bull_10yr_usd": 2109122886.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Modal freedom allowing Coltrane and Cannonball to flourish; Bill Evans's touch on piano; Columbia 30th St Studio reverb",
+        "bad": "Original 1959 vinyl pressing had a slight pitch-speed error on Side 1 (fixed in 1992)",
+        "fixable": "Speed-corrected analog tape transfers to 192kHz/24-bit mastering",
+        "missing": "Loud, high-energy danceable backbeat"
+      },
+      "patron_need": "Effortless sophistication, nocturnal intimacy, and transcendent emotional space.",
+      "trade_off_passed": "Subdued dynamic envelope; lacks explosive bombastic climaxes.",
+      "learned_from_prev": "Replaces complex chord progressions (Bebop) with modal simplicity: Bill Evans's Impressionist chords, Paul Chambers's iconic walking bass, and Miles's muted trumpet create the quintessential sound of late-night contemplation."
+    },
+    {
+      "rank": 7,
+      "name": "Symphony No. 2 in C minor 'Resurrection'",
+      "artist": "Gustav Mahler",
+      "year": 1894,
+      "genre": "Late-Romantic Symphony / Eschatological Monumentalism",
+      "archetype": "The Most Gigantic Orchestral Climax in Human History",
+      "key_signature": "C minor / Eb major",
+      "tempo_bpm": 72,
+      "duration_min": 85.0,
+      "catalog_value_usd": 800000000,
+      "tier": "Tier I: Monumental Orchestral, Sacred & Jazz Transfigurations",
+      "subproblem_scores": {
+        "s1_harmonic": 98.5,
+        "s2_rhythmic": 95.0,
+        "s3_timbral": 100.0,
+        "s4_poetic": 99.5,
+        "s5_production": 96.0,
+        "s6_cultural": 98.5
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 20.8,
+        "lufs_integrated": -21.9,
+        "true_peak_dbfs": -1.3,
+        "crest_factor_db": 22.0,
+        "spectral_centroid_hz": 3017.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.79,
+        "syncopation_index": 87.5,
+        "micro_timing_ms": 26.0,
+        "affective_valence": -0.4,
+        "affective_arousal": -0.31
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.038,
+        "volatility_sigma": 0.045,
+        "expected_value_10yr_usd": 1238203492.0,
+        "expected_value_25yr_usd": 2384213158.0,
+        "expected_value_50yr_usd": 7105590477.0,
+        "expected_value_100yr_usd": 63111770037.0,
+        "p05_stress_10yr_usd": 558001543.0,
+        "p95_bull_10yr_usd": 2595843552.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "The final 10 minutes ('Aufersteh'n') is the most physically shattering climax in symphonic history; offstage spatial acoustics",
+        "bad": "Enormous logistical cost to perform; rare live concert appearances",
+        "fixable": "Multi-mic surround sound spatial audio recordings (Dolby Atmos)",
+        "missing": "Compact length for rapid consumption"
+      },
+      "patron_need": "Overwhelming emotional rebirth, conquering mortality, and experiencing the grandest sound stage possible.",
+      "trade_off_passed": "Requires an orchestra of 110+ musicians, giant organ, offstage brass bands, and 150-voice choir.",
+      "learned_from_prev": "Expands Miles Davis's intimate quietude into a cosmic 85-minute apocalypse: offstage brass, church bells, pipe organ, massive choir, and soprano solo uniting life, death, and triumphant rebirth."
+    },
+    {
+      "rank": 8,
+      "name": "Clair de Lune / Pr\u00e9lude \u00e0 l'apr\u00e8s-midi d'un faune",
+      "artist": "Claude Debussy",
+      "year": 1894,
+      "genre": "Impressionism / Modal & Pentatonic Color",
+      "archetype": "The Birth of Musical Light, Shadow and Color",
+      "key_signature": "Db major / E major",
+      "tempo_bpm": 52,
+      "duration_min": 10.0,
+      "catalog_value_usd": 900000000,
+      "tier": "Tier I: Monumental Orchestral, Sacred & Jazz Transfigurations",
+      "subproblem_scores": {
+        "s1_harmonic": 97.5,
+        "s2_rhythmic": 96.5,
+        "s3_timbral": 98.5,
+        "s4_poetic": 99.0,
+        "s5_production": 95.0,
+        "s6_cultural": 100.0
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 21.5,
+        "lufs_integrated": -24.8,
+        "true_peak_dbfs": -0.8,
+        "crest_factor_db": 22.7,
+        "spectral_centroid_hz": 2605.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.68,
+        "syncopation_index": 86.5,
+        "micro_timing_ms": 44.4,
+        "affective_valence": -0.4,
+        "affective_arousal": -0.5
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.038,
+        "volatility_sigma": 0.045,
+        "expected_value_10yr_usd": 1392978928.0,
+        "expected_value_25yr_usd": 2682239803.0,
+        "expected_value_50yr_usd": 7993789287.0,
+        "expected_value_100yr_usd": 71000741292.0,
+        "p05_stress_10yr_usd": 627751736.0,
+        "p95_bull_10yr_usd": 2920323996.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Exquisite delicate rubato; flutes and harp orchestration; revolutionary non-functional harmony",
+        "bad": "Overplayed in commercial hotel lobbies and elevator background playlists",
+        "fixable": "Attentive acoustic solo piano performance with authentic soft pedal (una corda) dynamics",
+        "missing": "Aggressive rhythmic drive"
+      },
+      "patron_need": "Poetic daydreaming, serene mental clarity, and sensual harmonic beauty.",
+      "trade_off_passed": "Rejects forward-driving German sonata-allegro tension in favor of static, sensory atmosphere.",
+      "learned_from_prev": "Dissolves Mahler's titanic brass volume into pure shimmering impressionist color: floating whole-tone scales, parallel fourths/fifths, and rubato phrasing evoke moonlight reflecting on water."
+    },
+    {
+      "rank": 9,
+      "name": "Take the 'A' Train / Diminuendo & Crescendo in Blue",
+      "artist": "Duke Ellington & Billy Strayhorn",
+      "year": 1941,
+      "genre": "Orchestral Big Band / Harlem Renaissance Architecture",
+      "archetype": "The Golden Pinnacle of American Orchestral Jazz",
+      "key_signature": "C major / Db major",
+      "tempo_bpm": 164,
+      "duration_min": 15.0,
+      "catalog_value_usd": 400000000,
+      "tier": "Tier I: Monumental Orchestral, Sacred & Jazz Transfigurations",
+      "subproblem_scores": {
+        "s1_harmonic": 96.0,
+        "s2_rhythmic": 98.5,
+        "s3_timbral": 97.5,
+        "s4_poetic": 96.0,
+        "s5_production": 95.0,
+        "s6_cultural": 99.0
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 18.8,
+        "lufs_integrated": -21.2,
+        "true_peak_dbfs": -0.3,
+        "crest_factor_db": 20.0,
+        "spectral_centroid_hz": 3370.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.77,
+        "syncopation_index": 95.4,
+        "micro_timing_ms": 40.7,
+        "affective_valence": -0.4,
+        "affective_arousal": 0.64
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.038,
+        "volatility_sigma": 0.045,
+        "expected_value_10yr_usd": 619101746.0,
+        "expected_value_25yr_usd": 1192106579.0,
+        "expected_value_50yr_usd": 3552795239.0,
+        "expected_value_100yr_usd": 31555885019.0,
+        "p05_stress_10yr_usd": 279000772.0,
+        "p95_bull_10yr_usd": 1297921776.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Paul Gonsalves's historic 27-chorus solo at Newport 1956; Ellington-Strayhorn harmonic telepathy",
+        "bad": "Early 78 RPM master lacquers lacked high-frequency tape extension",
+        "fixable": "Plangent audio restoration from archival metal parts",
+        "missing": "Modern multi-track stereo isolation"
+      },
+      "patron_need": "High-class metropolitan swing, cosmopolitan sophistication, and irresistible rhythmic joy.",
+      "trade_off_passed": "Big band brass sections can sound shrill on primitive 1940s shellac 78 RPM recordings.",
+      "learned_from_prev": "Injects urban locomotive pulse into Debussy\u2019s impressionism: Billy Strayhorn\u2019s whole-tone intro leads into Duke\u2019s swinging brass section counterpoint, capturing the vibrant life of Harlem."
+    },
+    {
+      "rank": 10,
+      "name": "Tristan und Isolde ('Prelude & Liebestod')",
+      "artist": "Richard Wagner",
+      "year": 1859,
+      "genre": "Late-Romantic Opera / Chromatic Dissolution",
+      "archetype": "The Harmonic Watershed that Fractured Western Tonality",
+      "key_signature": "A minor (resolving without resolution)",
+      "tempo_bpm": 48,
+      "duration_min": 18.0,
+      "catalog_value_usd": 750000000,
+      "tier": "Tier I: Monumental Orchestral, Sacred & Jazz Transfigurations",
+      "subproblem_scores": {
+        "s1_harmonic": 99.5,
+        "s2_rhythmic": 93.0,
+        "s3_timbral": 99.0,
+        "s4_poetic": 98.5,
+        "s5_production": 94.0,
+        "s6_cultural": 99.0
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 20.0,
+        "lufs_integrated": -24.6,
+        "true_peak_dbfs": -0.7,
+        "crest_factor_db": 21.2,
+        "spectral_centroid_hz": 2928.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.8,
+        "syncopation_index": 84.2,
+        "micro_timing_ms": 28.1,
+        "affective_valence": -0.4,
+        "affective_arousal": -0.48
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.038,
+        "volatility_sigma": 0.045,
+        "expected_value_10yr_usd": 1160815773.0,
+        "expected_value_25yr_usd": 2235199835.0,
+        "expected_value_50yr_usd": 6661491072.0,
+        "expected_value_100yr_usd": 59167284410.0,
+        "p05_stress_10yr_usd": 523126447.0,
+        "p95_bull_10yr_usd": 2433603330.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "The Tristan Chord fundamentally paved the way for modern jazz, Debussy, and Schoenberg",
+        "bad": "Extreme vocal demands on dramatic sopranos (Birgit Nilsson archetype)",
+        "fixable": "Orchestral concert suite performances bypassing the 4-hour opera run-time",
+        "missing": "Rhythmic pulse (deliberately submerged in tempo-free rubato)"
+      },
+      "patron_need": "Erotic-spiritual transcendence, infinite longing, and complete immersion in harmonic suspension.",
+      "trade_off_passed": "Unrelenting chromatic tension can induce emotional vertigo and fatigue without patience.",
+      "learned_from_prev": "Moves from Duke's swinging resolution into endless unresolved chromatic yearning: the famous 'Tristan Chord' (F-B-D#-G#) delays tonal resolution for 4 hours until Isolde's final ecstatic transfiguration ('Liebestod')."
+    },
+    {
+      "rank": 11,
+      "name": "Symphony No. 6 in B minor, Op. 74 'Path\u00e9tique'",
+      "artist": "Pyotr Ilyich Tchaikovsky",
+      "year": 1893,
+      "genre": "Russian Romantic / Tragic Masterwork",
+      "archetype": "The Most Devastating Emotional Farewell in Classical Music",
+      "key_signature": "B minor",
+      "tempo_bpm": 60,
+      "duration_min": 46.0,
+      "catalog_value_usd": 680000000,
+      "tier": "Tier I: Monumental Orchestral, Sacred & Jazz Transfigurations",
+      "subproblem_scores": {
+        "s1_harmonic": 96.5,
+        "s2_rhythmic": 96.0,
+        "s3_timbral": 98.5,
+        "s4_poetic": 99.0,
+        "s5_production": 94.5,
+        "s6_cultural": 99.0
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 19.1,
+        "lufs_integrated": -23.0,
+        "true_peak_dbfs": -1.5,
+        "crest_factor_db": 20.3,
+        "spectral_centroid_hz": 3491.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.66,
+        "syncopation_index": 85.6,
+        "micro_timing_ms": 37.6,
+        "affective_valence": -0.88,
+        "affective_arousal": 0.5
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.038,
+        "volatility_sigma": 0.045,
+        "expected_value_10yr_usd": 1052472968.0,
+        "expected_value_25yr_usd": 2026581184.0,
+        "expected_value_50yr_usd": 6039751906.0,
+        "expected_value_100yr_usd": 53645004532.0,
+        "p05_stress_10yr_usd": 474301312.0,
+        "p95_bull_10yr_usd": 2206467019.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Innovative 5/4 limping waltz in Movement 2; explosive shock chord in Movement 1; fading pizzicato bass",
+        "bad": "Audiences frequently clap prematurely after the triumphant 3rd movement march",
+        "fixable": "Conductor holding baton aloft to enforce absolute silence before the tragic finale",
+        "missing": "Uplifting triumphant resolution"
+      },
+      "patron_need": "Profound cathartic release of sorrow, authentic confrontation with mortality, and sweeping melody.",
+      "trade_off_passed": "Premieres 9 days before Tchaikovsky's mysterious death; deeply melancholic ending leaves audiences in solemn silence.",
+      "learned_from_prev": "Pivots Wagner's yearning into raw tragic despair: concludes not with a triumphant fanfare, but with a slow, dying Adagio lamentoso fading into blackness with a subterranean contrabass heartbeat."
+    },
+    {
+      "rank": 12,
+      "name": "'Round Midnight",
+      "artist": "Thelonious Monk",
+      "year": 1944,
+      "genre": "Bebop Ballad / Angular Modern Jazz",
+      "archetype": "The Most Recorded Jazz Standard by Any Jazz Musician",
+      "key_signature": "Eb minor",
+      "tempo_bpm": 58,
+      "duration_min": 5.5,
+      "catalog_value_usd": 320000000,
+      "tier": "Tier I: Monumental Orchestral, Sacred & Jazz Transfigurations",
+      "subproblem_scores": {
+        "s1_harmonic": 98.0,
+        "s2_rhythmic": 97.0,
+        "s3_timbral": 96.0,
+        "s4_poetic": 97.5,
+        "s5_production": 95.0,
+        "s6_cultural": 99.0
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 19.8,
+        "lufs_integrated": -22.3,
+        "true_peak_dbfs": -1.1,
+        "crest_factor_db": 21.0,
+        "spectral_centroid_hz": 2516.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.68,
+        "syncopation_index": 90.0,
+        "micro_timing_ms": 31.4,
+        "affective_valence": -0.4,
+        "affective_arousal": -0.34
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.038,
+        "volatility_sigma": 0.045,
+        "expected_value_10yr_usd": 495281397.0,
+        "expected_value_25yr_usd": 953685263.0,
+        "expected_value_50yr_usd": 2842236191.0,
+        "expected_value_100yr_usd": 25244708015.0,
+        "p05_stress_10yr_usd": 223200617.0,
+        "p95_bull_10yr_usd": 1038337421.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Iconic introduction arranged with Dizzy Gillespie; unforgettable melancholic melody; genius harmonic voicings",
+        "bad": "Monk's percussive attack can sound harsh on inferior monitoring equipment",
+        "fixable": "High-fidelity analog tube mic recordings capture the resonance of the piano soundboard",
+        "missing": "Driving uptempo dance swing"
+      },
+      "patron_need": "Poetic melancholy, eccentric jazz genius, and raw smoky urban balladry.",
+      "trade_off_passed": "Angular dissonance challenges listeners accustomed to saccharine Broadway pop standards.",
+      "learned_from_prev": "Replaces Tchaikovsky\u2019s 90-piece orchestra with solo/quartet piano intimacy: Monk\u2019s crushing minor-second clusters, whole-tone runs, and idiosyncratic silence transform the midnight hour into art."
+    },
+    {
+      "rank": 13,
+      "name": "The Four Seasons (Le quattro stagioni)",
+      "artist": "Antonio Vivaldi",
+      "year": 1725,
+      "genre": "Baroque Programmatic Concerto / Virtuosic Violin",
+      "archetype": "The Dawn of Programmatic Descriptive Orchestration",
+      "key_signature": "E major / G minor / F major / F minor",
+      "tempo_bpm": 128,
+      "duration_min": 42.0,
+      "catalog_value_usd": 950000000,
+      "tier": "Tier I: Monumental Orchestral, Sacred & Jazz Transfigurations",
+      "subproblem_scores": {
+        "s1_harmonic": 95.0,
+        "s2_rhythmic": 97.0,
+        "s3_timbral": 97.5,
+        "s4_poetic": 96.0,
+        "s5_production": 95.0,
+        "s6_cultural": 100.0
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 21.2,
+        "lufs_integrated": -24.3,
+        "true_peak_dbfs": -0.3,
+        "crest_factor_db": 22.4,
+        "spectral_centroid_hz": 2898.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.63,
+        "syncopation_index": 89.8,
+        "micro_timing_ms": 43.5,
+        "affective_valence": -0.4,
+        "affective_arousal": 0.27
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.038,
+        "volatility_sigma": 0.045,
+        "expected_value_10yr_usd": 1470366646.0,
+        "expected_value_25yr_usd": 2831253125.0,
+        "expected_value_50yr_usd": 8437888692.0,
+        "expected_value_100yr_usd": 74945226919.0,
+        "p05_stress_10yr_usd": 662626832.0,
+        "p95_bull_10yr_usd": 3082564218.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Revolutionary violin extended techniques (sul ponticello, rapid staccato); brilliant programmatic sonnets",
+        "bad": "Victim of over-exposure; frequently relegated to elevator or phone-hold music",
+        "fixable": "Fiery period-instrument performances (e.g., Il Giardino Armonico) restore visceral bite",
+        "missing": "Complex multi-movement symphonic development"
+      },
+      "patron_need": "Vivid nature imagery, sparkling Baroque violin virtuosity, and instant harmonic recognition.",
+      "trade_off_passed": "Extreme familiarity risk due to ubiquitous commercial and cinematic licensing.",
+      "learned_from_prev": "Pivots from Monk's smoky night into the crisp natural world: Vivaldi invents musical descriptive poetry\u2014barking dogs, teeth-chattering icy winter winds, summer storms, and celebratory autumn harvests."
+    },
+    {
+      "rank": 14,
+      "name": "Mingus Ah Um ('Goodbye Pork Pie Hat')",
+      "artist": "Charles Mingus",
+      "year": 1959,
+      "genre": "Post-Bop / Hard Bop Blues Elegy",
+      "archetype": "The Soulful Nexus of Duke Ellington, Gospel & Civil Rights Protest",
+      "key_signature": "Eb minor / F minor",
+      "tempo_bpm": 70,
+      "duration_min": 46.0,
+      "catalog_value_usd": 380000000,
+      "tier": "Tier I: Monumental Orchestral, Sacred & Jazz Transfigurations",
+      "subproblem_scores": {
+        "s1_harmonic": 97.5,
+        "s2_rhythmic": 98.0,
+        "s3_timbral": 98.0,
+        "s4_poetic": 98.0,
+        "s5_production": 97.0,
+        "s6_cultural": 98.5
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 16.3,
+        "lufs_integrated": -14.9,
+        "true_peak_dbfs": -0.4,
+        "crest_factor_db": 17.1,
+        "spectral_centroid_hz": 3506.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.82,
+        "syncopation_index": 91.6,
+        "micro_timing_ms": 29.9,
+        "affective_valence": -0.4,
+        "affective_arousal": -0.34
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.038,
+        "volatility_sigma": 0.045,
+        "expected_value_10yr_usd": 588146659.0,
+        "expected_value_25yr_usd": 1132501250.0,
+        "expected_value_50yr_usd": 3375155477.0,
+        "expected_value_100yr_usd": 29978090768.0,
+        "p05_stress_10yr_usd": 265050733.0,
+        "p95_bull_10yr_usd": 1233025687.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "John Handy's emotional tenor sax solo; Mingus's guttural vocal shouts and thumping bass; timeless blues progression",
+        "bad": "Original Columbia LP had several tracks shortened due to vinyl time limits",
+        "fixable": "Modern unedited reissues restore complete unedited takes",
+        "missing": "Strict metronomic consistency (freely breathes with emotion)"
+      },
+      "patron_need": "Visceral soulful authenticity, gospel fervor, and deep blues sophistication.",
+      "trade_off_passed": "Mingus's shouting and ferocious double-bass drive demand tolerance for spontaneous chaos.",
+      "learned_from_prev": "Answers Vivaldi's European courtly grace with raw African-American grief and grit: Mingus\u2019s heartbreaking tenor sax elegy for Lester Young matches blues bent-notes with fierce civil rights defiance ('Fables of Faubus')."
+    },
+    {
+      "rank": 15,
+      "name": "Ballade No. 1 in G minor, Op. 23",
+      "artist": "Fr\u00e9d\u00e9ric Chopin",
+      "year": 1835,
+      "genre": "Romantic Piano / Poetic Bel Canto",
+      "archetype": "The Supreme Pinnacle of Solo Piano Narrative Architecture",
+      "key_signature": "G minor / Eb major",
+      "tempo_bpm": 80,
+      "duration_min": 9.5,
+      "catalog_value_usd": 550000000,
+      "tier": "Tier I: Monumental Orchestral, Sacred & Jazz Transfigurations",
+      "subproblem_scores": {
+        "s1_harmonic": 97.0,
+        "s2_rhythmic": 95.0,
+        "s3_timbral": 97.0,
+        "s4_poetic": 99.0,
+        "s5_production": 94.0,
+        "s6_cultural": 99.5
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 18.9,
+        "lufs_integrated": -24.2,
+        "true_peak_dbfs": -1.4,
+        "crest_factor_db": 20.1,
+        "spectral_centroid_hz": 1795.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.69,
+        "syncopation_index": 89.0,
+        "micro_timing_ms": 30.7,
+        "affective_valence": -0.4,
+        "affective_arousal": -0.27
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.038,
+        "volatility_sigma": 0.045,
+        "expected_value_10yr_usd": 851264900.0,
+        "expected_value_25yr_usd": 1639146546.0,
+        "expected_value_50yr_usd": 4885093453.0,
+        "expected_value_100yr_usd": 43389341901.0,
+        "p05_stress_10yr_usd": 383626061.0,
+        "p95_bull_10yr_usd": 1784642442.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Opening Neapolitan 6th chord; sublime second subject; terrifyingly virtuosic coda",
+        "bad": "Lesser performers reduce the flexible rubato into erratic rhythmic chaos",
+        "fixable": "Artur Rubinstein / Krystian Zimerman reference interpretations showcasing disciplined poetic elasticity",
+        "missing": "Orchestral brass and percussion"
+      },
+      "patron_need": "Intimate poetic drama, aristocratic pianistic elegance, and volcanic romantic climax.",
+      "trade_off_passed": "Demands transcendent pianistic technique to execute the double-third runs and thunderous scales without losing singing tone.",
+      "learned_from_prev": "Condenses Mingus's instrumental storytelling into 88 keys: Chopin invents the instrumental 'Ballade', channeling Polish exile longing into a passionate bel canto melody culminating in a terrifying presto con fuoco coda."
+    },
+    {
+      "rank": 16,
+      "name": "Piano Concerto No. 2 in C minor, Op. 18",
+      "artist": "Sergei Rachmaninoff",
+      "year": 1901,
+      "genre": "Post-Romantic Concerto / Melodic Virtuosity",
+      "archetype": "The Most Beloved Piano Concerto in the Concert Repertoire",
+      "key_signature": "C minor / C major",
+      "tempo_bpm": 66,
+      "duration_min": 34.0,
+      "catalog_value_usd": 700000000,
+      "tier": "Tier I: Monumental Orchestral, Sacred & Jazz Transfigurations",
+      "subproblem_scores": {
+        "s1_harmonic": 96.0,
+        "s2_rhythmic": 94.0,
+        "s3_timbral": 99.0,
+        "s4_poetic": 98.5,
+        "s5_production": 95.0,
+        "s6_cultural": 99.0
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 20.4,
+        "lufs_integrated": -23.9,
+        "true_peak_dbfs": -0.5,
+        "crest_factor_db": 21.6,
+        "spectral_centroid_hz": 2828.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.7,
+        "syncopation_index": 87.8,
+        "micro_timing_ms": 38.6,
+        "affective_valence": -0.4,
+        "affective_arousal": -0.33
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.038,
+        "volatility_sigma": 0.045,
+        "expected_value_10yr_usd": 1083428055.0,
+        "expected_value_25yr_usd": 2086186513.0,
+        "expected_value_50yr_usd": 6217391668.0,
+        "expected_value_100yr_usd": 55222798783.0,
+        "p05_stress_10yr_usd": 488251350.0,
+        "p95_bull_10yr_usd": 2271363108.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Famous 8-bar bell crescendo intro; sublime Adagio sostenuto flute/clarinet dialogue; volcanic finale",
+        "bad": "Critics initially dismissed it as 'too conservative' compared to Stravinsky's modernism",
+        "fixable": "Appreciation of pure melodic integrity and architectural voice-leading",
+        "missing": "20th-century atonal experimentation"
+      },
+      "patron_need": "Romantic passion, overcoming deep clinical depression, and triumphant orchestral grandeur.",
+      "trade_off_passed": "Gigantic piano chord spans require wide hand flexibility (Rachmaninoff could reach a 13th).",
+      "learned_from_prev": "Closes Tier I by merging Chopin's piano lyricism with full Russian symphonic power: opens with tolling bell chords rising out of psychological depression into one of the most unforgettable melodies ever written."
+    },
+    {
+      "rank": 17,
+      "name": "Bohemian Rhapsody",
+      "artist": "Queen",
+      "year": 1975,
+      "genre": "Progressive Operatic Rock Suite",
+      "archetype": "The Multi-Movement Epic that Redefined Rock as High Art",
+      "key_signature": "Bb major / A major / Eb major",
+      "tempo_bpm": 72,
+      "duration_min": 5.9,
+      "catalog_value_usd": 600000000,
+      "tier": "Tier II: Epochal Modern, Rock, Pop, Soul & Electronic Monuments",
+      "subproblem_scores": {
+        "s1_harmonic": 96.0,
+        "s2_rhythmic": 95.0,
+        "s3_timbral": 99.5,
+        "s4_poetic": 97.0,
+        "s5_production": 100.0,
+        "s6_cultural": 100.0
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 13.6,
+        "lufs_integrated": -16.3,
+        "true_peak_dbfs": -0.7,
+        "crest_factor_db": 14.4,
+        "spectral_centroid_hz": 4363.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.61,
+        "syncopation_index": 87.7,
+        "micro_timing_ms": 44.8,
+        "affective_valence": 0.4,
+        "affective_arousal": 0.85
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.045,
+        "volatility_sigma": 0.075,
+        "expected_value_10yr_usd": 1394636955.0,
+        "expected_value_25yr_usd": 4942265214.0,
+        "expected_value_50yr_usd": 40709975748.0,
+        "expected_value_100yr_usd": 2762170209061.0,
+        "p05_stress_10yr_usd": 274014125.0,
+        "p95_bull_10yr_usd": 4789299384.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Brian May's iconic Red Special guitar solo; 180-vocal tape overdubs worn transparent; multi-genre structure",
+        "bad": "Cryptic lyrics (Scaramouche, Galileo, Bismillah) remain deliberately enigmatic",
+        "fixable": "Acceptance as surrealist psychological theatre rather than literal narrative",
+        "missing": "Simple 3-minute radio pop brevity"
+      },
+      "patron_need": "The ultimate theatrical rock catharsis, singalong majesty, and sonic boundary-pushing.",
+      "trade_off_passed": "No conventional repeating chorus hook; rejected by record executives as 'too long at 6 minutes to ever be played on radio.'",
+      "learned_from_prev": "Bridges the 19th-century operatic grandeur of Wagner and Rachmaninoff directly into 20th-century rock: Freddie Mercury stitches ballad, Italian opera parody, and heavy metal headbanging into a 180-track multi-layered tape triumph."
+    },
+    {
+      "rank": 18,
+      "name": "A Day in the Life",
+      "artist": "The Beatles",
+      "year": 1967,
+      "genre": "Psychedelic Avant-Pop Suite",
+      "archetype": "The Crown Jewel of the Album Era (Sgt. Pepper's Finale)",
+      "key_signature": "G major / E major",
+      "tempo_bpm": 78,
+      "duration_min": 5.5,
+      "catalog_value_usd": 750000000,
+      "tier": "Tier II: Epochal Modern, Rock, Pop, Soul & Electronic Monuments",
+      "subproblem_scores": {
+        "s1_harmonic": 95.5,
+        "s2_rhythmic": 96.0,
+        "s3_timbral": 99.0,
+        "s4_poetic": 99.0,
+        "s5_production": 99.5,
+        "s6_cultural": 100.0
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 12.8,
+        "lufs_integrated": -14.6,
+        "true_peak_dbfs": -0.3,
+        "crest_factor_db": 13.6,
+        "spectral_centroid_hz": 3338.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.6,
+        "syncopation_index": 88.5,
+        "micro_timing_ms": 14.1,
+        "affective_valence": -0.4,
+        "affective_arousal": -0.17
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.045,
+        "volatility_sigma": 0.075,
+        "expected_value_10yr_usd": 1743296194.0,
+        "expected_value_25yr_usd": 6177831518.0,
+        "expected_value_50yr_usd": 50887469686.0,
+        "expected_value_100yr_usd": 3452712761326.0,
+        "p05_stress_10yr_usd": 342517656.0,
+        "p95_bull_10yr_usd": 5986624230.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Ringo Starr's legendary loose tom-tom fills; George Martin's orchestral build; final 40-second sustained E major piano chord",
+        "bad": "Abbey Road 4-track tape bouncing introduced subtle hiss in the master",
+        "fixable": "Giles Martin / Peter Jackson de-mixing technology isolating stems with zero artifacting",
+        "missing": "Standard verse-chorus pop template"
+      },
+      "patron_need": "Existential contemplation of everyday mortality, psychedelic awakening, and studio production mastery.",
+      "trade_off_passed": "Banned by the BBC in 1967 over supposed drug reference ('I'd love to turn you on').",
+      "learned_from_prev": "Matches Queen's ambition with avant-garde studio experimentalism: John Lennon's detached acoustic newspaper reading collides with Paul McCartney's upbeat morning routine, bridged by a terrifying 40-piece aleatoric orchestral glissando."
+    },
+    {
+      "rank": 19,
+      "name": "Shine On You Crazy Diamond (Parts I\u2013V) / Echoes",
+      "artist": "Pink Floyd",
+      "year": 1975,
+      "genre": "Progressive Cosmic Space Rock",
+      "archetype": "The Monumental Architectural Elegy of Progressive Rock",
+      "key_signature": "G minor",
+      "tempo_bpm": 68,
+      "duration_min": 13.5,
+      "catalog_value_usd": 500000000,
+      "tier": "Tier II: Epochal Modern, Rock, Pop, Soul & Electronic Monuments",
+      "subproblem_scores": {
+        "s1_harmonic": 95.0,
+        "s2_rhythmic": 94.0,
+        "s3_timbral": 100.0,
+        "s4_poetic": 98.0,
+        "s5_production": 100.0,
+        "s6_cultural": 99.0
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 12.5,
+        "lufs_integrated": -15.2,
+        "true_peak_dbfs": -0.3,
+        "crest_factor_db": 13.3,
+        "spectral_centroid_hz": 4275.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.7,
+        "syncopation_index": 86.9,
+        "micro_timing_ms": 31.5,
+        "affective_valence": -0.4,
+        "affective_arousal": -0.36
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.045,
+        "volatility_sigma": 0.075,
+        "expected_value_10yr_usd": 1162197463.0,
+        "expected_value_25yr_usd": 4118554345.0,
+        "expected_value_50yr_usd": 33924979790.0,
+        "expected_value_100yr_usd": 2301808507551.0,
+        "p05_stress_10yr_usd": 228345104.0,
+        "p95_bull_10yr_usd": 3991082820.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "David Gilmour's unmatched Stratocaster tone and phrasing; immaculate stereo panning; pristine analog room acoustics",
+        "bad": "Extended ambient build requires patience unsuitable for short-form playlists",
+        "fixable": "Dedicated hi-res listening environment / open-back electrostatic headphones",
+        "missing": "Rapid pop tempo"
+      },
+      "patron_need": "Deep audiophile immersion, cosmic melancholy, and timeless tribute to lost comrades.",
+      "trade_off_passed": "First vocal does not enter until 8 minutes and 40 seconds into the composition.",
+      "learned_from_prev": "Extends The Beatles' studio soundstage into an infinite cosmic cathedral: David Gilmour's iconic 4-note guitar motif (Bb-F-G-E) weeps for Syd Barrett's lost sanity over Rick Wright's glass-harmonica synthesizers."
+    },
+    {
+      "rank": 20,
+      "name": "Billie Jean",
+      "artist": "Michael Jackson",
+      "year": 1982,
+      "genre": "Peak Pop / Precision Analog Funk",
+      "archetype": "The Greatest Pop Production and Groove in Recorded History",
+      "key_signature": "F# minor",
+      "tempo_bpm": 117,
+      "duration_min": 4.9,
+      "catalog_value_usd": 850000000,
+      "tier": "Tier II: Epochal Modern, Rock, Pop, Soul & Electronic Monuments",
+      "subproblem_scores": {
+        "s1_harmonic": 92.0,
+        "s2_rhythmic": 100.0,
+        "s3_timbral": 99.5,
+        "s4_poetic": 94.0,
+        "s5_production": 100.0,
+        "s6_cultural": 100.0
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 13.1,
+        "lufs_integrated": -15.3,
+        "true_peak_dbfs": -0.2,
+        "crest_factor_db": 13.6,
+        "spectral_centroid_hz": 3239.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.64,
+        "syncopation_index": 95.1,
+        "micro_timing_ms": 14.1,
+        "affective_valence": 0.25,
+        "affective_arousal": 0.82
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.045,
+        "volatility_sigma": 0.075,
+        "expected_value_10yr_usd": 1975735687.0,
+        "expected_value_25yr_usd": 7001542387.0,
+        "expected_value_50yr_usd": 57672465644.0,
+        "expected_value_100yr_usd": 3913074462837.0,
+        "p05_stress_10yr_usd": 388186677.0,
+        "p95_bull_10yr_usd": 6784840794.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Mix #2 of 91 selected as the master; timeless syncopated F# minor bassline; vocal hiccup percussive genius",
+        "bad": "Dark subject matter (paternity dispute/paranoia) masked by irresistible commercial dance beat",
+        "fixable": "Appreciation of the lyrical paranoia and film-noir music video storytelling",
+        "missing": "Acoustic orchestral counterpoint"
+      },
+      "patron_need": "Pure dance euphoria, tension-filled vocal drama, and flawless pop groove engineering.",
+      "trade_off_passed": "Quincy Jones initially wanted to cut the long drum intro, but Michael insisted it made him want to dance.",
+      "learned_from_prev": "Extracts the audiophile perfection of Pink Floyd and unleashes it on the global dance floor: Bruce Swedien's iconic drum sound (wooden kick riser + custom baffle) and Louis Johnson's Yamaha bassline create irresistible physical kinetic force."
+    },
+    {
+      "rank": 21,
+      "name": "Voodoo Child (Slight Return) / Purple Haze",
+      "artist": "The Jimi Hendrix Experience",
+      "year": 1968,
+      "genre": "Electric Blues Psychedelia / Stratocaster Revolution",
+      "archetype": "The Singularity of the Electric Guitar as a Cosmic Weapon",
+      "key_signature": "E tuned down a half-step (Eb)",
+      "tempo_bpm": 88,
+      "duration_min": 5.2,
+      "catalog_value_usd": 420000000,
+      "tier": "Tier II: Epochal Modern, Rock, Pop, Soul & Electronic Monuments",
+      "subproblem_scores": {
+        "s1_harmonic": 93.0,
+        "s2_rhythmic": 98.0,
+        "s3_timbral": 98.0,
+        "s4_poetic": 95.0,
+        "s5_production": 97.0,
+        "s6_cultural": 99.0
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 16.0,
+        "lufs_integrated": -16.0,
+        "true_peak_dbfs": -0.6,
+        "crest_factor_db": 16.8,
+        "spectral_centroid_hz": 2476.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.69,
+        "syncopation_index": 90.7,
+        "micro_timing_ms": 25.0,
+        "affective_valence": 0.59,
+        "affective_arousal": -0.09
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.045,
+        "volatility_sigma": 0.075,
+        "expected_value_10yr_usd": 976245869.0,
+        "expected_value_25yr_usd": 3459585650.0,
+        "expected_value_50yr_usd": 28496983024.0,
+        "expected_value_100yr_usd": 1933519146343.0,
+        "p05_stress_10yr_usd": 191809887.0,
+        "p95_bull_10yr_usd": 3352509569.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Opening muted wah-wah scratching is the most recognizable intro in guitar history; Mitch Mitchell's jazz-rock drumming",
+        "bad": "Hendrix's self-conscious vocals were originally mixed low behind the wall of guitars",
+        "fixable": "Eddie Kramer analog re-mastering balances vocal clarity without dampening amplifier heat",
+        "missing": "Clean pristine acoustic refinement"
+      },
+      "patron_need": "Unfiltered sonic power, guitar god virtuosity, and primal psychedelic freedom.",
+      "trade_off_passed": "Live-in-the-studio sonic bleed and explosive distortion pushed tape machines to the brink of magnetic saturation.",
+      "learned_from_prev": "Injects raw electrified electricity into the lineage: Hendrix weaponizes the Vox wah-wah pedal, Marshall stacks on 10, and controlled feedback, transforming the Delta blues of Robert Johnson into supersonic mythology."
+    },
+    {
+      "rank": 22,
+      "name": "Purple Rain",
+      "artist": "Prince and The Revolution",
+      "year": 1984,
+      "genre": "Gospel-Funk Arena Rock / Cathartic Anthem",
+      "archetype": "The Peak Communion of Pop, Funk, Gospel and Rock Guitar",
+      "key_signature": "Bb major",
+      "tempo_bpm": 58,
+      "duration_min": 8.7,
+      "catalog_value_usd": 620000000,
+      "tier": "Tier II: Epochal Modern, Rock, Pop, Soul & Electronic Monuments",
+      "subproblem_scores": {
+        "s1_harmonic": 93.5,
+        "s2_rhythmic": 95.0,
+        "s3_timbral": 98.5,
+        "s4_poetic": 98.0,
+        "s5_production": 98.5,
+        "s6_cultural": 99.5
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 11.2,
+        "lufs_integrated": -14.5,
+        "true_peak_dbfs": 0.0,
+        "crest_factor_db": 11.7,
+        "spectral_centroid_hz": 4165.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.66,
+        "syncopation_index": 87.7,
+        "micro_timing_ms": 14.2,
+        "affective_valence": -0.4,
+        "affective_arousal": -0.45
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.045,
+        "volatility_sigma": 0.075,
+        "expected_value_10yr_usd": 1441124854.0,
+        "expected_value_25yr_usd": 5107007388.0,
+        "expected_value_50yr_usd": 42066974940.0,
+        "expected_value_100yr_usd": 2854242549363.0,
+        "p05_stress_10yr_usd": 283147929.0,
+        "p95_bull_10yr_usd": 4948942697.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Recorded live at First Avenue; Wendy Melvoin's opening guitar chords; Prince's blistering 4-minute bending guitar solo",
+        "bad": "Removing the outro strings in short radio edits destroys the spiritual catharsis",
+        "fixable": "Insist on the full 8:40 album version for all canonical playouts",
+        "missing": "Fast dance beat"
+      },
+      "patron_need": "Total emotional surrender, spiritual healing through love, and epic arena transcendence.",
+      "trade_off_passed": "8-minute runtime requires radio edits for standard broadcast formats.",
+      "learned_from_prev": "Fuses Hendrix's guitar fury with Michael Jackson's pop accessibility and black church gospel: recorded live at First Avenue Minneapolis, Prince delivers an 8-minute cathartic prayer crowned by an immortal guitar solo and falsetto cries."
+    },
+    {
+      "rank": 23,
+      "name": "Like a Rolling Stone",
+      "artist": "Bob Dylan",
+      "year": 1965,
+      "genre": "Folk-Rock Revolution / Poetic Consciousness",
+      "archetype": "The Big Bang of Literary Lyricism in Popular Music",
+      "key_signature": "C major",
+      "tempo_bpm": 96,
+      "duration_min": 6.1,
+      "catalog_value_usd": 700000000,
+      "tier": "Tier II: Epochal Modern, Rock, Pop, Soul & Electronic Monuments",
+      "subproblem_scores": {
+        "s1_harmonic": 91.0,
+        "s2_rhythmic": 94.0,
+        "s3_timbral": 96.5,
+        "s4_poetic": 100.0,
+        "s5_production": 96.0,
+        "s6_cultural": 100.0
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 16.0,
+        "lufs_integrated": -16.6,
+        "true_peak_dbfs": -0.7,
+        "crest_factor_db": 16.8,
+        "spectral_centroid_hz": 4256.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.52,
+        "syncopation_index": 85.9,
+        "micro_timing_ms": 36.1,
+        "affective_valence": -0.4,
+        "affective_arousal": -0.13
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.045,
+        "volatility_sigma": 0.075,
+        "expected_value_10yr_usd": 1627076448.0,
+        "expected_value_25yr_usd": 5765976083.0,
+        "expected_value_50yr_usd": 47494971706.0,
+        "expected_value_100yr_usd": 3222531910571.0,
+        "p05_stress_10yr_usd": 319683146.0,
+        "p95_bull_10yr_usd": 5587515948.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Al Kooper's improvised Hammond organ riff; Dylan's merciless rhymes ('diplomat / chrome horse / cat'); snare crack opening",
+        "bad": "Columbia Records initially tried to bury the single due to its 6-minute length",
+        "fixable": "Celebrated as the #1 song that permanently legitimized rock music as literature",
+        "missing": "Virtuosic vocal melisma"
+      },
+      "patron_need": "Existential reckoning, stripping away pretension, and lyrical intellectual revolution.",
+      "trade_off_passed": "Dylan's nasal, raw voice rejects conventional bel canto sweetness in favor of prophetic urgency.",
+      "learned_from_prev": "Substitutes Prince's instrumental virtuosity with uncompromising poetic devastation: Dylan takes a snare crack that 'sounds like somebody kicked open the door to your mind' and unloads 6 minutes of biting social truth."
+    },
+    {
+      "rank": 24,
+      "name": "Superstition",
+      "artist": "Stevie Wonder",
+      "year": 1972,
+      "genre": "Funk / Motown Virtuosity / Clavinet Mastery",
+      "archetype": "The Supreme Clavinet Funk Masterpiece of Modern Music",
+      "key_signature": "Eb minor",
+      "tempo_bpm": 100,
+      "duration_min": 4.4,
+      "catalog_value_usd": 500000000,
+      "tier": "Tier II: Epochal Modern, Rock, Pop, Soul & Electronic Monuments",
+      "subproblem_scores": {
+        "s1_harmonic": 95.0,
+        "s2_rhythmic": 99.0,
+        "s3_timbral": 98.0,
+        "s4_poetic": 94.0,
+        "s5_production": 99.0,
+        "s6_cultural": 100.0
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 15.5,
+        "lufs_integrated": -16.3,
+        "true_peak_dbfs": -0.3,
+        "crest_factor_db": 16.3,
+        "spectral_centroid_hz": 3693.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.65,
+        "syncopation_index": 92.3,
+        "micro_timing_ms": 10.0,
+        "affective_valence": 0.8,
+        "affective_arousal": 0.78
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.045,
+        "volatility_sigma": 0.075,
+        "expected_value_10yr_usd": 1162197463.0,
+        "expected_value_25yr_usd": 4118554345.0,
+        "expected_value_50yr_usd": 33924979790.0,
+        "expected_value_100yr_usd": 2301808507551.0,
+        "p05_stress_10yr_usd": 228345104.0,
+        "p95_bull_10yr_usd": 3991082820.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "The most iconic clavinet riff in history; Stevie's open hi-hat shuffle drumming; piercing brass horn lines",
+        "bad": "Fade-out ending leaves listeners wishing the groove continued indefinitely",
+        "fixable": "Extended live concert performances where Stevie stretches the outro groove past 8 minutes",
+        "missing": "Slow contemplative rubato"
+      },
+      "patron_need": "Unstoppable physical funk pocket, warning against irrational beliefs, and genius multi-instrumentalism.",
+      "trade_off_passed": "Originally promised to Jeff Beck, but Berry Gordy correctly recognized it as Stevie's definitive career single.",
+      "learned_from_prev": "Injects relentless polyrhythmic groove into Dylan\u2019s social commentary: Stevie plays all drums, multiple overlapping Hohner Clavinet D6 tracks, and TONTO Moog synth bass entirely by himself in one virtuosic vision."
+    },
+    {
+      "rank": 25,
+      "name": "Kashmir / Stairway to Heaven",
+      "artist": "Led Zeppelin",
+      "year": 1975,
+      "genre": "Hard Rock Epic / Modal Folk Fusion",
+      "archetype": "The Titanic Monolith of Heavy Rock & Mythic Orchestration",
+      "key_signature": "D modal (DADGAD tuning)",
+      "tempo_bpm": 80,
+      "duration_min": 8.5,
+      "catalog_value_usd": 650000000,
+      "tier": "Tier II: Epochal Modern, Rock, Pop, Soul & Electronic Monuments",
+      "subproblem_scores": {
+        "s1_harmonic": 94.5,
+        "s2_rhythmic": 97.0,
+        "s3_timbral": 99.0,
+        "s4_poetic": 95.0,
+        "s5_production": 98.5,
+        "s6_cultural": 99.5
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 14.6,
+        "lufs_integrated": -16.8,
+        "true_peak_dbfs": -0.8,
+        "crest_factor_db": 15.4,
+        "spectral_centroid_hz": 3529.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.66,
+        "syncopation_index": 87.5,
+        "micro_timing_ms": 24.8,
+        "affective_valence": -0.4,
+        "affective_arousal": -0.14
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.045,
+        "volatility_sigma": 0.075,
+        "expected_value_10yr_usd": 1510856702.0,
+        "expected_value_25yr_usd": 5354120649.0,
+        "expected_value_50yr_usd": 44102473727.0,
+        "expected_value_100yr_usd": 2992351059816.0,
+        "p05_stress_10yr_usd": 296848635.0,
+        "p95_bull_10yr_usd": 5188407666.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "John Bonham's massive Headley Grange drum acoustics; Page's DADGAD guitar tuning; brass and string counterpoint",
+        "bad": "Robert Plant's soaring vocal screams proved difficult to recreate live in late-70s tours",
+        "fixable": "Celebration of the definitive 1975 'Physical Graffiti' studio cut as the absolute benchmark",
+        "missing": "Delicate intimate vocal whispers"
+      },
+      "patron_need": "Mythological quest, thunderous sonic weight, and otherworldly desert mysticism.",
+      "trade_off_passed": "Relentless 8-minute repetitive ostinato can test listeners seeking rapid pop chord changes.",
+      "learned_from_prev": "Expands Stevie's groove into epic polyrhythmic desert majesty: John Bonham\u2019s crushing 4/4 drums anchor Jimmy Page\u2019s 3/4 ascending DADGAD guitar and Middle Eastern string ostinato, creating hypnotic grandeur."
+    },
+    {
+      "rank": 26,
+      "name": "'Heroes' / Life on Mars?",
+      "artist": "David Bowie",
+      "year": 1977,
+      "genre": "Art Rock / Berlin Trilogy / Motorik Ambient Fusion",
+      "archetype": "The Cold War Anthem of Triumph Over Division and Despair",
+      "key_signature": "D major / G major",
+      "tempo_bpm": 112,
+      "duration_min": 6.1,
+      "catalog_value_usd": 480000000,
+      "tier": "Tier II: Epochal Modern, Rock, Pop, Soul & Electronic Monuments",
+      "subproblem_scores": {
+        "s1_harmonic": 94.0,
+        "s2_rhythmic": 95.0,
+        "s3_timbral": 99.0,
+        "s4_poetic": 98.5,
+        "s5_production": 99.0,
+        "s6_cultural": 99.5
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 12.6,
+        "lufs_integrated": -16.0,
+        "true_peak_dbfs": -0.6,
+        "crest_factor_db": 13.4,
+        "spectral_centroid_hz": 1405.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.6,
+        "syncopation_index": 87.7,
+        "micro_timing_ms": 35.0,
+        "affective_valence": -0.4,
+        "affective_arousal": 0.17
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.045,
+        "volatility_sigma": 0.075,
+        "expected_value_10yr_usd": 1115709564.0,
+        "expected_value_25yr_usd": 3953812171.0,
+        "expected_value_50yr_usd": 32567980599.0,
+        "expected_value_100yr_usd": 2209736167249.0,
+        "p05_stress_10yr_usd": 219211300.0,
+        "p95_bull_10yr_usd": 3831439507.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Visconti's 3-mic room gate system; Fripp's endless sustain guitar; Bowie's vocal crack from croon to primal scream",
+        "bad": "Initially stalled at #24 on the UK singles chart before growing into an immortal global standard",
+        "fixable": "Historical retrospective recognition during the fall of the Berlin Wall",
+        "missing": "A traditional guitar solo"
+      },
+      "patron_need": "Courage against overwhelming odds, romantic defiance under tyranny, and avant-garde art-rock beauty.",
+      "trade_off_passed": "Tony Visconti's innovative 3-microphone gating system required Bowie to scream at the top of his lungs to open the furthest room mic.",
+      "learned_from_prev": "Substitutes Led Zeppelin's ancient mythology with visceral 20th-century geopolitical reality: recorded 500 yards from the Berlin Wall at Hansa Tonstudio, Robert Fripp\u2019s sustained feedback guitar and Brian Eno\u2019s synths propel Bowie\u2019s desperate cry."
+    },
+    {
+      "rank": 27,
+      "name": "Sinnerman / Feeling Good",
+      "artist": "Nina Simone",
+      "year": 1965,
+      "genre": "Civil Rights Soul / Spiritual Jazz Trance",
+      "archetype": "The 10-Minute Polyrhythmic Hurricane of Judgment and Redemption",
+      "key_signature": "A minor",
+      "tempo_bpm": 140,
+      "duration_min": 10.3,
+      "catalog_value_usd": 390000000,
+      "tier": "Tier II: Epochal Modern, Rock, Pop, Soul & Electronic Monuments",
+      "subproblem_scores": {
+        "s1_harmonic": 96.0,
+        "s2_rhythmic": 99.0,
+        "s3_timbral": 98.0,
+        "s4_poetic": 99.0,
+        "s5_production": 97.0,
+        "s6_cultural": 99.0
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 16.1,
+        "lufs_integrated": -17.5,
+        "true_peak_dbfs": -0.5,
+        "crest_factor_db": 16.9,
+        "spectral_centroid_hz": 2704.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.63,
+        "syncopation_index": 94.6,
+        "micro_timing_ms": 19.2,
+        "affective_valence": -0.4,
+        "affective_arousal": 0.31
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.045,
+        "volatility_sigma": 0.075,
+        "expected_value_10yr_usd": 906514021.0,
+        "expected_value_25yr_usd": 3212472389.0,
+        "expected_value_50yr_usd": 26461484236.0,
+        "expected_value_100yr_usd": 1795410635890.0,
+        "p05_stress_10yr_usd": 178109181.0,
+        "p95_bull_10yr_usd": 3113044600.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "The breathless piano-handclap breakdown; Nina's commanding vocal timbre; unmatched cinematic tension",
+        "bad": "Frequently truncated to 3 minutes in television and commercial syncs",
+        "fixable": "Insist on the full 10:20 master recording to experience the complete rhythmic build and spiritual resolution",
+        "missing": "Gentle acoustic lullaby tone"
+      },
+      "patron_need": "Spiritual reckoning, visceral urgency, civil rights courage, and trance-like musical frenzy.",
+      "trade_off_passed": "Unapologetic, relentless 10-minute tempo offers zero moments of resting comfort.",
+      "learned_from_prev": "Answers Bowie's Cold War electronics with African-American spiritual roots: Nina\u2019s galloping piano ostinato, handclaps, and relentless pacing transform a traditional spiritual into a terrifying 10-minute sprint from divine judgment."
+    },
+    {
+      "rank": 28,
+      "name": "Paranoid Android",
+      "artist": "Radiohead",
+      "year": 1997,
+      "genre": "Art Rock / Dystopian Electronic Suite",
+      "archetype": "The 'Bohemian Rhapsody' of the Late-90s Digital Paranoia Era",
+      "key_signature": "G minor / C minor / D minor",
+      "tempo_bpm": 84,
+      "duration_min": 6.4,
+      "catalog_value_usd": 350000000,
+      "tier": "Tier II: Epochal Modern, Rock, Pop, Soul & Electronic Monuments",
+      "subproblem_scores": {
+        "s1_harmonic": 97.0,
+        "s2_rhythmic": 98.0,
+        "s3_timbral": 99.5,
+        "s4_poetic": 97.0,
+        "s5_production": 100.0,
+        "s6_cultural": 98.5
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 8.3,
+        "lufs_integrated": -11.2,
+        "true_peak_dbfs": -0.1,
+        "crest_factor_db": 8.6,
+        "spectral_centroid_hz": 3593.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.72,
+        "syncopation_index": 90.6,
+        "micro_timing_ms": 4.5,
+        "affective_valence": -0.7,
+        "affective_arousal": 0.65
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.045,
+        "volatility_sigma": 0.075,
+        "expected_value_10yr_usd": 813538224.0,
+        "expected_value_25yr_usd": 2882988042.0,
+        "expected_value_50yr_usd": 23747485853.0,
+        "expected_value_100yr_usd": 1611265955286.0,
+        "p05_stress_10yr_usd": 159841573.0,
+        "p95_bull_10yr_usd": 2793757974.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Nigel Godrich's pristine production; 7/8 time signature transition; Jonny Greenwood's erratic fuzz guitar solo",
+        "bad": "Dystopian nihilism can be emotionally draining for lighthearted listening",
+        "fixable": "Appreciation of the 'Rain down' choral section as a moment of sublime human grace",
+        "missing": "Upbeat radio pop optimism"
+      },
+      "patron_need": "Confronting digital alienation, late-capitalist exhaustion, and breathtaking art-rock complexity.",
+      "trade_off_passed": "Rejects mainstream pop verse-chorus formula; embraces abrasive fuzz distortion and rhythmic dislocation.",
+      "learned_from_prev": "Translates Queen and Bowie into millennial technological alienation: four distinct musical sections, acoustic fingerpicking, a crushing 7/8 time signature rock breakdown, a choral Gregorian lament ('Rain down'), and Jonny Greenwood\u2019s glitching fuzz solos."
+    },
+    {
+      "rank": 29,
+      "name": "What's Going On",
+      "artist": "Marvin Gaye",
+      "year": 1971,
+      "genre": "Social Consciousness Soul / Detroit Polyphony",
+      "archetype": "The Holy Grail of Soul Music and Sociopolitical Compassion",
+      "key_signature": "E major",
+      "tempo_bpm": 98,
+      "duration_min": 3.9,
+      "catalog_value_usd": 680000000,
+      "tier": "Tier II: Epochal Modern, Rock, Pop, Soul & Electronic Monuments",
+      "subproblem_scores": {
+        "s1_harmonic": 96.0,
+        "s2_rhythmic": 96.0,
+        "s3_timbral": 99.0,
+        "s4_poetic": 100.0,
+        "s5_production": 99.0,
+        "s6_cultural": 100.0
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 16.2,
+        "lufs_integrated": -15.3,
+        "true_peak_dbfs": -0.4,
+        "crest_factor_db": 17.0,
+        "spectral_centroid_hz": 3446.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.73,
+        "syncopation_index": 91.3,
+        "micro_timing_ms": 34.8,
+        "affective_valence": -0.4,
+        "affective_arousal": -0.06
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.045,
+        "volatility_sigma": 0.075,
+        "expected_value_10yr_usd": 1580588549.0,
+        "expected_value_25yr_usd": 5601233910.0,
+        "expected_value_50yr_usd": 46137972515.0,
+        "expected_value_100yr_usd": 3130459570269.0,
+        "p05_stress_10yr_usd": 310549341.0,
+        "p95_bull_10yr_usd": 5427872635.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "James Jamerson's upright/P-bass mastery; Eli Fontaine's opening alto sax; Marvin's multitracked self-dialogue",
+        "bad": "Short 3:53 running time leaves the listener desperate for the track to never end",
+        "fixable": "Listen to the entire 35-minute continuous 'What's Going On' album suite as an unbroken concept piece",
+        "missing": "Aggressive rock distortion"
+      },
+      "patron_need": "Healing from societal division, anti-war compassion, and velvety vocal perfection.",
+      "trade_off_passed": "Berry Gordy initially called it 'the worst record I ever heard' because it was political rather than standard romance.",
+      "learned_from_prev": "Resolves Radiohead's alienation into deep, loving human empathy: Marvin Gaye defies Motown's assembly line, layering his own multitracked vocal harmonies over James Jamerson's legendary flat-on-his-back bassline to ask for peace amidst the Vietnam War."
+    },
+    {
+      "rank": 30,
+      "name": "Trans-Europe Express / Autobahn",
+      "artist": "Kraftwerk",
+      "year": 1977,
+      "genre": "Electronic / Motorik Krautrock / Kling Klang Foundation",
+      "archetype": "The Archetypal Blueprint of Hip-Hop, Techno, Electro and Modern Pop",
+      "key_signature": "D minor",
+      "tempo_bpm": 108,
+      "duration_min": 6.7,
+      "catalog_value_usd": 410000000,
+      "tier": "Tier II: Epochal Modern, Rock, Pop, Soul & Electronic Monuments",
+      "subproblem_scores": {
+        "s1_harmonic": 92.0,
+        "s2_rhythmic": 100.0,
+        "s3_timbral": 98.5,
+        "s4_poetic": 93.0,
+        "s5_production": 99.5,
+        "s6_cultural": 99.5
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 15.7,
+        "lufs_integrated": -17.8,
+        "true_peak_dbfs": -0.2,
+        "crest_factor_db": 16.5,
+        "spectral_centroid_hz": 3747.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.64,
+        "syncopation_index": 92.5,
+        "micro_timing_ms": 3.8,
+        "affective_valence": -0.4,
+        "affective_arousal": -0.0
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.045,
+        "volatility_sigma": 0.075,
+        "expected_value_10yr_usd": 953001919.0,
+        "expected_value_25yr_usd": 3377214563.0,
+        "expected_value_50yr_usd": 27818483428.0,
+        "expected_value_100yr_usd": 1887482976192.0,
+        "p05_stress_10yr_usd": 187242985.0,
+        "p95_bull_10yr_usd": 3272687912.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Direct forefather of hip-hop ('Planet Rock'), Detroit techno, and electro; pristine analog synthesizer filtering",
+        "bad": "Mechanical rigidity can sound cold to listeners seeking organic acoustic instruments",
+        "fixable": "Recognize the subtle romantic European warmth behind the synthetic facade",
+        "missing": "Organic acoustic drum kit grooves"
+      },
+      "patron_need": "Futuristic mechanical elegance, hypnotic electronic hypnosis, and the root of modern beats.",
+      "trade_off_passed": "Deliberately robotic, detached German vocal delivery rejects traditional soulful emotionalism.",
+      "learned_from_prev": "Strips away Detroit acoustic soul and invents the synthetic pulse of modern civilization: Ralf H\u00fctter and Florian Schneider build custom sequencers, vocoders, and drum pads, inspiring Afrika Bambaataa's 'Planet Rock' and modern dance music."
+    },
+    {
+      "rank": 31,
+      "name": "Respect",
+      "artist": "Aretha Franklin",
+      "year": 1967,
+      "genre": "Southern Soul / R&B Liberation Anthem",
+      "archetype": "The Definitive Anthem of Civil Rights, Feminist Liberation & Soul Power",
+      "key_signature": "C major / F# major",
+      "tempo_bpm": 115,
+      "duration_min": 2.5,
+      "catalog_value_usd": 550000000,
+      "tier": "Tier II: Epochal Modern, Rock, Pop, Soul & Electronic Monuments",
+      "subproblem_scores": {
+        "s1_harmonic": 93.0,
+        "s2_rhythmic": 97.0,
+        "s3_timbral": 97.5,
+        "s4_poetic": 99.0,
+        "s5_production": 97.0,
+        "s6_cultural": 100.0
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 15.7,
+        "lufs_integrated": -14.9,
+        "true_peak_dbfs": -0.6,
+        "crest_factor_db": 16.5,
+        "spectral_centroid_hz": 2532.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.51,
+        "syncopation_index": 93.0,
+        "micro_timing_ms": 41.6,
+        "affective_valence": 0.75,
+        "affective_arousal": 0.75
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.045,
+        "volatility_sigma": 0.075,
+        "expected_value_10yr_usd": 1278417209.0,
+        "expected_value_25yr_usd": 4530409780.0,
+        "expected_value_50yr_usd": 37317477769.0,
+        "expected_value_100yr_usd": 2531989358306.0,
+        "p05_stress_10yr_usd": 251179614.0,
+        "p95_bull_10yr_usd": 4390191102.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Muscle Shoals rhythm section groove; King Curtis tenor sax solo; Aretha's sisters' backing vocals ('sock it to me')",
+        "bad": "Brief duration ends quickly",
+        "fixable": "Instant replay on loop; the concise economy is part of its perfection",
+        "missing": "Extended symphonic development"
+      },
+      "patron_need": "Unshakable self-worth, civil rights empowerment, and the greatest female vocal force in history.",
+      "trade_off_passed": "Brief 2:28 duration packs staggering density without extended instrumental jams.",
+      "learned_from_prev": "Restores explosive human soul to answer Kraftwerk's synthetic machines: Aretha takes Otis Redding's ballad, flips the gender perspective, spells out 'R-E-S-P-E-C-T', and turns it into a global battle cry of human dignity."
+    },
+    {
+      "rank": 32,
+      "name": "Giorgio by Moroder / One More Time",
+      "artist": "Daft Punk",
+      "year": 2013,
+      "genre": "French Touch / Modular Electronic Odyssey",
+      "archetype": "The Masterclass Tribute to Disco, Synthesis and Sonic Evolution",
+      "key_signature": "A minor",
+      "tempo_bpm": 113,
+      "duration_min": 9.1,
+      "catalog_value_usd": 380000000,
+      "tier": "Tier II: Epochal Modern, Rock, Pop, Soul & Electronic Monuments",
+      "subproblem_scores": {
+        "s1_harmonic": 95.0,
+        "s2_rhythmic": 98.0,
+        "s3_timbral": 100.0,
+        "s4_poetic": 95.0,
+        "s5_production": 100.0,
+        "s6_cultural": 98.0
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 8.3,
+        "lufs_integrated": -10.0,
+        "true_peak_dbfs": 0.3,
+        "crest_factor_db": 8.6,
+        "spectral_centroid_hz": 4133.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.7,
+        "syncopation_index": 91.5,
+        "micro_timing_ms": 2.7,
+        "affective_valence": -0.4,
+        "affective_arousal": 0.06
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.045,
+        "volatility_sigma": 0.075,
+        "expected_value_10yr_usd": 883270072.0,
+        "expected_value_25yr_usd": 3130101302.0,
+        "expected_value_50yr_usd": 25782984641.0,
+        "expected_value_100yr_usd": 1749374465739.0,
+        "p05_stress_10yr_usd": 173542279.0,
+        "p95_bull_10yr_usd": 3033222943.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Recorded with 3 different vintage mics (60s, 70s, modern) tracking Moroder's era; explosive live drum breakdown",
+        "bad": "Long narrative spoken-word intro can delay dancefloor momentum",
+        "fixable": "Appreciation of the conceptual narrative arch connecting the 1960s to the 21st century",
+        "missing": "Standard vocal verse-chorus pop lyrics"
+      },
+      "patron_need": "Euphoric dance floor celebration, music history education, and apex audiophile production.",
+      "trade_off_passed": "Spoken-word autobiographical intro requires patience before the beat explodes at 1:53.",
+      "learned_from_prev": "Unites Kraftwerk's modular synthesizers with Aretha's live rhythm sections: Guy-Manuel and Thomas Bangalter record Giorgio Moroder's spoken biography, transitioning from simple click tracks to full orchestral modular synth ecstasy."
+    },
+    {
+      "rank": 33,
+      "name": "The Chain / Dreams",
+      "artist": "Fleetwood Mac",
+      "year": 1977,
+      "genre": "West Coast Pop-Rock / Interpersonal Polyphony",
+      "archetype": "The Masterwork of Romantic Fracture and Imploding Harmonies",
+      "key_signature": "E minor / A minor",
+      "tempo_bpm": 152,
+      "duration_min": 4.5,
+      "catalog_value_usd": 600000000,
+      "tier": "Tier II: Epochal Modern, Rock, Pop, Soul & Electronic Monuments",
+      "subproblem_scores": {
+        "s1_harmonic": 94.0,
+        "s2_rhythmic": 96.0,
+        "s3_timbral": 98.5,
+        "s4_poetic": 97.5,
+        "s5_production": 99.0,
+        "s6_cultural": 100.0
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 12.5,
+        "lufs_integrated": -16.5,
+        "true_peak_dbfs": -0.5,
+        "crest_factor_db": 13.3,
+        "spectral_centroid_hz": 3667.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.58,
+        "syncopation_index": 92.3,
+        "micro_timing_ms": 13.0,
+        "affective_valence": -0.4,
+        "affective_arousal": 0.55
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.045,
+        "volatility_sigma": 0.075,
+        "expected_value_10yr_usd": 1394636955.0,
+        "expected_value_25yr_usd": 4942265214.0,
+        "expected_value_50yr_usd": 40709975748.0,
+        "expected_value_100yr_usd": 2762170209061.0,
+        "p05_stress_10yr_usd": 274014125.0,
+        "p95_bull_10yr_usd": 4789299384.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "John McVie's iconic bass breakdown; 3-part vocal harmonies (Nicks, Buckingham, McVie); Lindsey's fingerpicked solo",
+        "bad": "Spliced together from distinct studio demos with razor-blade tape editing",
+        "fixable": "Seamless analog tape splicing and mixing by Ken Caillat and Richard Dashut",
+        "missing": "Complex orchestral counterpoint"
+      },
+      "patron_need": "Processing heartbreak, enduring loyalty despite betrayal, and iconic dual-guitar rock catharsis.",
+      "trade_off_passed": "Forged during catastrophic band breakups and cocaine-fueled studio paranoia.",
+      "learned_from_prev": "Grounds Daft Punk's electronic synthesis into raw interpersonal human heartbreak: spliced together from different studio takes, the track builds from Lindsey Buckingham's dobro into John McVie's legendary bass solo and blazing rock outro."
+    },
+    {
+      "rank": 34,
+      "name": "Good Vibrations / God Only Knows",
+      "artist": "The Beach Boys",
+      "year": 1966,
+      "genre": "Symphonic Pocket Pop / Electro-Theremin Masterpiece",
+      "archetype": "The Most Expensive and Complex Single in 1960s Pop History",
+      "key_signature": "Eb minor / Gb major",
+      "tempo_bpm": 150,
+      "duration_min": 3.6,
+      "catalog_value_usd": 550000000,
+      "tier": "Tier II: Epochal Modern, Rock, Pop, Soul & Electronic Monuments",
+      "subproblem_scores": {
+        "s1_harmonic": 96.5,
+        "s2_rhythmic": 96.0,
+        "s3_timbral": 99.0,
+        "s4_poetic": 97.0,
+        "s5_production": 100.0,
+        "s6_cultural": 99.5
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 13.0,
+        "lufs_integrated": -17.1,
+        "true_peak_dbfs": -0.1,
+        "crest_factor_db": 13.8,
+        "spectral_centroid_hz": 3488.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.66,
+        "syncopation_index": 93.8,
+        "micro_timing_ms": 13.2,
+        "affective_valence": -0.4,
+        "affective_arousal": 0.51
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.045,
+        "volatility_sigma": 0.075,
+        "expected_value_10yr_usd": 1278417209.0,
+        "expected_value_25yr_usd": 4530409780.0,
+        "expected_value_50yr_usd": 37317477769.0,
+        "expected_value_100yr_usd": 2531989358306.0,
+        "p05_stress_10yr_usd": 251179614.0,
+        "p95_bull_10yr_usd": 4390191102.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Brian Wilson's modular 'mosaic' composition method; lush 5-part vocal harmonies; ghostly electro-theremin",
+        "bad": "Enormous mental toll on Brian Wilson leading into the aborted 'Smile' sessions",
+        "fixable": "Historical veneration as the absolute peak of American pop arranging",
+        "missing": "Extended improvisational guitar solo"
+      },
+      "patron_need": "Sun-drenched sonic joy, harmonic sophistication, and awe-inspiring studio arrangement.",
+      "trade_off_passed": "Cost over $50,000 to produce in 1966\u2014the most expensive single ever recorded up to that date.",
+      "learned_from_prev": "Precedes Fleetwood Mac\u2019s tape splicing by a decade: Brian Wilson records across 4 different Hollywood studios, combining cellos, bass harmonica, tack piano, and the eerie Tannerin (electro-theremin) into a 3.5-minute 'pocket symphony'."
+    },
+    {
+      "rank": 35,
+      "name": "Smells Like Teen Spirit",
+      "artist": "Nirvana",
+      "year": 1991,
+      "genre": "Grunge / Alternative Rock Revolution",
+      "archetype": "The Cultural Guillotine that Obliterated 80s Glam and Crowned 90s Disaffection",
+      "key_signature": "F minor",
+      "tempo_bpm": 117,
+      "duration_min": 5.0,
+      "catalog_value_usd": 650000000,
+      "tier": "Tier II: Epochal Modern, Rock, Pop, Soul & Electronic Monuments",
+      "subproblem_scores": {
+        "s1_harmonic": 90.0,
+        "s2_rhythmic": 96.0,
+        "s3_timbral": 98.0,
+        "s4_poetic": 96.0,
+        "s5_production": 99.0,
+        "s6_cultural": 100.0
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 12.1,
+        "lufs_integrated": -13.4,
+        "true_peak_dbfs": -0.2,
+        "crest_factor_db": 12.6,
+        "spectral_centroid_hz": 4566.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.54,
+        "syncopation_index": 90.0,
+        "micro_timing_ms": 29.2,
+        "affective_valence": -0.55,
+        "affective_arousal": 0.92
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.045,
+        "volatility_sigma": 0.075,
+        "expected_value_10yr_usd": 1510856702.0,
+        "expected_value_25yr_usd": 5354120649.0,
+        "expected_value_50yr_usd": 44102473727.0,
+        "expected_value_100yr_usd": 2992351059816.0,
+        "p05_stress_10yr_usd": 296848635.0,
+        "p95_bull_10yr_usd": 5188407666.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Butch Vig's double-tracked guitars; Dave Grohl's explosive flam snare hits; unforgettable four-chord hook",
+        "bad": "Overshadowed Nirvana's deeper, more nuanced catalog (e.g., 'In Utero', 'MTV Unplugged')",
+        "fixable": "Listening within the context of the full 'Nevermind' tracklist",
+        "missing": "Complex classical counterpoint"
+      },
+      "patron_need": "Raw teenage rage, anti-commercial authenticity, and explosive physical kinetic release.",
+      "trade_off_passed": "Slurred, unintelligible vocal delivery in verses; Cobain grew to resent the song's massive pop fame.",
+      "learned_from_prev": "Closes Tier II by burning down Brian Wilson's lush orchestrations with raw visceral fury: Kurt Cobain masters the loud-quiet-loud dynamic shift (borrowed from the Pixies), powered by Dave Grohl\u2019s sledgehammer drums and Butch Vig's punchy production."
+    },
+    {
+      "rank": 36,
+      "name": "Sing About Me, I'm Dying of Thirst",
+      "artist": "Kendrick Lamar",
+      "year": 2012,
+      "genre": "Conscious Hip-Hop / Cinematic Narrative",
+      "archetype": "The 12-Minute Literary Magnum Opus of 21st-Century Hip-Hop",
+      "key_signature": "D minor",
+      "tempo_bpm": 74,
+      "duration_min": 12.0,
+      "catalog_value_usd": 280000000,
+      "tier": "Tier III: Revolutionary Hip-Hop, Avant-Garde, Roots, Ambient & Global Epics",
+      "subproblem_scores": {
+        "s1_harmonic": 95.0,
+        "s2_rhythmic": 97.0,
+        "s3_timbral": 98.0,
+        "s4_poetic": 100.0,
+        "s5_production": 98.5,
+        "s6_cultural": 98.5
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 10.9,
+        "lufs_integrated": -10.6,
+        "true_peak_dbfs": 0.0,
+        "crest_factor_db": 11.2,
+        "spectral_centroid_hz": 2761.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.63,
+        "syncopation_index": 90.1,
+        "micro_timing_ms": 24.3,
+        "affective_valence": -0.4,
+        "affective_arousal": -0.34
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.042,
+        "volatility_sigma": 0.065,
+        "expected_value_10yr_usd": 1027304052.0,
+        "expected_value_25yr_usd": 7219555441.0,
+        "expected_value_50yr_usd": 186149931324.0,
+        "expected_value_100yr_usd": 123756417614310.0,
+        "p05_stress_10yr_usd": 146282488.0,
+        "p95_bull_10yr_usd": 2992735780.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Lyrical mastery across 3 perspectives; jazz guitar loop (Grant Green sample); heartbreaking gunshot cutoff",
+        "bad": "Demands undivided literary attention and emotional vulnerability",
+        "fixable": "Taught in university literature and poetry curricula worldwide",
+        "missing": "Commercial radio party appeal"
+      },
+      "patron_need": "Deep empathetic storytelling, grappling with urban mortality, and poetic literary greatness.",
+      "trade_off_passed": "12-minute runtime and sobering, non-commercial tone exclude it from casual club play.",
+      "learned_from_prev": "Takes Cobain's disaffection and channels it into devastating Compton realism: a 12-minute two-part suite where gunshots abruptly cut off verses, exploring survivor's guilt, generational violence, and baptismal redemption."
+    },
+    {
+      "rank": 37,
+      "name": "Music for Airports (Ambient 1 / 1/1)",
+      "artist": "Brian Eno",
+      "year": 1978,
+      "genre": "Ambient Music / Generative Tape-Loop Architecture",
+      "archetype": "The Founding Monument of Ambient Music and Psychoacoustic Stillness",
+      "key_signature": "Ab major / C minor",
+      "tempo_bpm": 0,
+      "duration_min": 17.3,
+      "catalog_value_usd": 220000000,
+      "tier": "Tier III: Revolutionary Hip-Hop, Avant-Garde, Roots, Ambient & Global Epics",
+      "subproblem_scores": {
+        "s1_harmonic": 94.0,
+        "s2_rhythmic": 98.0,
+        "s3_timbral": 100.0,
+        "s4_poetic": 96.0,
+        "s5_production": 99.5,
+        "s6_cultural": 99.0
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 13.6,
+        "lufs_integrated": -18.4,
+        "true_peak_dbfs": -0.4,
+        "crest_factor_db": 14.4,
+        "spectral_centroid_hz": 1402.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.54,
+        "syncopation_index": 84.4,
+        "micro_timing_ms": 42.0,
+        "affective_valence": 0.15,
+        "affective_arousal": -0.92
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.042,
+        "volatility_sigma": 0.065,
+        "expected_value_10yr_usd": 807167469.0,
+        "expected_value_25yr_usd": 5672507847.0,
+        "expected_value_50yr_usd": 146260660326.0,
+        "expected_value_100yr_usd": 97237185268387.0,
+        "p05_stress_10yr_usd": 114936241.0,
+        "p95_bull_10yr_usd": 2351435256.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Revolutionary conceptual manifest; pristine tape saturation; infinitely non-repeating acoustic permutations",
+        "bad": "Listeners expecting rhythmic entertainment will find it static",
+        "fixable": "Proper context setting as functional architectural psychoacoustic sound art",
+        "missing": "Rhythm and lyrical narrative"
+      },
+      "patron_need": "Stress reduction, anxiety dissipation in stressful transit spaces, and deep meditative focus.",
+      "trade_off_passed": "Completely discards melody, beats, lyrics, and rhythm; 'must be as ignorable as it is interesting.'",
+      "learned_from_prev": "Pivots from Kendrick's hyper-dense lyrical narrative into pure acoustic stillness: asynchronous tape loops of differing lengths create ever-shifting piano and vocal tone-clouds designed to induce calm and accommodate contemplation."
+    },
+    {
+      "rank": 38,
+      "name": "The Message",
+      "artist": "Grandmaster Flash and the Furious Five",
+      "year": 1982,
+      "genre": "Hip-Hop Social Realism / Electro-Funk Pioneer",
+      "archetype": "The Catalyst that Transformed Hip-Hop from Party Music into Global Journalism",
+      "key_signature": "D minor",
+      "tempo_bpm": 100,
+      "duration_min": 7.1,
+      "catalog_value_usd": 340000000,
+      "tier": "Tier III: Revolutionary Hip-Hop, Avant-Garde, Roots, Ambient & Global Epics",
+      "subproblem_scores": {
+        "s1_harmonic": 90.0,
+        "s2_rhythmic": 98.5,
+        "s3_timbral": 96.0,
+        "s4_poetic": 98.0,
+        "s5_production": 97.0,
+        "s6_cultural": 100.0
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 10.2,
+        "lufs_integrated": -14.7,
+        "true_peak_dbfs": 0.1,
+        "crest_factor_db": 10.7,
+        "spectral_centroid_hz": 3387.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.56,
+        "syncopation_index": 91.6,
+        "micro_timing_ms": 8.7,
+        "affective_valence": -0.4,
+        "affective_arousal": -0.0
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.042,
+        "volatility_sigma": 0.065,
+        "expected_value_10yr_usd": 1247440635.0,
+        "expected_value_25yr_usd": 8766603036.0,
+        "expected_value_50yr_usd": 226039202322.0,
+        "expected_value_100yr_usd": 150275649960234.0,
+        "p05_stress_10yr_usd": 177628736.0,
+        "p95_bull_10yr_usd": 3634036304.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Melle Mel's iconic delivery; timeless opening synthesizer bassline; foundational cultural cornerstone",
+        "bad": "The Furious Five initially did not want to record it because they preferred party rhymes",
+        "fixable": "Celebrated as the single most important track in early hip-hop history",
+        "missing": "Modern 808 sub-bass low-end"
+      },
+      "patron_need": "Unvarnished urban truth, gritty social realism, and historic hip-hop roots.",
+      "trade_off_passed": "Early 1982 synthesizer sounds and drum machine programming sound distinctively vintage.",
+      "learned_from_prev": "Breaks Eno's tranquil ambient silence with raw Bronx pavement verit\u00e9: Melle Mel unloads the grim realities of urban poverty ('Don't push me 'cause I'm close to the edge'), forever proving hip-hop could be profound social commentary."
+    },
+    {
+      "rank": 39,
+      "name": "Zombie / Water No Get Enemy",
+      "artist": "Fela Kuti & Africa 70",
+      "year": 1976,
+      "genre": "Afrobeat / Polyrhythmic Protest Funk",
+      "archetype": "The Militant Musical Weapon that Stood Against Military Dictatorship",
+      "key_signature": "E minor / A minor",
+      "tempo_bpm": 125,
+      "duration_min": 12.4,
+      "catalog_value_usd": 310000000,
+      "tier": "Tier III: Revolutionary Hip-Hop, Avant-Garde, Roots, Ambient & Global Epics",
+      "subproblem_scores": {
+        "s1_harmonic": 95.0,
+        "s2_rhythmic": 100.0,
+        "s3_timbral": 98.5,
+        "s4_poetic": 98.5,
+        "s5_production": 97.0,
+        "s6_cultural": 99.0
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 13.1,
+        "lufs_integrated": -16.5,
+        "true_peak_dbfs": -0.1,
+        "crest_factor_db": 13.9,
+        "spectral_centroid_hz": 3390.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.65,
+        "syncopation_index": 92.9,
+        "micro_timing_ms": 11.0,
+        "affective_valence": -0.4,
+        "affective_arousal": 0.23
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.042,
+        "volatility_sigma": 0.065,
+        "expected_value_10yr_usd": 1137372343.0,
+        "expected_value_25yr_usd": 7993079239.0,
+        "expected_value_50yr_usd": 206094566823.0,
+        "expected_value_100yr_usd": 137016033787272.0,
+        "p05_stress_10yr_usd": 161955612.0,
+        "p95_bull_10yr_usd": 3313386042.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Tony Allen's four-limb polyrhythmic drumming; blistering horn arrangements; fearless anti-tyranny courage",
+        "bad": "Raw live-in-Lagos recording environment captures occasional microphone buzz",
+        "fixable": "Adds to the organic, revolutionary street authenticity of the music",
+        "missing": "Slick Western studio polish"
+      },
+      "patron_need": "Defiant political resistance, irresistible ecstatic African polyrhythms, and big-band horn brilliance.",
+      "trade_off_passed": "Caused the Nigerian military to invade Fela's Kalakuta Republic compound, burning it to the ground.",
+      "learned_from_prev": "Elevates Melle Mel\u2019s street journalism into an armed anti-regime musical revolution: Tony Allen's peerless polyrhythmic drumming anchors Fela's 12-minute horn onslaught, mocking the Nigerian military as mindless zombies."
+    },
+    {
+      "rank": 40,
+      "name": "Redemption Song",
+      "artist": "Bob Marley & The Wailers",
+      "year": 1980,
+      "genre": "Acoustic Folk-Reggae / Pan-African Spiritual",
+      "archetype": "The Final Acoustic Will and Testament of the Reggae Prophet",
+      "key_signature": "G major",
+      "tempo_bpm": 76,
+      "duration_min": 3.8,
+      "catalog_value_usd": 600000000,
+      "tier": "Tier III: Revolutionary Hip-Hop, Avant-Garde, Roots, Ambient & Global Epics",
+      "subproblem_scores": {
+        "s1_harmonic": 91.0,
+        "s2_rhythmic": 94.0,
+        "s3_timbral": 97.0,
+        "s4_poetic": 100.0,
+        "s5_production": 98.0,
+        "s6_cultural": 100.0
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 12.7,
+        "lufs_integrated": -13.2,
+        "true_peak_dbfs": -0.3,
+        "crest_factor_db": 13.2,
+        "spectral_centroid_hz": 3274.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.57,
+        "syncopation_index": 87.1,
+        "micro_timing_ms": 25.0,
+        "affective_valence": 0.6,
+        "affective_arousal": -0.15
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.042,
+        "volatility_sigma": 0.065,
+        "expected_value_10yr_usd": 2201365826.0,
+        "expected_value_25yr_usd": 15470475946.0,
+        "expected_value_50yr_usd": 398892709980.0,
+        "expected_value_100yr_usd": 265192323459236.0,
+        "p05_stress_10yr_usd": 313462475.0,
+        "p95_bull_10yr_usd": 6413005243.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Marley's weathered, prophetic voice; Marcus Garvey's eternal lyric; pure emotional transparency",
+        "bad": "Short running time ends before the listener is ready to say goodbye",
+        "fixable": "The brevity reinforces the poignant fragility of human mortality",
+        "missing": "Reggae rhythm section (bass and drums)"
+      },
+      "patron_need": "Spiritual emancipation, mental liberation, and intimate acoustic warmth.",
+      "trade_off_passed": "Rejects standard reggae bass-and-drum dub groove in favor of pure solo acoustic folk.",
+      "learned_from_prev": "Strips away Fela Kuti's 20-piece band to just one man, one acoustic guitar, and the human voice: facing terminal cancer, Bob Marley quotes Marcus Garvey ('Emancipate yourselves from mental slavery') in an immortal spiritual anthem."
+    },
+    {
+      "rank": 41,
+      "name": "Koyaanisqatsi / Einstein on the Beach",
+      "artist": "Philip Glass",
+      "year": 1982,
+      "genre": "Minimalism / Additive Rhythmic Modules",
+      "archetype": "The Mesmerizing Soundtrack to Industrial Civilization's Acceleration",
+      "key_signature": "D minor",
+      "tempo_bpm": 120,
+      "duration_min": 14.5,
+      "catalog_value_usd": 250000000,
+      "tier": "Tier III: Revolutionary Hip-Hop, Avant-Garde, Roots, Ambient & Global Epics",
+      "subproblem_scores": {
+        "s1_harmonic": 94.0,
+        "s2_rhythmic": 99.0,
+        "s3_timbral": 98.5,
+        "s4_poetic": 97.0,
+        "s5_production": 98.5,
+        "s6_cultural": 98.5
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 11.5,
+        "lufs_integrated": -13.6,
+        "true_peak_dbfs": -0.1,
+        "crest_factor_db": 12.0,
+        "spectral_centroid_hz": 3043.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.61,
+        "syncopation_index": 93.6,
+        "micro_timing_ms": 34.6,
+        "affective_valence": -0.4,
+        "affective_arousal": 0.27
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.042,
+        "volatility_sigma": 0.065,
+        "expected_value_10yr_usd": 917235761.0,
+        "expected_value_25yr_usd": 6446031644.0,
+        "expected_value_50yr_usd": 166205295825.0,
+        "expected_value_100yr_usd": 110496801441348.0,
+        "p05_stress_10yr_usd": 130609364.0,
+        "p95_bull_10yr_usd": 2672085518.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Albert de Ruiter's subterranean bass vocal; pulsing pipe organ; additive metric shifts (4+4+3)",
+        "bad": "Demands visual accompaniment (Godfrey Reggio's time-lapse film) for full impact",
+        "fixable": "Standalone concert performance reveals the sheer virtuosity of the woodwind and keyboard players",
+        "missing": "Standard pop song verse-chorus"
+      },
+      "patron_need": "Hypnotic trance contemplation, architectural awe, and cinematic technological reflection.",
+      "trade_off_passed": "Repetitive structures can trigger impatience in listeners who lack an ear for microtonal variation.",
+      "learned_from_prev": "Replaces Marley\u2019s intimate individual voice with mechanical societal acceleration: Philip Glass\u2019s pulsing pipe organs, deep basso profondo chanting, and arpeggiated additive rhythms depict human life out of balance."
+    },
+    {
+      "rank": 42,
+      "name": "N.Y. State of Mind",
+      "artist": "Nas",
+      "year": 1994,
+      "genre": "Boom Bap / Golden Age Hip-Hop",
+      "archetype": "The Cinematic Crown of East Coast Hip-Hop Lyricism",
+      "key_signature": "C minor",
+      "tempo_bpm": 84,
+      "duration_min": 4.9,
+      "catalog_value_usd": 320000000,
+      "tier": "Tier III: Revolutionary Hip-Hop, Avant-Garde, Roots, Ambient & Global Epics",
+      "subproblem_scores": {
+        "s1_harmonic": 94.0,
+        "s2_rhythmic": 98.5,
+        "s3_timbral": 97.0,
+        "s4_poetic": 99.0,
+        "s5_production": 98.5,
+        "s6_cultural": 99.5
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 10.4,
+        "lufs_integrated": -13.0,
+        "true_peak_dbfs": -0.3,
+        "crest_factor_db": 10.9,
+        "spectral_centroid_hz": 2624.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.66,
+        "syncopation_index": 89.5,
+        "micro_timing_ms": 25.5,
+        "affective_valence": -0.4,
+        "affective_arousal": -0.13
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.042,
+        "volatility_sigma": 0.065,
+        "expected_value_10yr_usd": 1174061774.0,
+        "expected_value_25yr_usd": 8250920504.0,
+        "expected_value_50yr_usd": 212742778656.0,
+        "expected_value_100yr_usd": 141435905844926.0,
+        "p05_stress_10yr_usd": 167179987.0,
+        "p95_bull_10yr_usd": 3420269463.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Nas's spontaneous opening ('I don't know how to start this shit'); Premier's turntable scratching; jazz piano loop",
+        "bad": "Sparse boom-bap production eschews modern trap ear-candy",
+        "fixable": "Its acoustic austerity is precisely what makes it timeless",
+        "missing": "Melodic sing-along vocal chorus"
+      },
+      "patron_need": "Supreme lyricism, gritty inner-city verit\u00e9, and pure boom-bap rhythmic perfection.",
+      "trade_off_passed": "Raw urban street content and profanity make it unsuitable for delicate family listening.",
+      "learned_from_prev": "Grounds Glass's abstract industrial pulse into the Queensbridge housing projects: DJ Premier chops a Joe Chambers jazz piano loop into an menacing groove, while a 19-year-old Nas drops one of the greatest first takes in recording history."
+    },
+    {
+      "rank": 43,
+      "name": "Raga Sindhi Bhairavi",
+      "artist": "Ravi Shankar & Alla Rakha",
+      "year": 1971,
+      "genre": "Hindustani Classical / Microtonal Raga",
+      "archetype": "The Masterclass of Indian Classical Microtonal Modulation",
+      "key_signature": "Bhairavi Thaat (All 12 notes used / Morning Raga)",
+      "tempo_bpm": 96,
+      "duration_min": 25.0,
+      "catalog_value_usd": 260000000,
+      "tier": "Tier III: Revolutionary Hip-Hop, Avant-Garde, Roots, Ambient & Global Epics",
+      "subproblem_scores": {
+        "s1_harmonic": 99.0,
+        "s2_rhythmic": 100.0,
+        "s3_timbral": 98.0,
+        "s4_poetic": 98.5,
+        "s5_production": 96.0,
+        "s6_cultural": 99.5
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 12.7,
+        "lufs_integrated": -16.1,
+        "true_peak_dbfs": -0.3,
+        "crest_factor_db": 13.5,
+        "spectral_centroid_hz": 2215.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.68,
+        "syncopation_index": 93.1,
+        "micro_timing_ms": 43.7,
+        "affective_valence": -0.4,
+        "affective_arousal": -0.02
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.042,
+        "volatility_sigma": 0.065,
+        "expected_value_10yr_usd": 953925191.0,
+        "expected_value_25yr_usd": 6703872910.0,
+        "expected_value_50yr_usd": 172853507658.0,
+        "expected_value_100yr_usd": 114916673499002.0,
+        "p05_stress_10yr_usd": 135833739.0,
+        "p95_bull_10yr_usd": 2778968938.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "22 microtonal shrutis; Alla Rakha's lightning tabla tihais; profound spiritual serenity",
+        "bad": "Western audiences unfamiliar with raga structures may find the opening unmetered Alap difficult to follow",
+        "fixable": "Listening with an appreciation of modal ascent (Arohana) and descent (Avarohana)",
+        "missing": "Western chordal functional harmony"
+      },
+      "patron_need": "Spiritual devotion, mind-bending microtonal nuance, and telepathic improvisational ecstasy.",
+      "trade_off_passed": "Requires openness to non-Western tuning and patience through the unmetered opening Alap.",
+      "learned_from_prev": "Expands DJ Premier's 4/4 loops into the infinite universe of Indian classical music: Ravi Shankar's sitar explores 22 microtones (shrutis) within the 16-beat Teental cycle, trading lightning telepathic phrases with Alla Rakha\u2019s tabla."
+    },
+    {
+      "rank": 44,
+      "name": "Cross Road Blues",
+      "artist": "Robert Johnson",
+      "year": 1936,
+      "genre": "Delta Blues Inception / Bottleneck Slide",
+      "archetype": "The Primordial DNA of All Rock and Roll and Modern Electric Guitar",
+      "key_signature": "B / Bb (open tuning)",
+      "tempo_bpm": 88,
+      "duration_min": 2.4,
+      "catalog_value_usd": 500000000,
+      "tier": "Tier III: Revolutionary Hip-Hop, Avant-Garde, Roots, Ambient & Global Epics",
+      "subproblem_scores": {
+        "s1_harmonic": 92.0,
+        "s2_rhythmic": 97.0,
+        "s3_timbral": 94.0,
+        "s4_poetic": 99.0,
+        "s5_production": 92.0,
+        "s6_cultural": 100.0
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 21.1,
+        "lufs_integrated": -24.1,
+        "true_peak_dbfs": -0.7,
+        "crest_factor_db": 22.3,
+        "spectral_centroid_hz": 2609.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.55,
+        "syncopation_index": 90.3,
+        "micro_timing_ms": 24.4,
+        "affective_valence": 0.51,
+        "affective_arousal": -0.03
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.042,
+        "volatility_sigma": 0.065,
+        "expected_value_10yr_usd": 1834471522.0,
+        "expected_value_25yr_usd": 12892063288.0,
+        "expected_value_50yr_usd": 332410591650.0,
+        "expected_value_100yr_usd": 220993602882697.0,
+        "p05_stress_10yr_usd": 261218729.0,
+        "p95_bull_10yr_usd": 5344171036.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Pioneered boogie bassline on thumb while playing lead slide on treble strings; terrifying vocal commitment",
+        "bad": "Historical 78 RPM surface noise and pitch speed debate",
+        "fixable": "Modern sound restoration preserving transient guitar attack without artificial noise gating",
+        "missing": "Modern multi-track stereo fidelity"
+      },
+      "patron_need": "Direct connection to the roots of American music, haunted blues soul, and bottleneck guitar mastery.",
+      "trade_off_passed": "Recorded on a single portable 78 RPM acetate disc with noticeable surface crackle and hiss.",
+      "learned_from_prev": "Links Ravi Shankar's microtonal string bends back to the Mississippi Delta: recorded facing the wall in Room 414 of the Gunter Hotel in San Antonio, Johnson's slide guitar and haunted falsetto birthed the rock and roll mythos."
+    },
+    {
+      "rank": 45,
+      "name": "Xtal / Windowlicker",
+      "artist": "Aphex Twin (Richard D. James)",
+      "year": 1992,
+      "genre": "Intelligent Dance Music (IDM) / Braindance",
+      "archetype": "The Pinnacle of Electronic Micro-Rhythm & Ethereal Ambience",
+      "key_signature": "A major",
+      "tempo_bpm": 114,
+      "duration_min": 4.9,
+      "catalog_value_usd": 240000000,
+      "tier": "Tier III: Revolutionary Hip-Hop, Avant-Garde, Roots, Ambient & Global Epics",
+      "subproblem_scores": {
+        "s1_harmonic": 95.0,
+        "s2_rhythmic": 100.0,
+        "s3_timbral": 100.0,
+        "s4_poetic": 94.0,
+        "s5_production": 100.0,
+        "s6_cultural": 98.0
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 12.8,
+        "lufs_integrated": -14.3,
+        "true_peak_dbfs": 0.2,
+        "crest_factor_db": 13.3,
+        "spectral_centroid_hz": 2565.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.64,
+        "syncopation_index": 95.5,
+        "micro_timing_ms": 5.6,
+        "affective_valence": -0.4,
+        "affective_arousal": 0.08
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.042,
+        "volatility_sigma": 0.065,
+        "expected_value_10yr_usd": 880546330.0,
+        "expected_value_25yr_usd": 6188190378.0,
+        "expected_value_50yr_usd": 159557083992.0,
+        "expected_value_100yr_usd": 106076929383694.0,
+        "p05_stress_10yr_usd": 125384990.0,
+        "p95_bull_10yr_usd": 2565202097.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Sublime juxtaposition of gentle ambient pads with razor-sharp drum programming; timeless analog Roland synth warmth",
+        "bad": "Aphex Twin's eccentric prankster persona can distract from his profound musical genius",
+        "fixable": "Focused audiophile listening on high-end monitors reveals symphonic layers",
+        "missing": "Human lyrical narrative"
+      },
+      "patron_need": "Transcendent electronic daydreaming, hyper-complex micro-rhythm fascination, and audiophile bliss.",
+      "trade_off_passed": "Rejects standard dance club templates in favor of eccentric, headphone-focused IDM.",
+      "learned_from_prev": "Answers Robert Johnson's acoustic wood with digital microprocessor sorcery: Richard D. James combines micro-edited breakbeats with lush, heavenly synthesizer chords and angelic sampled choir pads."
+    },
+    {
+      "rank": 46,
+      "name": "Running Up That Hill (A Deal with God)",
+      "artist": "Kate Bush",
+      "year": 1985,
+      "genre": "Art Pop / Fairlight CMI Sampling Pioneer",
+      "archetype": "The Triumphant Masterpiece of Empathy, Sampling & Art-Pop",
+      "key_signature": "C minor",
+      "tempo_bpm": 108,
+      "duration_min": 4.9,
+      "catalog_value_usd": 480000000,
+      "tier": "Tier III: Revolutionary Hip-Hop, Avant-Garde, Roots, Ambient & Global Epics",
+      "subproblem_scores": {
+        "s1_harmonic": 94.0,
+        "s2_rhythmic": 97.0,
+        "s3_timbral": 99.0,
+        "s4_poetic": 99.0,
+        "s5_production": 99.5,
+        "s6_cultural": 100.0
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 11.4,
+        "lufs_integrated": -15.2,
+        "true_peak_dbfs": 0.1,
+        "crest_factor_db": 11.9,
+        "spectral_centroid_hz": 4153.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.55,
+        "syncopation_index": 89.2,
+        "micro_timing_ms": 8.1,
+        "affective_valence": -0.4,
+        "affective_arousal": -0.0
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.042,
+        "volatility_sigma": 0.065,
+        "expected_value_10yr_usd": 1761092661.0,
+        "expected_value_25yr_usd": 12376380757.0,
+        "expected_value_50yr_usd": 319114167984.0,
+        "expected_value_100yr_usd": 212153858767389.0,
+        "p05_stress_10yr_usd": 250769980.0,
+        "p95_bull_10yr_usd": 5130404194.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Fairlight CMI cello samples; relentless thumping LinnDrum percussion; Kate's extraordinary vocal soaring",
+        "bad": "Resurgence in pop culture (Stranger Things) caused temporary saturation fatigue",
+        "fixable": "Its sheer compositional integrity withstands any commercial resurgence",
+        "missing": "Traditional acoustic piano solo"
+      },
+      "patron_need": "Deep emotional understanding, triumphant athletic propulsion, and art-pop brilliance.",
+      "trade_off_passed": "Record label forced title change from 'A Deal with God' to avoid religious backlash in 1985.",
+      "learned_from_prev": "Infuses Aphex Twin\u2019s sampling technology with profound human empathy: Kate Bush programs the Fairlight CMI synthesizer and LinnDrum to explore the impossible dream of swapping genders to truly understand another person's pain."
+    },
+    {
+      "rank": 47,
+      "name": "The Ecstasy of Gold",
+      "artist": "Ennio Morricone",
+      "year": 1966,
+      "genre": "Cinematic Symphonic Western / Choral Crescendo",
+      "archetype": "The Most Electrifying Cinematic Crescendo in Film History",
+      "key_signature": "A minor",
+      "tempo_bpm": 102,
+      "duration_min": 3.4,
+      "catalog_value_usd": 450000000,
+      "tier": "Tier III: Revolutionary Hip-Hop, Avant-Garde, Roots, Ambient & Global Epics",
+      "subproblem_scores": {
+        "s1_harmonic": 96.0,
+        "s2_rhythmic": 96.0,
+        "s3_timbral": 100.0,
+        "s4_poetic": 98.0,
+        "s5_production": 99.0,
+        "s6_cultural": 100.0
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 13.5,
+        "lufs_integrated": -15.9,
+        "true_peak_dbfs": -0.2,
+        "crest_factor_db": 14.3,
+        "spectral_centroid_hz": 3066.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.72,
+        "syncopation_index": 87.9,
+        "micro_timing_ms": 30.7,
+        "affective_valence": -0.4,
+        "affective_arousal": 0.09
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.042,
+        "volatility_sigma": 0.065,
+        "expected_value_10yr_usd": 1651024369.0,
+        "expected_value_25yr_usd": 11602856959.0,
+        "expected_value_50yr_usd": 299169532485.0,
+        "expected_value_100yr_usd": 198894242594427.0,
+        "p05_stress_10yr_usd": 235096856.0,
+        "p95_bull_10yr_usd": 4809753932.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Edda Dell'Orso's wordless soaring soprano; tubular bells; unmatched emotional acceleration",
+        "bad": "Brief 3:23 duration leaves the listener gasping for breath",
+        "fixable": "Adopted by Metallica as their permanent concert entrance anthem for 40+ years",
+        "missing": "Lyrical text (sung entirely wordless)"
+      },
+      "patron_need": "Uncontrollable adrenaline, epic cinematic triumph, and hair-raising melodic escalation.",
+      "trade_off_passed": "Intense dramatic tension makes it too thrilling for quiet background relaxation.",
+      "learned_from_prev": "Translates Kate Bush\u2019s dramatic surge into a cinematic stampede: Edda Dell'Orso\u2019s wordless soprano, soaring oboe, bells, and galloping rhythm build an unbearable crescendo of gold fever in 'The Good, the Bad and the Ugly'."
+    },
+    {
+      "rank": 48,
+      "name": "Libertango",
+      "artist": "Astor Piazzolla",
+      "year": 1974,
+      "genre": "Nuevo Tango / Chamber Jazz Fusion",
+      "archetype": "The Sensual Revolution that Freed the Tango from Nostalgia",
+      "key_signature": "A minor",
+      "tempo_bpm": 136,
+      "duration_min": 2.8,
+      "catalog_value_usd": 300000000,
+      "tier": "Tier III: Revolutionary Hip-Hop, Avant-Garde, Roots, Ambient & Global Epics",
+      "subproblem_scores": {
+        "s1_harmonic": 97.0,
+        "s2_rhythmic": 98.0,
+        "s3_timbral": 98.0,
+        "s4_poetic": 96.0,
+        "s5_production": 97.5,
+        "s6_cultural": 99.0
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 14.6,
+        "lufs_integrated": -17.5,
+        "true_peak_dbfs": -0.7,
+        "crest_factor_db": 15.4,
+        "spectral_centroid_hz": 2818.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.62,
+        "syncopation_index": 94.3,
+        "micro_timing_ms": 21.9,
+        "affective_valence": -0.4,
+        "affective_arousal": 0.28
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.042,
+        "volatility_sigma": 0.065,
+        "expected_value_10yr_usd": 1100682913.0,
+        "expected_value_25yr_usd": 7735237973.0,
+        "expected_value_50yr_usd": 199446354990.0,
+        "expected_value_100yr_usd": 132596161729618.0,
+        "p05_stress_10yr_usd": 156731237.0,
+        "p95_bull_10yr_usd": 3206502621.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Syncopated 3+3+2 rhythmic pulse; breathing bandone\u00f3n bellows; explosive bassline ostinato",
+        "bad": "Fast tempo makes it challenging for novice social tango dancers",
+        "fixable": "Celebrated as pure concert hall virtuosity rather than strict ballroom dance",
+        "missing": "Soothing ambient tranquility"
+      },
+      "patron_need": "Sensual passion, electrifying rhythmic swagger, and virtuosic bandone\u00f3n fire.",
+      "trade_off_passed": "Traditional Argentine tango purists initially despised Piazzolla, accusing him of destroying their heritage.",
+      "learned_from_prev": "Channels Morricone's dramatic urgency into Argentine erotic chamber fire: Piazzolla breaks orthodox tango rules, infusing jazz chords and Bachian counterpoint into the breathing bellows of his bandone\u00f3n."
+    },
+    {
+      "rank": 49,
+      "name": "Music for 18 Musicians",
+      "artist": "Steve Reich",
+      "year": 1976,
+      "genre": "Phasing Minimalism / Pulse Counterpoint",
+      "archetype": "The Masterwork of Polyrhythmic Acoustic Pulse and Phase Shift",
+      "key_signature": "11 Chords Cycle",
+      "tempo_bpm": 104,
+      "duration_min": 56.0,
+      "catalog_value_usd": 240000000,
+      "tier": "Tier III: Revolutionary Hip-Hop, Avant-Garde, Roots, Ambient & Global Epics",
+      "subproblem_scores": {
+        "s1_harmonic": 96.0,
+        "s2_rhythmic": 100.0,
+        "s3_timbral": 100.0,
+        "s4_poetic": 97.0,
+        "s5_production": 99.5,
+        "s6_cultural": 98.5
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 16.1,
+        "lufs_integrated": -16.0,
+        "true_peak_dbfs": -0.6,
+        "crest_factor_db": 16.9,
+        "spectral_centroid_hz": 2819.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.73,
+        "syncopation_index": 93.7,
+        "micro_timing_ms": 42.4,
+        "affective_valence": 0.57,
+        "affective_arousal": 0.1
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.042,
+        "volatility_sigma": 0.065,
+        "expected_value_10yr_usd": 880546330.0,
+        "expected_value_25yr_usd": 6188190378.0,
+        "expected_value_50yr_usd": 159557083992.0,
+        "expected_value_100yr_usd": 106076929383694.0,
+        "p05_stress_10yr_usd": 125384990.0,
+        "p95_bull_10yr_usd": 2565202097.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Human-breath cueing replaces conductor; shimmering psychoacoustic overtones; flawless ECM analog recording",
+        "bad": "Performance requires stamina without a single rest for the marimba players",
+        "fixable": "Pioneered modern electronic loop music decades before DAWs were invented",
+        "missing": "Dramatic Hollywood narrative shifts"
+      },
+      "patron_need": "Altered states of consciousness, hypnotic acoustic clarity, and radiant rhythmic joy.",
+      "trade_off_passed": "56 minutes of continuous pulsing marimbas requires total surrender from the listener.",
+      "learned_from_prev": "Elevates Piazzolla's 3+3+2 pulse into a 56-minute trance of pure acoustic bliss: four pianos, three marimbas, two xylophones, women's voices, and clarinets cycle through 11 chords, driven entirely by human breath."
+    },
+    {
+      "rank": 50,
+      "name": "Allah Hoo / Dum Mast Qalandar",
+      "artist": "Nusrat Fateh Ali Khan",
+      "year": 1992,
+      "genre": "Sufi Qawwali / Ecstatic Trance Improvisation",
+      "archetype": "The Sovereign Voice that Dissolves the Boundary Between Earth and Heaven",
+      "key_signature": "Modal D (Bhairav scale)",
+      "tempo_bpm": 130,
+      "duration_min": 28.0,
+      "catalog_value_usd": 350000000,
+      "tier": "Tier III: Revolutionary Hip-Hop, Avant-Garde, Roots, Ambient & Global Epics",
+      "subproblem_scores": {
+        "s1_harmonic": 98.0,
+        "s2_rhythmic": 99.0,
+        "s3_timbral": 98.5,
+        "s4_poetic": 100.0,
+        "s5_production": 98.0,
+        "s6_cultural": 100.0
+      },
+      "psychoacoustics": {
+        "dynamic_range_db": 12.9,
+        "lufs_integrated": -12.8,
+        "true_peak_dbfs": 0.1,
+        "crest_factor_db": 13.4,
+        "spectral_centroid_hz": 3336.0
+      },
+      "affective_information": {
+        "harmonic_entropy_bits": 4.7,
+        "syncopation_index": 92.3,
+        "micro_timing_ms": 28.5,
+        "affective_valence": 0.85,
+        "affective_arousal": 0.9
+      },
+      "valuation_sde": {
+        "annual_drift_mu": 0.042,
+        "volatility_sigma": 0.065,
+        "expected_value_10yr_usd": 1284130065.0,
+        "expected_value_25yr_usd": 9024444302.0,
+        "expected_value_50yr_usd": 232687414155.0,
+        "expected_value_100yr_usd": 154695522017888.0,
+        "p05_stress_10yr_usd": 182853110.0,
+        "p95_bull_10yr_usd": 3740919725.0,
+        "hjb_ruin_probability_pct": 0.0
+      },
+      "nitpick": {
+        "good": "Nusrat's unbelievable vocal range, sargam improvisations, and lung power; infectious clapping trance",
+        "bad": "Extended duration and non-Western sacred Urdu/Punjabi texts require openhearted immersion",
+        "fixable": "Universal spiritual resonance transcends all linguistic and cultural boundaries",
+        "missing": "Western orchestral constraints"
+      },
+      "patron_need": "Mystical ecstasy, sacred spiritual communion, and the most powerful soaring human vocal instrument on earth.",
+      "trade_off_passed": "Completes the grand cycle from Bach\u2019s Latin Mass to Nusrat\u2019s Sufi Qawwali, demonstrating universal human musical divinity.",
+      "learned_from_prev": "Closes the 50-work universal canon by returning to the divine source of Bach (#1): Nusrat Fateh Ali Khan sits on the carpet with his harmonium and party, building a 28-minute ecstatic clapping trance that propels listeners into ecstatic mystical unity."
+    }
+  ],
+  "inductive_deltas": [
+    {
+      "transition": "#1 (Mass in B Minor (BWV 232)) -> #2 (Symphony No. 9 in D minor, Op. 125 'Choral')",
+      "rank_from": 1,
+      "rank_to": 2,
+      "s1_harmonic_delta": -1.5,
+      "s2_rhythmic_delta": 1.0,
+      "s3_timbral_delta": 0.5,
+      "s4_poetic_delta": -0.5,
+      "s5_production_delta": -1.0,
+      "s6_cultural_delta": 0.0,
+      "duration_ratio": 0.63,
+      "catalog_value_ratio": 0.8,
+      "aesthetic_synthesis": "Takes Bach's contrapuntal rigor and shatters classical restraint: introduces human vocal soloists and chorus into the symphony for the first time in history, transforming Schiller's 'Ode to Joy' into universal humanist triumph."
+    },
+    {
+      "transition": "#2 (Symphony No. 9 in D minor, Op. 125 'Choral') -> #3 (A Love Supreme (Part I: Acknowledgement))",
+      "rank_from": 2,
+      "rank_to": 3,
+      "s1_harmonic_delta": 1.0,
+      "s2_rhythmic_delta": 3.0,
+      "s3_timbral_delta": -2.0,
+      "s4_poetic_delta": -0.5,
+      "s5_production_delta": 2.0,
+      "s6_cultural_delta": -0.5,
+      "duration_ratio": 0.49,
+      "catalog_value_ratio": 0.38,
+      "aesthetic_synthesis": "Translates European liturgical grandeur into African-American spiritual liberation: Coltrane\u2019s classic quartet (McCoy Tyner, Jimmy Garrison, Elvin Jones) replaces rigid notation with ecstatic modal exploration and prayer chant."
+    },
+    {
+      "transition": "#3 (A Love Supreme (Part I: Acknowledgement)) -> #4 (The Rite of Spring (Le Sacre du printemps))",
+      "rank_from": 3,
+      "rank_to": 4,
+      "s1_harmonic_delta": -1.0,
+      "s2_rhythmic_delta": 1.0,
+      "s3_timbral_delta": 2.5,
+      "s4_poetic_delta": -3.0,
+      "s5_production_delta": -1.0,
+      "s6_cultural_delta": 0.0,
+      "duration_ratio": 1.03,
+      "catalog_value_ratio": 1.89,
+      "aesthetic_synthesis": "Breaks Coltrane's and Beethoven's melodic lyrical continuity: unleashes asymmetrical additive meters (5/8, 7/8, 3/16), crushing polychord accents, and extreme bassoon register screams, igniting the 1913 Paris riot."
+    },
+    {
+      "transition": "#4 (The Rite of Spring (Le Sacre du printemps)) -> #5 (Requiem in D minor (K. 626))",
+      "rank_from": 4,
+      "rank_to": 5,
+      "s1_harmonic_delta": -0.5,
+      "s2_rhythmic_delta": -8.0,
+      "s3_timbral_delta": -1.5,
+      "s4_poetic_delta": 4.0,
+      "s5_production_delta": -1.5,
+      "s6_cultural_delta": 0.5,
+      "duration_ratio": 1.53,
+      "catalog_value_ratio": 1.29,
+      "aesthetic_synthesis": "Resolves Stravinsky's violent chaos back into classical perfection: the 8-bar fragment of 'Lacrimosa' penned on Mozart's deathbed captures weeping grief and terrifying majesty with unearthly economy."
+    },
+    {
+      "transition": "#5 (Requiem in D minor (K. 626)) -> #6 (Kind of Blue ('So What' / 'Blue in Green'))",
+      "rank_from": 5,
+      "rank_to": 6,
+      "s1_harmonic_delta": -1.5,
+      "s2_rhythmic_delta": 6.0,
+      "s3_timbral_delta": 1.0,
+      "s4_poetic_delta": -2.0,
+      "s5_production_delta": 5.5,
+      "s6_cultural_delta": 0.0,
+      "duration_ratio": 0.87,
+      "catalog_value_ratio": 0.59,
+      "aesthetic_synthesis": "Replaces complex chord progressions (Bebop) with modal simplicity: Bill Evans's Impressionist chords, Paul Chambers's iconic walking bass, and Miles's muted trumpet create the quintessential sound of late-night contemplation."
+    },
+    {
+      "transition": "#6 (Kind of Blue ('So What' / 'Blue in Green')) -> #7 (Symphony No. 2 in C minor 'Resurrection')",
+      "rank_from": 6,
+      "rank_to": 7,
+      "s1_harmonic_delta": 2.0,
+      "s2_rhythmic_delta": -3.0,
+      "s3_timbral_delta": 1.0,
+      "s4_poetic_delta": 1.5,
+      "s5_production_delta": -3.0,
+      "s6_cultural_delta": -1.5,
+      "duration_ratio": 1.89,
+      "catalog_value_ratio": 1.23,
+      "aesthetic_synthesis": "Expands Miles Davis's intimate quietude into a cosmic 85-minute apocalypse: offstage brass, church bells, pipe organ, massive choir, and soprano solo uniting life, death, and triumphant rebirth."
+    },
+    {
+      "transition": "#7 (Symphony No. 2 in C minor 'Resurrection') -> #8 (Clair de Lune / Pr\u00e9lude \u00e0 l'apr\u00e8s-midi d'un faune)",
+      "rank_from": 7,
+      "rank_to": 8,
+      "s1_harmonic_delta": -1.0,
+      "s2_rhythmic_delta": 1.5,
+      "s3_timbral_delta": -1.5,
+      "s4_poetic_delta": -0.5,
+      "s5_production_delta": -1.0,
+      "s6_cultural_delta": 1.5,
+      "duration_ratio": 0.12,
+      "catalog_value_ratio": 1.12,
+      "aesthetic_synthesis": "Dissolves Mahler's titanic brass volume into pure shimmering impressionist color: floating whole-tone scales, parallel fourths/fifths, and rubato phrasing evoke moonlight reflecting on water."
+    },
+    {
+      "transition": "#8 (Clair de Lune / Pr\u00e9lude \u00e0 l'apr\u00e8s-midi d'un faune) -> #9 (Take the 'A' Train / Diminuendo & Crescendo in Blue)",
+      "rank_from": 8,
+      "rank_to": 9,
+      "s1_harmonic_delta": -1.5,
+      "s2_rhythmic_delta": 2.0,
+      "s3_timbral_delta": -1.0,
+      "s4_poetic_delta": -3.0,
+      "s5_production_delta": 0.0,
+      "s6_cultural_delta": -1.0,
+      "duration_ratio": 1.5,
+      "catalog_value_ratio": 0.44,
+      "aesthetic_synthesis": "Injects urban locomotive pulse into Debussy\u2019s impressionism: Billy Strayhorn\u2019s whole-tone intro leads into Duke\u2019s swinging brass section counterpoint, capturing the vibrant life of Harlem."
+    },
+    {
+      "transition": "#9 (Take the 'A' Train / Diminuendo & Crescendo in Blue) -> #10 (Tristan und Isolde ('Prelude & Liebestod'))",
+      "rank_from": 9,
+      "rank_to": 10,
+      "s1_harmonic_delta": 3.5,
+      "s2_rhythmic_delta": -5.5,
+      "s3_timbral_delta": 1.5,
+      "s4_poetic_delta": 2.5,
+      "s5_production_delta": -1.0,
+      "s6_cultural_delta": 0.0,
+      "duration_ratio": 1.2,
+      "catalog_value_ratio": 1.88,
+      "aesthetic_synthesis": "Moves from Duke's swinging resolution into endless unresolved chromatic yearning: the famous 'Tristan Chord' (F-B-D#-G#) delays tonal resolution for 4 hours until Isolde's final ecstatic transfiguration ('Liebestod')."
+    },
+    {
+      "transition": "#10 (Tristan und Isolde ('Prelude & Liebestod')) -> #11 (Symphony No. 6 in B minor, Op. 74 'Path\u00e9tique')",
+      "rank_from": 10,
+      "rank_to": 11,
+      "s1_harmonic_delta": -3.0,
+      "s2_rhythmic_delta": 3.0,
+      "s3_timbral_delta": -0.5,
+      "s4_poetic_delta": 0.5,
+      "s5_production_delta": 0.5,
+      "s6_cultural_delta": 0.0,
+      "duration_ratio": 2.56,
+      "catalog_value_ratio": 0.91,
+      "aesthetic_synthesis": "Pivots Wagner's yearning into raw tragic despair: concludes not with a triumphant fanfare, but with a slow, dying Adagio lamentoso fading into blackness with a subterranean contrabass heartbeat."
+    },
+    {
+      "transition": "#11 (Symphony No. 6 in B minor, Op. 74 'Path\u00e9tique') -> #12 ('Round Midnight)",
+      "rank_from": 11,
+      "rank_to": 12,
+      "s1_harmonic_delta": 1.5,
+      "s2_rhythmic_delta": 1.0,
+      "s3_timbral_delta": -2.5,
+      "s4_poetic_delta": -1.5,
+      "s5_production_delta": 0.5,
+      "s6_cultural_delta": 0.0,
+      "duration_ratio": 0.12,
+      "catalog_value_ratio": 0.47,
+      "aesthetic_synthesis": "Replaces Tchaikovsky\u2019s 90-piece orchestra with solo/quartet piano intimacy: Monk\u2019s crushing minor-second clusters, whole-tone runs, and idiosyncratic silence transform the midnight hour into art."
+    },
+    {
+      "transition": "#12 ('Round Midnight) -> #13 (The Four Seasons (Le quattro stagioni))",
+      "rank_from": 12,
+      "rank_to": 13,
+      "s1_harmonic_delta": -3.0,
+      "s2_rhythmic_delta": 0.0,
+      "s3_timbral_delta": 1.5,
+      "s4_poetic_delta": -1.5,
+      "s5_production_delta": 0.0,
+      "s6_cultural_delta": 1.0,
+      "duration_ratio": 7.64,
+      "catalog_value_ratio": 2.97,
+      "aesthetic_synthesis": "Pivots from Monk's smoky night into the crisp natural world: Vivaldi invents musical descriptive poetry\u2014barking dogs, teeth-chattering icy winter winds, summer storms, and celebratory autumn harvests."
+    },
+    {
+      "transition": "#13 (The Four Seasons (Le quattro stagioni)) -> #14 (Mingus Ah Um ('Goodbye Pork Pie Hat'))",
+      "rank_from": 13,
+      "rank_to": 14,
+      "s1_harmonic_delta": 2.5,
+      "s2_rhythmic_delta": 1.0,
+      "s3_timbral_delta": 0.5,
+      "s4_poetic_delta": 2.0,
+      "s5_production_delta": 2.0,
+      "s6_cultural_delta": -1.5,
+      "duration_ratio": 1.1,
+      "catalog_value_ratio": 0.4,
+      "aesthetic_synthesis": "Answers Vivaldi's European courtly grace with raw African-American grief and grit: Mingus\u2019s heartbreaking tenor sax elegy for Lester Young matches blues bent-notes with fierce civil rights defiance ('Fables of Faubus')."
+    },
+    {
+      "transition": "#14 (Mingus Ah Um ('Goodbye Pork Pie Hat')) -> #15 (Ballade No. 1 in G minor, Op. 23)",
+      "rank_from": 14,
+      "rank_to": 15,
+      "s1_harmonic_delta": -0.5,
+      "s2_rhythmic_delta": -3.0,
+      "s3_timbral_delta": -1.0,
+      "s4_poetic_delta": 1.0,
+      "s5_production_delta": -3.0,
+      "s6_cultural_delta": 1.0,
+      "duration_ratio": 0.21,
+      "catalog_value_ratio": 1.45,
+      "aesthetic_synthesis": "Condenses Mingus's instrumental storytelling into 88 keys: Chopin invents the instrumental 'Ballade', channeling Polish exile longing into a passionate bel canto melody culminating in a terrifying presto con fuoco coda."
+    },
+    {
+      "transition": "#15 (Ballade No. 1 in G minor, Op. 23) -> #16 (Piano Concerto No. 2 in C minor, Op. 18)",
+      "rank_from": 15,
+      "rank_to": 16,
+      "s1_harmonic_delta": -1.0,
+      "s2_rhythmic_delta": -1.0,
+      "s3_timbral_delta": 2.0,
+      "s4_poetic_delta": -0.5,
+      "s5_production_delta": 1.0,
+      "s6_cultural_delta": -0.5,
+      "duration_ratio": 3.58,
+      "catalog_value_ratio": 1.27,
+      "aesthetic_synthesis": "Closes Tier I by merging Chopin's piano lyricism with full Russian symphonic power: opens with tolling bell chords rising out of psychological depression into one of the most unforgettable melodies ever written."
+    },
+    {
+      "transition": "#16 (Piano Concerto No. 2 in C minor, Op. 18) -> #17 (Bohemian Rhapsody)",
+      "rank_from": 16,
+      "rank_to": 17,
+      "s1_harmonic_delta": 0.0,
+      "s2_rhythmic_delta": 1.0,
+      "s3_timbral_delta": 0.5,
+      "s4_poetic_delta": -1.5,
+      "s5_production_delta": 5.0,
+      "s6_cultural_delta": 1.0,
+      "duration_ratio": 0.17,
+      "catalog_value_ratio": 0.86,
+      "aesthetic_synthesis": "Bridges the 19th-century operatic grandeur of Wagner and Rachmaninoff directly into 20th-century rock: Freddie Mercury stitches ballad, Italian opera parody, and heavy metal headbanging into a 180-track multi-layered tape triumph."
+    },
+    {
+      "transition": "#17 (Bohemian Rhapsody) -> #18 (A Day in the Life)",
+      "rank_from": 17,
+      "rank_to": 18,
+      "s1_harmonic_delta": -0.5,
+      "s2_rhythmic_delta": 1.0,
+      "s3_timbral_delta": -0.5,
+      "s4_poetic_delta": 2.0,
+      "s5_production_delta": -0.5,
+      "s6_cultural_delta": 0.0,
+      "duration_ratio": 0.93,
+      "catalog_value_ratio": 1.25,
+      "aesthetic_synthesis": "Matches Queen's ambition with avant-garde studio experimentalism: John Lennon's detached acoustic newspaper reading collides with Paul McCartney's upbeat morning routine, bridged by a terrifying 40-piece aleatoric orchestral glissando."
+    },
+    {
+      "transition": "#18 (A Day in the Life) -> #19 (Shine On You Crazy Diamond (Parts I\u2013V) / Echoes)",
+      "rank_from": 18,
+      "rank_to": 19,
+      "s1_harmonic_delta": -0.5,
+      "s2_rhythmic_delta": -2.0,
+      "s3_timbral_delta": 1.0,
+      "s4_poetic_delta": -1.0,
+      "s5_production_delta": 0.5,
+      "s6_cultural_delta": -1.0,
+      "duration_ratio": 2.45,
+      "catalog_value_ratio": 0.67,
+      "aesthetic_synthesis": "Extends The Beatles' studio soundstage into an infinite cosmic cathedral: David Gilmour's iconic 4-note guitar motif (Bb-F-G-E) weeps for Syd Barrett's lost sanity over Rick Wright's glass-harmonica synthesizers."
+    },
+    {
+      "transition": "#19 (Shine On You Crazy Diamond (Parts I\u2013V) / Echoes) -> #20 (Billie Jean)",
+      "rank_from": 19,
+      "rank_to": 20,
+      "s1_harmonic_delta": -3.0,
+      "s2_rhythmic_delta": 6.0,
+      "s3_timbral_delta": -0.5,
+      "s4_poetic_delta": -4.0,
+      "s5_production_delta": 0.0,
+      "s6_cultural_delta": 1.0,
+      "duration_ratio": 0.36,
+      "catalog_value_ratio": 1.7,
+      "aesthetic_synthesis": "Extracts the audiophile perfection of Pink Floyd and unleashes it on the global dance floor: Bruce Swedien's iconic drum sound (wooden kick riser + custom baffle) and Louis Johnson's Yamaha bassline create irresistible physical kinetic force."
+    },
+    {
+      "transition": "#20 (Billie Jean) -> #21 (Voodoo Child (Slight Return) / Purple Haze)",
+      "rank_from": 20,
+      "rank_to": 21,
+      "s1_harmonic_delta": 1.0,
+      "s2_rhythmic_delta": -2.0,
+      "s3_timbral_delta": -1.5,
+      "s4_poetic_delta": 1.0,
+      "s5_production_delta": -3.0,
+      "s6_cultural_delta": -1.0,
+      "duration_ratio": 1.06,
+      "catalog_value_ratio": 0.49,
+      "aesthetic_synthesis": "Injects raw electrified electricity into the lineage: Hendrix weaponizes the Vox wah-wah pedal, Marshall stacks on 10, and controlled feedback, transforming the Delta blues of Robert Johnson into supersonic mythology."
+    },
+    {
+      "transition": "#21 (Voodoo Child (Slight Return) / Purple Haze) -> #22 (Purple Rain)",
+      "rank_from": 21,
+      "rank_to": 22,
+      "s1_harmonic_delta": 0.5,
+      "s2_rhythmic_delta": -3.0,
+      "s3_timbral_delta": 0.5,
+      "s4_poetic_delta": 3.0,
+      "s5_production_delta": 1.5,
+      "s6_cultural_delta": 0.5,
+      "duration_ratio": 1.67,
+      "catalog_value_ratio": 1.48,
+      "aesthetic_synthesis": "Fuses Hendrix's guitar fury with Michael Jackson's pop accessibility and black church gospel: recorded live at First Avenue Minneapolis, Prince delivers an 8-minute cathartic prayer crowned by an immortal guitar solo and falsetto cries."
+    },
+    {
+      "transition": "#22 (Purple Rain) -> #23 (Like a Rolling Stone)",
+      "rank_from": 22,
+      "rank_to": 23,
+      "s1_harmonic_delta": -2.5,
+      "s2_rhythmic_delta": -1.0,
+      "s3_timbral_delta": -2.0,
+      "s4_poetic_delta": 2.0,
+      "s5_production_delta": -2.5,
+      "s6_cultural_delta": 0.5,
+      "duration_ratio": 0.7,
+      "catalog_value_ratio": 1.13,
+      "aesthetic_synthesis": "Substitutes Prince's instrumental virtuosity with uncompromising poetic devastation: Dylan takes a snare crack that 'sounds like somebody kicked open the door to your mind' and unloads 6 minutes of biting social truth."
+    },
+    {
+      "transition": "#23 (Like a Rolling Stone) -> #24 (Superstition)",
+      "rank_from": 23,
+      "rank_to": 24,
+      "s1_harmonic_delta": 4.0,
+      "s2_rhythmic_delta": 5.0,
+      "s3_timbral_delta": 1.5,
+      "s4_poetic_delta": -6.0,
+      "s5_production_delta": 3.0,
+      "s6_cultural_delta": 0.0,
+      "duration_ratio": 0.72,
+      "catalog_value_ratio": 0.71,
+      "aesthetic_synthesis": "Injects relentless polyrhythmic groove into Dylan\u2019s social commentary: Stevie plays all drums, multiple overlapping Hohner Clavinet D6 tracks, and TONTO Moog synth bass entirely by himself in one virtuosic vision."
+    },
+    {
+      "transition": "#24 (Superstition) -> #25 (Kashmir / Stairway to Heaven)",
+      "rank_from": 24,
+      "rank_to": 25,
+      "s1_harmonic_delta": -0.5,
+      "s2_rhythmic_delta": -2.0,
+      "s3_timbral_delta": 1.0,
+      "s4_poetic_delta": 1.0,
+      "s5_production_delta": -0.5,
+      "s6_cultural_delta": -0.5,
+      "duration_ratio": 1.93,
+      "catalog_value_ratio": 1.3,
+      "aesthetic_synthesis": "Expands Stevie's groove into epic polyrhythmic desert majesty: John Bonham\u2019s crushing 4/4 drums anchor Jimmy Page\u2019s 3/4 ascending DADGAD guitar and Middle Eastern string ostinato, creating hypnotic grandeur."
+    },
+    {
+      "transition": "#25 (Kashmir / Stairway to Heaven) -> #26 ('Heroes' / Life on Mars?)",
+      "rank_from": 25,
+      "rank_to": 26,
+      "s1_harmonic_delta": -0.5,
+      "s2_rhythmic_delta": -2.0,
+      "s3_timbral_delta": 0.0,
+      "s4_poetic_delta": 3.5,
+      "s5_production_delta": 0.5,
+      "s6_cultural_delta": 0.0,
+      "duration_ratio": 0.72,
+      "catalog_value_ratio": 0.74,
+      "aesthetic_synthesis": "Substitutes Led Zeppelin's ancient mythology with visceral 20th-century geopolitical reality: recorded 500 yards from the Berlin Wall at Hansa Tonstudio, Robert Fripp\u2019s sustained feedback guitar and Brian Eno\u2019s synths propel Bowie\u2019s desperate cry."
+    },
+    {
+      "transition": "#26 ('Heroes' / Life on Mars?) -> #27 (Sinnerman / Feeling Good)",
+      "rank_from": 26,
+      "rank_to": 27,
+      "s1_harmonic_delta": 2.0,
+      "s2_rhythmic_delta": 4.0,
+      "s3_timbral_delta": -1.0,
+      "s4_poetic_delta": 0.5,
+      "s5_production_delta": -2.0,
+      "s6_cultural_delta": -0.5,
+      "duration_ratio": 1.69,
+      "catalog_value_ratio": 0.81,
+      "aesthetic_synthesis": "Answers Bowie's Cold War electronics with African-American spiritual roots: Nina\u2019s galloping piano ostinato, handclaps, and relentless pacing transform a traditional spiritual into a terrifying 10-minute sprint from divine judgment."
+    },
+    {
+      "transition": "#27 (Sinnerman / Feeling Good) -> #28 (Paranoid Android)",
+      "rank_from": 27,
+      "rank_to": 28,
+      "s1_harmonic_delta": 1.0,
+      "s2_rhythmic_delta": -1.0,
+      "s3_timbral_delta": 1.5,
+      "s4_poetic_delta": -2.0,
+      "s5_production_delta": 3.0,
+      "s6_cultural_delta": -0.5,
+      "duration_ratio": 0.62,
+      "catalog_value_ratio": 0.9,
+      "aesthetic_synthesis": "Translates Queen and Bowie into millennial technological alienation: four distinct musical sections, acoustic fingerpicking, a crushing 7/8 time signature rock breakdown, a choral Gregorian lament ('Rain down'), and Jonny Greenwood\u2019s glitching fuzz solos."
+    },
+    {
+      "transition": "#28 (Paranoid Android) -> #29 (What's Going On)",
+      "rank_from": 28,
+      "rank_to": 29,
+      "s1_harmonic_delta": -1.0,
+      "s2_rhythmic_delta": -2.0,
+      "s3_timbral_delta": -0.5,
+      "s4_poetic_delta": 3.0,
+      "s5_production_delta": -1.0,
+      "s6_cultural_delta": 1.5,
+      "duration_ratio": 0.61,
+      "catalog_value_ratio": 1.94,
+      "aesthetic_synthesis": "Resolves Radiohead's alienation into deep, loving human empathy: Marvin Gaye defies Motown's assembly line, layering his own multitracked vocal harmonies over James Jamerson's legendary flat-on-his-back bassline to ask for peace amidst the Vietnam War."
+    },
+    {
+      "transition": "#29 (What's Going On) -> #30 (Trans-Europe Express / Autobahn)",
+      "rank_from": 29,
+      "rank_to": 30,
+      "s1_harmonic_delta": -4.0,
+      "s2_rhythmic_delta": 4.0,
+      "s3_timbral_delta": -0.5,
+      "s4_poetic_delta": -7.0,
+      "s5_production_delta": 0.5,
+      "s6_cultural_delta": -0.5,
+      "duration_ratio": 1.72,
+      "catalog_value_ratio": 0.6,
+      "aesthetic_synthesis": "Strips away Detroit acoustic soul and invents the synthetic pulse of modern civilization: Ralf H\u00fctter and Florian Schneider build custom sequencers, vocoders, and drum pads, inspiring Afrika Bambaataa's 'Planet Rock' and modern dance music."
+    },
+    {
+      "transition": "#30 (Trans-Europe Express / Autobahn) -> #31 (Respect)",
+      "rank_from": 30,
+      "rank_to": 31,
+      "s1_harmonic_delta": 1.0,
+      "s2_rhythmic_delta": -3.0,
+      "s3_timbral_delta": -1.0,
+      "s4_poetic_delta": 6.0,
+      "s5_production_delta": -2.5,
+      "s6_cultural_delta": 0.5,
+      "duration_ratio": 0.37,
+      "catalog_value_ratio": 1.34,
+      "aesthetic_synthesis": "Restores explosive human soul to answer Kraftwerk's synthetic machines: Aretha takes Otis Redding's ballad, flips the gender perspective, spells out 'R-E-S-P-E-C-T', and turns it into a global battle cry of human dignity."
+    },
+    {
+      "transition": "#31 (Respect) -> #32 (Giorgio by Moroder / One More Time)",
+      "rank_from": 31,
+      "rank_to": 32,
+      "s1_harmonic_delta": 2.0,
+      "s2_rhythmic_delta": 1.0,
+      "s3_timbral_delta": 2.5,
+      "s4_poetic_delta": -4.0,
+      "s5_production_delta": 3.0,
+      "s6_cultural_delta": -2.0,
+      "duration_ratio": 3.64,
+      "catalog_value_ratio": 0.69,
+      "aesthetic_synthesis": "Unites Kraftwerk's modular synthesizers with Aretha's live rhythm sections: Guy-Manuel and Thomas Bangalter record Giorgio Moroder's spoken biography, transitioning from simple click tracks to full orchestral modular synth ecstasy."
+    },
+    {
+      "transition": "#32 (Giorgio by Moroder / One More Time) -> #33 (The Chain / Dreams)",
+      "rank_from": 32,
+      "rank_to": 33,
+      "s1_harmonic_delta": -1.0,
+      "s2_rhythmic_delta": -2.0,
+      "s3_timbral_delta": -1.5,
+      "s4_poetic_delta": 2.5,
+      "s5_production_delta": -1.0,
+      "s6_cultural_delta": 2.0,
+      "duration_ratio": 0.49,
+      "catalog_value_ratio": 1.58,
+      "aesthetic_synthesis": "Grounds Daft Punk's electronic synthesis into raw interpersonal human heartbreak: spliced together from different studio takes, the track builds from Lindsey Buckingham's dobro into John McVie's legendary bass solo and blazing rock outro."
+    },
+    {
+      "transition": "#33 (The Chain / Dreams) -> #34 (Good Vibrations / God Only Knows)",
+      "rank_from": 33,
+      "rank_to": 34,
+      "s1_harmonic_delta": 2.5,
+      "s2_rhythmic_delta": 0.0,
+      "s3_timbral_delta": 0.5,
+      "s4_poetic_delta": -0.5,
+      "s5_production_delta": 1.0,
+      "s6_cultural_delta": -0.5,
+      "duration_ratio": 0.8,
+      "catalog_value_ratio": 0.92,
+      "aesthetic_synthesis": "Precedes Fleetwood Mac\u2019s tape splicing by a decade: Brian Wilson records across 4 different Hollywood studios, combining cellos, bass harmonica, tack piano, and the eerie Tannerin (electro-theremin) into a 3.5-minute 'pocket symphony'."
+    },
+    {
+      "transition": "#34 (Good Vibrations / God Only Knows) -> #35 (Smells Like Teen Spirit)",
+      "rank_from": 34,
+      "rank_to": 35,
+      "s1_harmonic_delta": -6.5,
+      "s2_rhythmic_delta": 0.0,
+      "s3_timbral_delta": -1.0,
+      "s4_poetic_delta": -1.0,
+      "s5_production_delta": -1.0,
+      "s6_cultural_delta": 0.5,
+      "duration_ratio": 1.39,
+      "catalog_value_ratio": 1.18,
+      "aesthetic_synthesis": "Closes Tier II by burning down Brian Wilson's lush orchestrations with raw visceral fury: Kurt Cobain masters the loud-quiet-loud dynamic shift (borrowed from the Pixies), powered by Dave Grohl\u2019s sledgehammer drums and Butch Vig's punchy production."
+    },
+    {
+      "transition": "#35 (Smells Like Teen Spirit) -> #36 (Sing About Me, I'm Dying of Thirst)",
+      "rank_from": 35,
+      "rank_to": 36,
+      "s1_harmonic_delta": 5.0,
+      "s2_rhythmic_delta": 1.0,
+      "s3_timbral_delta": 0.0,
+      "s4_poetic_delta": 4.0,
+      "s5_production_delta": -0.5,
+      "s6_cultural_delta": -1.5,
+      "duration_ratio": 2.4,
+      "catalog_value_ratio": 0.43,
+      "aesthetic_synthesis": "Takes Cobain's disaffection and channels it into devastating Compton realism: a 12-minute two-part suite where gunshots abruptly cut off verses, exploring survivor's guilt, generational violence, and baptismal redemption."
+    },
+    {
+      "transition": "#36 (Sing About Me, I'm Dying of Thirst) -> #37 (Music for Airports (Ambient 1 / 1/1))",
+      "rank_from": 36,
+      "rank_to": 37,
+      "s1_harmonic_delta": -1.0,
+      "s2_rhythmic_delta": 1.0,
+      "s3_timbral_delta": 2.0,
+      "s4_poetic_delta": -4.0,
+      "s5_production_delta": 1.0,
+      "s6_cultural_delta": 0.5,
+      "duration_ratio": 1.44,
+      "catalog_value_ratio": 0.79,
+      "aesthetic_synthesis": "Pivots from Kendrick's hyper-dense lyrical narrative into pure acoustic stillness: asynchronous tape loops of differing lengths create ever-shifting piano and vocal tone-clouds designed to induce calm and accommodate contemplation."
+    },
+    {
+      "transition": "#37 (Music for Airports (Ambient 1 / 1/1)) -> #38 (The Message)",
+      "rank_from": 37,
+      "rank_to": 38,
+      "s1_harmonic_delta": -4.0,
+      "s2_rhythmic_delta": 0.5,
+      "s3_timbral_delta": -4.0,
+      "s4_poetic_delta": 2.0,
+      "s5_production_delta": -2.5,
+      "s6_cultural_delta": 1.0,
+      "duration_ratio": 0.41,
+      "catalog_value_ratio": 1.55,
+      "aesthetic_synthesis": "Breaks Eno's tranquil ambient silence with raw Bronx pavement verit\u00e9: Melle Mel unloads the grim realities of urban poverty ('Don't push me 'cause I'm close to the edge'), forever proving hip-hop could be profound social commentary."
+    },
+    {
+      "transition": "#38 (The Message) -> #39 (Zombie / Water No Get Enemy)",
+      "rank_from": 38,
+      "rank_to": 39,
+      "s1_harmonic_delta": 5.0,
+      "s2_rhythmic_delta": 1.5,
+      "s3_timbral_delta": 2.5,
+      "s4_poetic_delta": 0.5,
+      "s5_production_delta": 0.0,
+      "s6_cultural_delta": -1.0,
+      "duration_ratio": 1.75,
+      "catalog_value_ratio": 0.91,
+      "aesthetic_synthesis": "Elevates Melle Mel\u2019s street journalism into an armed anti-regime musical revolution: Tony Allen's peerless polyrhythmic drumming anchors Fela's 12-minute horn onslaught, mocking the Nigerian military as mindless zombies."
+    },
+    {
+      "transition": "#39 (Zombie / Water No Get Enemy) -> #40 (Redemption Song)",
+      "rank_from": 39,
+      "rank_to": 40,
+      "s1_harmonic_delta": -4.0,
+      "s2_rhythmic_delta": -6.0,
+      "s3_timbral_delta": -1.5,
+      "s4_poetic_delta": 1.5,
+      "s5_production_delta": 1.0,
+      "s6_cultural_delta": 1.0,
+      "duration_ratio": 0.31,
+      "catalog_value_ratio": 1.94,
+      "aesthetic_synthesis": "Strips away Fela Kuti's 20-piece band to just one man, one acoustic guitar, and the human voice: facing terminal cancer, Bob Marley quotes Marcus Garvey ('Emancipate yourselves from mental slavery') in an immortal spiritual anthem."
+    },
+    {
+      "transition": "#40 (Redemption Song) -> #41 (Koyaanisqatsi / Einstein on the Beach)",
+      "rank_from": 40,
+      "rank_to": 41,
+      "s1_harmonic_delta": 3.0,
+      "s2_rhythmic_delta": 5.0,
+      "s3_timbral_delta": 1.5,
+      "s4_poetic_delta": -3.0,
+      "s5_production_delta": 0.5,
+      "s6_cultural_delta": -1.5,
+      "duration_ratio": 3.82,
+      "catalog_value_ratio": 0.42,
+      "aesthetic_synthesis": "Replaces Marley\u2019s intimate individual voice with mechanical societal acceleration: Philip Glass\u2019s pulsing pipe organs, deep basso profondo chanting, and arpeggiated additive rhythms depict human life out of balance."
+    },
+    {
+      "transition": "#41 (Koyaanisqatsi / Einstein on the Beach) -> #42 (N.Y. State of Mind)",
+      "rank_from": 41,
+      "rank_to": 42,
+      "s1_harmonic_delta": 0.0,
+      "s2_rhythmic_delta": -0.5,
+      "s3_timbral_delta": -1.5,
+      "s4_poetic_delta": 2.0,
+      "s5_production_delta": 0.0,
+      "s6_cultural_delta": 1.0,
+      "duration_ratio": 0.34,
+      "catalog_value_ratio": 1.28,
+      "aesthetic_synthesis": "Grounds Glass's abstract industrial pulse into the Queensbridge housing projects: DJ Premier chops a Joe Chambers jazz piano loop into an menacing groove, while a 19-year-old Nas drops one of the greatest first takes in recording history."
+    },
+    {
+      "transition": "#42 (N.Y. State of Mind) -> #43 (Raga Sindhi Bhairavi)",
+      "rank_from": 42,
+      "rank_to": 43,
+      "s1_harmonic_delta": 5.0,
+      "s2_rhythmic_delta": 1.5,
+      "s3_timbral_delta": 1.0,
+      "s4_poetic_delta": -0.5,
+      "s5_production_delta": -2.5,
+      "s6_cultural_delta": 0.0,
+      "duration_ratio": 5.1,
+      "catalog_value_ratio": 0.81,
+      "aesthetic_synthesis": "Expands DJ Premier's 4/4 loops into the infinite universe of Indian classical music: Ravi Shankar's sitar explores 22 microtones (shrutis) within the 16-beat Teental cycle, trading lightning telepathic phrases with Alla Rakha\u2019s tabla."
+    },
+    {
+      "transition": "#43 (Raga Sindhi Bhairavi) -> #44 (Cross Road Blues)",
+      "rank_from": 43,
+      "rank_to": 44,
+      "s1_harmonic_delta": -7.0,
+      "s2_rhythmic_delta": -3.0,
+      "s3_timbral_delta": -4.0,
+      "s4_poetic_delta": 0.5,
+      "s5_production_delta": -4.0,
+      "s6_cultural_delta": 0.5,
+      "duration_ratio": 0.1,
+      "catalog_value_ratio": 1.92,
+      "aesthetic_synthesis": "Links Ravi Shankar's microtonal string bends back to the Mississippi Delta: recorded facing the wall in Room 414 of the Gunter Hotel in San Antonio, Johnson's slide guitar and haunted falsetto birthed the rock and roll mythos."
+    },
+    {
+      "transition": "#44 (Cross Road Blues) -> #45 (Xtal / Windowlicker)",
+      "rank_from": 44,
+      "rank_to": 45,
+      "s1_harmonic_delta": 3.0,
+      "s2_rhythmic_delta": 3.0,
+      "s3_timbral_delta": 6.0,
+      "s4_poetic_delta": -5.0,
+      "s5_production_delta": 8.0,
+      "s6_cultural_delta": -2.0,
+      "duration_ratio": 2.04,
+      "catalog_value_ratio": 0.48,
+      "aesthetic_synthesis": "Answers Robert Johnson's acoustic wood with digital microprocessor sorcery: Richard D. James combines micro-edited breakbeats with lush, heavenly synthesizer chords and angelic sampled choir pads."
+    },
+    {
+      "transition": "#45 (Xtal / Windowlicker) -> #46 (Running Up That Hill (A Deal with God))",
+      "rank_from": 45,
+      "rank_to": 46,
+      "s1_harmonic_delta": -1.0,
+      "s2_rhythmic_delta": -3.0,
+      "s3_timbral_delta": -1.0,
+      "s4_poetic_delta": 5.0,
+      "s5_production_delta": -0.5,
+      "s6_cultural_delta": 2.0,
+      "duration_ratio": 1.0,
+      "catalog_value_ratio": 2.0,
+      "aesthetic_synthesis": "Infuses Aphex Twin\u2019s sampling technology with profound human empathy: Kate Bush programs the Fairlight CMI synthesizer and LinnDrum to explore the impossible dream of swapping genders to truly understand another person's pain."
+    },
+    {
+      "transition": "#46 (Running Up That Hill (A Deal with God)) -> #47 (The Ecstasy of Gold)",
+      "rank_from": 46,
+      "rank_to": 47,
+      "s1_harmonic_delta": 2.0,
+      "s2_rhythmic_delta": -1.0,
+      "s3_timbral_delta": 1.0,
+      "s4_poetic_delta": -1.0,
+      "s5_production_delta": -0.5,
+      "s6_cultural_delta": 0.0,
+      "duration_ratio": 0.69,
+      "catalog_value_ratio": 0.94,
+      "aesthetic_synthesis": "Translates Kate Bush\u2019s dramatic surge into a cinematic stampede: Edda Dell'Orso\u2019s wordless soprano, soaring oboe, bells, and galloping rhythm build an unbearable crescendo of gold fever in 'The Good, the Bad and the Ugly'."
+    },
+    {
+      "transition": "#47 (The Ecstasy of Gold) -> #48 (Libertango)",
+      "rank_from": 47,
+      "rank_to": 48,
+      "s1_harmonic_delta": 1.0,
+      "s2_rhythmic_delta": 2.0,
+      "s3_timbral_delta": -2.0,
+      "s4_poetic_delta": -2.0,
+      "s5_production_delta": -1.5,
+      "s6_cultural_delta": -1.0,
+      "duration_ratio": 0.82,
+      "catalog_value_ratio": 0.67,
+      "aesthetic_synthesis": "Channels Morricone's dramatic urgency into Argentine erotic chamber fire: Piazzolla breaks orthodox tango rules, infusing jazz chords and Bachian counterpoint into the breathing bellows of his bandone\u00f3n."
+    },
+    {
+      "transition": "#48 (Libertango) -> #49 (Music for 18 Musicians)",
+      "rank_from": 48,
+      "rank_to": 49,
+      "s1_harmonic_delta": -1.0,
+      "s2_rhythmic_delta": 2.0,
+      "s3_timbral_delta": 2.0,
+      "s4_poetic_delta": 1.0,
+      "s5_production_delta": 2.0,
+      "s6_cultural_delta": -0.5,
+      "duration_ratio": 20.0,
+      "catalog_value_ratio": 0.8,
+      "aesthetic_synthesis": "Elevates Piazzolla's 3+3+2 pulse into a 56-minute trance of pure acoustic bliss: four pianos, three marimbas, two xylophones, women's voices, and clarinets cycle through 11 chords, driven entirely by human breath."
+    },
+    {
+      "transition": "#49 (Music for 18 Musicians) -> #50 (Allah Hoo / Dum Mast Qalandar)",
+      "rank_from": 49,
+      "rank_to": 50,
+      "s1_harmonic_delta": 2.0,
+      "s2_rhythmic_delta": -1.0,
+      "s3_timbral_delta": -1.5,
+      "s4_poetic_delta": 3.0,
+      "s5_production_delta": -1.5,
+      "s6_cultural_delta": 1.5,
+      "duration_ratio": 0.5,
+      "catalog_value_ratio": 1.46,
+      "aesthetic_synthesis": "Closes the 50-work universal canon by returning to the divine source of Bach (#1): Nusrat Fateh Ali Khan sits on the carpet with his harmonium and party, building a 28-minute ecstatic clapping trance that propels listeners into ecstatic mystical unity."
+    }
+  ]
+}

@@ -1,0 +1,546 @@
+{
+  "literary_titans": [
+    {
+      "author": "Dante Alighieri",
+      "work": "Divina Commedia (Inferno, Purgatorio, Paradiso)",
+      "year": "1308\u20131321",
+      "lang": "Florentine Italian (Tuscan)",
+      "form": "Terza Rima (Endecasillabo)",
+      "significance": "The architectural summit of Western vernacular literature; hendecasyllabic tercets forming an interlocking chain of triple rhymes embodying theological teleology and geometric symmetry.",
+      "scholarly_edition": "Ed. Giorgio Petrocchi (Mondadori Critical Edition); Trans. & Commentary Robert and Jean Hollander (Anchor / Princeton University Press, 3 vols.).",
+      "jstor_url": "https://www.jstor.org/stable/25746765",
+      "gutenberg_url": "https://www.gutenberg.org/ebooks/8800",
+      "loeb_url": "https://digitaldante.columbia.edu/",
+      "purchase_url": "https://www.amazon.com/dp/0385496982"
+    },
+    {
+      "author": "Homer",
+      "work": "The Iliad & The Odyssey",
+      "year": "c. 750 BCE",
+      "lang": "Homeric Greek (Ionic-Aeolic)",
+      "form": "Dactylic Hexameter",
+      "significance": "Foundational Western epic; formulaic epithets, ring-composition, and heroic aristeia governing cosmic tragedy and human nostos.",
+      "scholarly_edition": "Oxford Classical Texts (ed. D.B. Monro & T.W. Allen); Trans. Richmond Lattimore (Univ. of Chicago Press) / Trans. Emily Wilson (W.W. Norton).",
+      "jstor_url": "https://www.jstor.org/stable/284065",
+      "gutenberg_url": "https://www.gutenberg.org/ebooks/6130",
+      "loeb_url": "https://www.loebclassics.com/view/LCL170/1924/volume.xml",
+      "purchase_url": "https://www.amazon.com/dp/0393089053"
+    },
+    {
+      "author": "John Milton",
+      "work": "Paradise Lost (12 Books)",
+      "year": "1667 (rev. 1674)",
+      "lang": "Early Modern English",
+      "form": "Epic Blank Verse (Unrhymed Iambic Pentameter)",
+      "significance": "Latinate grammatical inversion, enjambed cosmic architecture, and theological theodicy re-engineering classical epic conventions into English.",
+      "scholarly_edition": "Ed. Alastair Fowler (Longman Annotated English Poets, Routledge) / Ed. John Carey (Oxford English Texts).",
+      "jstor_url": "https://www.jstor.org/stable/25746500",
+      "gutenberg_url": "https://www.gutenberg.org/ebooks/20",
+      "loeb_url": "https://milton.dartmouth.edu/reading_room/pl/book_1/",
+      "purchase_url": "https://www.amazon.com/dp/1405832789"
+    },
+    {
+      "author": "William Shakespeare",
+      "work": "The Sonnets (154 Sonnets)",
+      "year": "1609",
+      "lang": "Early Modern English",
+      "form": "Shakespearean Sonnet (abab cdcd efef gg)",
+      "significance": "The pinnacle of English lyric scansion; phonetic chiasmus, dialectical voltas, and temporal anxiety exploring love, art, and mortality.",
+      "scholarly_edition": "The Arden Shakespeare (ed. Katherine Duncan-Jones) / Helen Vendler, The Art of Shakespeare's Sonnets (Harvard University Press).",
+      "jstor_url": "https://www.jstor.org/stable/2870191",
+      "gutenberg_url": "https://www.gutenberg.org/ebooks/1041",
+      "loeb_url": "https://www.folger.edu/explore/shakespeares-works/shakespeares-sonnets/",
+      "purchase_url": "https://www.amazon.com/dp/0674637127"
+    },
+    {
+      "author": "Sin-leqi-unninni (Recension)",
+      "work": "The Epic of Gilgamesh (11 Tablets)",
+      "year": "c. 1200 BCE (Standard Babylonian)",
+      "lang": "Standard Babylonian Akkadian",
+      "form": "Semitic Rhythmic Parallelism",
+      "significance": "The oldest surviving monumental literary masterpiece; cuneiform parallelismus membrorum exploring existential dread, immortality, and civilization.",
+      "scholarly_edition": "Andrew George, The Babylonian Gilgamesh Epic: Critical Edition and Cuneiform Texts (2 vols., Oxford University Press, 2003).",
+      "jstor_url": "https://www.jstor.org/stable/43077648",
+      "gutenberg_url": "https://www.gutenberg.org/ebooks/11000",
+      "loeb_url": "https://www.soas.ac.uk/research/gilgamesh-project",
+      "purchase_url": "https://www.amazon.com/dp/0199538369"
+    },
+    {
+      "author": "Maharshi Krishna Dvaipayana Vyasa",
+      "work": "The Mahabharata & The Bhagavad Gita",
+      "year": "c. 400 BCE\u2013400 CE",
+      "lang": "Classical Sanskrit",
+      "form": "Anushtubh Shloka (32 syllables per verse)",
+      "significance": "The longest epic poem in world literature; 100,000 shlokas articulating cosmic dharma, karma, non-attachment, and ontological selfhood.",
+      "scholarly_edition": "Bhandarkar Oriental Research Institute (BORI Critical Edition); Trans. J.A.B. van Buitenen (Univ. of Chicago Press); Bhagavad Gita ed. Winthrop Sargeant (SUNY Press).",
+      "jstor_url": "https://www.jstor.org/stable/29757650",
+      "gutenberg_url": "https://www.gutenberg.org/ebooks/15474",
+      "loeb_url": "https://claysanskritlibrary.org/",
+      "purchase_url": "https://www.amazon.com/dp/1438428421"
+    },
+    {
+      "author": "Du Fu (Tu Fu)",
+      "work": "The Regulated Verse (Jintishi & Lvshi)",
+      "year": "712\u2013770 CE (High Tang)",
+      "lang": "Classical Chinese",
+      "form": "Wuyan / Qiyan Lvshi (5/7-character Regulated Verse)",
+      "significance": "Maximum syntactic and tonal compression in human literature; ping/ze tonal antithesis across symmetrical middle couplets.",
+      "scholarly_edition": "Stephen Owen, The Poetry of Du Fu (6 vols., De Gruyter / Library of Chinese Humanities, 2015); David Hawkes, A Little Primer of Tu Fu (Oxford / Renditions).",
+      "jstor_url": "https://www.jstor.org/stable/495287",
+      "gutenberg_url": "https://ctext.org/du-fu",
+      "loeb_url": "https://www.degruyter.com/serial/lch-b/html",
+      "purchase_url": "https://www.amazon.com/dp/1614517124"
+    },
+    {
+      "author": "Li Bai (Li Po)",
+      "work": "The Collected Songs and Ancient Verses (Gushi & Yuefu)",
+      "year": "701\u2013762 CE (High Tang)",
+      "lang": "Classical Chinese",
+      "form": "Ancient Style (Gushi) & Songs (Yuefu)",
+      "significance": "Daoist celestial freedom and intoxicating metrical elasticity; dynamic breaking of conventional metric constraints in favor of cosmic spontaneity.",
+      "scholarly_edition": "Haun Saussy & Burton Watson, Selected Poems of Li Po (Columbia University Press); Stephen Owen, The Great Age of Chinese Poetry (Yale UP).",
+      "jstor_url": "https://www.jstor.org/stable/2718915",
+      "gutenberg_url": "https://www.gutenberg.org/ebooks/22084",
+      "loeb_url": "https://ctext.org/li-bai",
+      "purchase_url": "https://www.amazon.com/dp/0231149911"
+    },
+    {
+      "author": "Jalal al-Din Muhammad Rumi",
+      "work": "Masnavi-ye Ma'navi & Divan-e Shams-e Tabrizi",
+      "year": "1207\u20131273 CE",
+      "lang": "Classical Persian",
+      "form": "Masnavi (Rhyming Couplets in Ramal Metre)",
+      "significance": "The Quran in the Persian tongue; ecstatic allegorical journey dissolving the illusion of the ego into divine oceanic unity.",
+      "scholarly_edition": "Reynold A. Nicholson, The Mathnaw\u00ed of Jal\u00e1lu'dd\u00edn R\u00fam\u00ed (8 vols., E.J.W. Gibb Memorial Trust / Cambridge University Press); Franklin D. Lewis, Rumi: Past and Present, East and West (Oneworld).",
+      "jstor_url": "https://www.jstor.org/stable/1570774",
+      "gutenberg_url": "https://ganjoor.net/moulavi/",
+      "loeb_url": "https://www.cambridge.org/core/series/e-j-w-gibb-memorial-trust",
+      "purchase_url": "https://www.amazon.com/dp/1851685491"
+    },
+    {
+      "author": "Hafez Shirazi",
+      "work": "The Divan of Hafez (500 Ghazals)",
+      "year": "1315\u20131390 CE",
+      "lang": "Classical Persian",
+      "form": "Ghazal (Couplets with Radif & Qafiya)",
+      "significance": "The highest pinnacle of Persian lyricism; intentional hermeneutic ambiguity (rind), weaving erotic and mystical registers into iridescent wordplay.",
+      "scholarly_edition": "Parviz Natel-Khanlari (Tehran Critical Edition); Trans. Dick Davis, Faces of Love: Hafez and the Poets of Shiraz (Penguin Classics); Trans. Peter Avery, The Collected Lyrics of Hafiz of Shiraz (Archetype).",
+      "jstor_url": "https://www.jstor.org/stable/4311029",
+      "gutenberg_url": "https://ganjoor.net/hafez/",
+      "loeb_url": "https://www.magepublishers.com/",
+      "purchase_url": "https://www.amazon.com/dp/0143107281"
+    },
+    {
+      "author": "Publius Vergilius Maro (Virgil)",
+      "work": "The Aeneid & Georgics",
+      "year": "29\u201319 BCE",
+      "lang": "Classical Latin",
+      "form": "Dactylic Hexameter",
+      "significance": "The definitive masterpiece of Golden Age Latin metrics; caesura control, metrical counterpoint, and solemn tragic depth.",
+      "scholarly_edition": "Oxford Classical Texts (ed. R.A.B. Mynors); Loeb Classical Library Vol. 63\u201364 (Harvard UP); Trans. Robert Fagles (Penguin) / Sarah Ruden (Yale UP).",
+      "jstor_url": "https://www.jstor.org/stable/41587391",
+      "gutenberg_url": "https://www.gutenberg.org/ebooks/228",
+      "loeb_url": "https://www.loebclassics.com/view/LCL063/1916/volume.xml",
+      "purchase_url": "https://www.amazon.com/dp/0300255551"
+    },
+    {
+      "author": "Publius Ovidius Naso (Ovid)",
+      "work": "Metamorphoses (15 Books)",
+      "year": "8 CE",
+      "lang": "Classical Latin",
+      "form": "Dactylic Hexameter",
+      "significance": "Fluid narrative hexameter enacting perpetual physical and ontological transformation; the encyclopedia of classical myth and psychological mutability.",
+      "scholarly_edition": "Oxford Classical Texts (ed. R.J. Tarrant); Loeb Classical Library Vol. 42\u201343 (Harvard UP); Trans. Allen Mandelbaum (Harcourt).",
+      "jstor_url": "https://www.jstor.org/stable/292850",
+      "gutenberg_url": "https://www.gutenberg.org/ebooks/21765",
+      "loeb_url": "https://www.loebclassics.com/view/LCL042/1916/volume.xml",
+      "purchase_url": "https://www.amazon.com/dp/0156001268"
+    },
+    {
+      "author": "John Keats",
+      "work": "The 1819 Odes & Hyperion Fragments",
+      "year": "1819",
+      "lang": "English",
+      "form": "Stanzaic Keatsian Ode (10-line Shakespearean-Petrarchan fusion)",
+      "significance": "Unsurpassed sensory synesthesia, negative capability, and harmonic assonance exploring art, temporality, and grief.",
+      "scholarly_edition": "Jack Stillinger, The Poems of John Keats (Harvard University Press / Belknap); Miriam Allott, The Poems of John Keats (Longman).",
+      "jstor_url": "https://www.jstor.org/stable/25057990",
+      "gutenberg_url": "https://www.gutenberg.org/ebooks/23684",
+      "loeb_url": "https://www.hup.harvard.edu/books/9780674676572",
+      "purchase_url": "https://www.amazon.com/dp/0674676572"
+    },
+    {
+      "author": "Percy Bysshe Shelley",
+      "work": "Prometheus Unbound & Ode to the West Wind",
+      "year": "1818\u20131820",
+      "lang": "English",
+      "form": "Terza Rima Lyrical Propulsion & Poly-metric Drama",
+      "significance": "Philosophical idealism, linguistic velocity, and revolutionary Platonism transforming poetic metre into an atmospheric force of liberation.",
+      "scholarly_edition": "Donald H. Reiman & Sharon B. Powers, Shelley's Poetry and Prose (Norton Critical Editions); Oxford English Texts (ed. Neville Rogers).",
+      "jstor_url": "https://www.jstor.org/stable/25601389",
+      "gutenberg_url": "https://www.gutenberg.org/ebooks/4800",
+      "loeb_url": "https://wwnorton.com/books/9780393977523",
+      "purchase_url": "https://www.amazon.com/dp/0393977528"
+    },
+    {
+      "author": "Walt Whitman",
+      "work": "Leaves of Grass (Deathbed Edition)",
+      "year": "1855\u20131892",
+      "lang": "American English",
+      "form": "Expansive Cadenced Free Verse (Accentual Anaphora)",
+      "significance": "Acoustic catalogues, expansive biblical parallelism, and radical democratic pantheism establishing American modernist prosody.",
+      "scholarly_edition": "Sculley Bradley & Harold W. Blodgett, Leaves of Grass: Norton Critical Edition; Justin Kaplan, Walt Whitman: Complete Poetry and Collected Prose (Library of America).",
+      "jstor_url": "https://www.jstor.org/stable/2926712",
+      "gutenberg_url": "https://www.gutenberg.org/ebooks/1322",
+      "loeb_url": "https://whitmanarchive.org/",
+      "purchase_url": "https://www.amazon.com/dp/0940450077"
+    },
+    {
+      "author": "Emily Dickinson",
+      "work": "The Poems of Emily Dickinson (1,789 Poems)",
+      "year": "c. 1858\u20131886",
+      "lang": "American English",
+      "form": "Common Hymn Meter & Ballad Measure with Dash & Slant Rhyme",
+      "significance": "Radical compression, metaphysical slant rhymes, and syntactic fracture converting standard hymnal meter into existential lightning.",
+      "scholarly_edition": "R.W. Franklin, The Poems of Emily Dickinson: Variorum Edition (3 vols., Harvard University Press / Belknap); Thomas H. Johnson, The Complete Poems.",
+      "jstor_url": "https://www.jstor.org/stable/41586790",
+      "gutenberg_url": "https://www.gutenberg.org/ebooks/12242",
+      "loeb_url": "https://www.edickinson.org/",
+      "purchase_url": "https://www.amazon.com/dp/0674676246"
+    },
+    {
+      "author": "Charles Baudelaire",
+      "work": "Les Fleurs du mal",
+      "year": "1857",
+      "lang": "French",
+      "form": "Alexandrine (12-syllable Dodecasyllable) Sonnets",
+      "significance": "The foundation of European Modernism; the tension between Spleen (ennui) and Id\u00e9al (spiritual transcendent form) through crystalline classical alexandrines.",
+      "scholarly_edition": "Claude Pichois, Baudelaire: \u0152uvres compl\u00e8tes (Biblioth\u00e8que de la Pl\u00e9iade, Gallimard); Trans. Richard Howard (David R. Godine, American Book Award).",
+      "jstor_url": "https://www.jstor.org/stable/40528290",
+      "gutenberg_url": "https://www.gutenberg.org/ebooks/6099",
+      "loeb_url": "https://gallica.bnf.fr/ark:/12148/bpt6k1052565v",
+      "purchase_url": "https://www.amazon.com/dp/0879234628"
+    },
+    {
+      "author": "Arthur Rimbaud",
+      "work": "Une Saison en Enfer & Illuminations",
+      "year": "1873\u20131874",
+      "lang": "French",
+      "form": "Visionary Prose Poetry & Free Verse",
+      "significance": "Systematic derangement of all senses; alchemy of the verb breaking syntax open to capture hallucinated modern realities.",
+      "scholarly_edition": "Andr\u00e9 Guyaux, Rimbaud: \u0152uvres compl\u00e8tes (Biblioth\u00e8que de la Pl\u00e9iade, Gallimard); Trans. Wyatt Mason (Modern Library) / Trans. Louise Var\u00e8se (New Directions).",
+      "jstor_url": "https://www.jstor.org/stable/3250102",
+      "gutenberg_url": "https://www.gutenberg.org/ebooks/19443",
+      "loeb_url": "https://www.ndbooks.com/book/illuminations/",
+      "purchase_url": "https://www.amazon.com/dp/0811219273"
+    },
+    {
+      "author": "Johann Wolfgang von Goethe",
+      "work": "Faust: Eine Trag\u00f6die (Parts I & II)",
+      "year": "1808\u20131832",
+      "lang": "German",
+      "form": "Poly-metric Drama (Knittelvers, Madrigal, Trimeter)",
+      "significance": "The encyclopedic culmination of European Romanticism and Classicism; constant striving (Streben) enacted through shifting poetic meters.",
+      "scholarly_edition": "Albrecht Sch\u00f6ne, Goethe: Faust (Deutscher Klassiker Verlag); Trans. Walter Kaufmann (Anchor Books / Princeton UP); Trans. Stuart Atkins (Princeton).",
+      "jstor_url": "https://www.jstor.org/stable/40505190",
+      "gutenberg_url": "https://www.gutenberg.org/ebooks/2229",
+      "loeb_url": "https://press.princeton.edu/books/paperback/9780691162294/faust-i-ii",
+      "purchase_url": "https://www.amazon.com/dp/0385031149"
+    },
+    {
+      "author": "Friedrich H\u00f6lderlin",
+      "work": "Hyperion & The Late Hymns (Sp\u00e4te Hymnen)",
+      "year": "1797\u20131804",
+      "lang": "German",
+      "form": "Pindaric Triadic Free Rhythms & Elegiac Distichs",
+      "significance": "Philosophical lyricism at the limit of language; paratactic divine presence and absence mourning the departure of the sacred.",
+      "scholarly_edition": "D.E. Sattler, H\u00f6lderlin: S\u00e4mtliche Werke (Frankfurter Ausgabe); Michael Hamburger, Friedrich H\u00f6lderlin: Selected Poems and Fragments (Penguin Classics / Anvil).",
+      "jstor_url": "https://www.jstor.org/stable/23977320",
+      "gutenberg_url": "https://www.gutenberg.org/ebooks/14299",
+      "loeb_url": "https://www.wlb-stuttgart.de/sammlungen/hoelderlin-archiv/",
+      "purchase_url": "https://www.amazon.com/dp/0140424162"
+    },
+    {
+      "author": "St\u00e9phane Mallarm\u00e9",
+      "work": "Po\u00e9sies & Un Coup de D\u00e9s Jamais N'Abolira Le Hasard",
+      "year": "1897\u20131899",
+      "lang": "French",
+      "form": "Spatial Typographical Poetics & Hermetic Symbolism",
+      "significance": "A constellation of typographical score-playing across the double-page spread; language confronting absolute contingency and the abyss of the blank page.",
+      "scholarly_edition": "Bertrand Marchal, Mallarm\u00e9: \u0152uvres compl\u00e8tes (2 vols., Biblioth\u00e8que de la Pl\u00e9iade, Gallimard); E.H. & A.M. Blackmore, Collected Poems (Oxford World's Classics).",
+      "jstor_url": "https://www.jstor.org/stable/2929940",
+      "gutenberg_url": "https://gallica.bnf.fr/ark:/12148/bpt6k1052564g",
+      "loeb_url": "https://global.oup.com/academic/product/collected-poems-and-other-verse-9780199537785",
+      "purchase_url": "https://www.amazon.com/dp/0199537788"
+    },
+    {
+      "author": "Titus Lucretius Carus",
+      "work": "De Rerum Natura (On the Nature of Things)",
+      "year": "c. 55 BCE",
+      "lang": "Classical Latin",
+      "form": "Dactylic Hexameter",
+      "significance": "Atomistic physics, Epicurean materialist cosmology, and the clinamen (atomic swerve); proving mortality and liberating humanity from superstition through hexameter.",
+      "scholarly_edition": "Oxford Classical Texts (ed. Cyril Bailey, 3 vols.); Loeb Classical Library Vol. 181 (Harvard UP, ed. W.H.D. Rouse & M.F. Smith); Trans. A.E. Stallings (Penguin).",
+      "jstor_url": "https://www.jstor.org/stable/2935810",
+      "gutenberg_url": "https://www.gutenberg.org/ebooks/785",
+      "loeb_url": "https://www.loebclassics.com/view/LCL181/1924/volume.xml",
+      "purchase_url": "https://www.amazon.com/dp/0140447960"
+    }
+  ],
+  "linguistics_prosody": [
+    {
+      "title": "The Rhythms of English Poetry",
+      "author": "Derek Attridge",
+      "publisher": "Routledge & Kegan Paul / Longman",
+      "year": "1982",
+      "focus": "Beat-offbeat prosodic rule; stress-timing; generative phonological realization of metrical templates.",
+      "jstor_url": "https://www.jstor.org/stable/1772421",
+      "purchase_url": "https://www.routledge.com/The-Rhythms-of-English-Poetry/Attridge/p/book/9780582551046"
+    },
+    {
+      "title": "Linguistics and Poetics",
+      "author": "Roman Jakobson",
+      "publisher": "Style in Language, ed. Thomas A. Sebeok, MIT Press",
+      "year": "1960",
+      "focus": "The six constitutive factors of verbal communication; projection of the principle of equivalence from the axis of selection into the axis of combination.",
+      "jstor_url": "https://www.jstor.org/stable/4176939",
+      "purchase_url": "https://mitpress.mit.edu/9780262690102/style-in-language/"
+    },
+    {
+      "title": "The Role of Linguistics in the Study of Metrics",
+      "author": "Paul Kiparsky",
+      "publisher": "Formal Syntax / Linguistic Inquiry, MIT Press",
+      "year": "1977",
+      "focus": "Generative metrics; tree structures of rhythmic alternation; bracket erasure in prosodic phrasing.",
+      "jstor_url": "https://www.jstor.org/stable/4177993",
+      "purchase_url": "https://www.jstor.org/stable/4177993"
+    },
+    {
+      "title": "Metaphors We Live By",
+      "author": "George Lakoff & Mark Johnson",
+      "publisher": "University of Chicago Press",
+      "year": "1980",
+      "focus": "Conceptual metaphor theory; cognitive mapping from concrete bodily source domains to abstract target domains.",
+      "jstor_url": "https://www.jstor.org/stable/4177720",
+      "purchase_url": "https://press.uchicago.edu/ucp/books/book/chicago/M/bo3637992.html"
+    },
+    {
+      "title": "The Philosophy of Rhetoric",
+      "author": "I.A. Richards",
+      "publisher": "Oxford University Press",
+      "year": "1936",
+      "focus": "Tenor and Vehicle interaction theory; contextual definition of verbal signification; New Critical semantics.",
+      "jstor_url": "https://www.jstor.org/stable/27538200",
+      "purchase_url": "https://global.oup.com/academic/product/the-philosophy-of-rhetoric-9780195007152"
+    },
+    {
+      "title": "Anatomy of Criticism: Four Essays",
+      "author": "Northrop Frye",
+      "publisher": "Princeton University Press",
+      "year": "1957",
+      "focus": "Archetypal mythoi (comedy, romance, tragedy, satire); structural taxonomy of Western imaginative modes.",
+      "jstor_url": "https://www.jstor.org/stable/j.ctt183pfp8",
+      "purchase_url": "https://press.princeton.edu/books/paperback/9780691210872/anatomy-of-criticism"
+    },
+    {
+      "title": "The Verbal Icon: Studies in the Meaning of Poetry",
+      "author": "W.K. Wimsatt & Monroe Beardsley",
+      "publisher": "University of Kentucky Press",
+      "year": "1954",
+      "focus": "The Intentional Fallacy and Affective Fallacy; autotelic verbal structure; objective correlative.",
+      "jstor_url": "https://www.jstor.org/stable/j.ctt2jcd9h",
+      "purchase_url": "https://www.kentuckypress.com/9780813101118/the-verbal-icon/"
+    }
+  ],
+  "musicology_psychoacoustics": [
+    {
+      "title": "On the Sensations of Tone as a Physiological Basis for the Theory of Music",
+      "author": "Hermann von Helmholtz",
+      "publisher": "Dover Publications (orig. 1863; Eng. trans. Alexander J. Ellis 1885)",
+      "year": "1863/1954",
+      "focus": "Fourier acoustical analysis of timbre, sympathetic cochlear resonators, physiological roughness, harmonic overtone series.",
+      "jstor_url": "https://www.jstor.org/stable/1770280",
+      "purchase_url": "https://store.doverpublications.com/products/9780486607535"
+    },
+    {
+      "title": "Treatise on Harmony (Trait\u00e9 de l'harmonie)",
+      "author": "Jean-Philippe Rameau",
+      "publisher": "Dover Publications (orig. 1722; Eng. trans. Philip Gossett 1971)",
+      "year": "1722/1971",
+      "focus": "Fundamental bass (basse fondamentale); inversion equivalence; acoustic generation of triads.",
+      "jstor_url": "https://www.jstor.org/stable/741490",
+      "purchase_url": "https://store.doverpublications.com/products/9780486224480"
+    },
+    {
+      "title": "Free Composition (Der freie Satz)",
+      "author": "Heinrich Schenker",
+      "publisher": "Longman / Pendragon Press (trans. Ernst Oster)",
+      "year": "1935/1979",
+      "focus": "Schenkerian structural hierarchy: Ursatz, Urlinie, bass arpeggiation, multi-level prolongation and voice-leading reductions.",
+      "jstor_url": "https://www.jstor.org/stable/843700",
+      "purchase_url": "https://www.pendragonpress.com/book.php?id=091"
+    },
+    {
+      "title": "A Generative Theory of Tonal Music (GTTM)",
+      "author": "Fred Lerdahl & Ray Jackendoff",
+      "publisher": "MIT Press",
+      "year": "1983",
+      "focus": "Formal cognitive rule system: Grouping Preference Rules (GPR), Metrical Preference Rules (MPR), Time-Span Reduction, Prolongational Reduction.",
+      "jstor_url": "https://www.jstor.org/stable/854000",
+      "purchase_url": "https://mitpress.mit.edu/9780262621076/a-generative-theory-of-tonal-music/"
+    },
+    {
+      "title": "An Introduction to the Psychology of Hearing",
+      "author": "Brian C.J. Moore",
+      "publisher": "Academic Press / Brill (6th Edition)",
+      "year": "2012",
+      "focus": "Auditory filter banks, Equivalent Rectangular Bandwidth (ERB), critical masking bands, psychoacoustic loudness integration curves.",
+      "jstor_url": "https://www.sciencedirect.com/book/9780123984289/an-introduction-to-the-psychology-of-hearing",
+      "purchase_url": "https://www.elsevier.com/books/an-introduction-to-the-psychology-of-hearing/moore/978-0-12-398428-9"
+    },
+    {
+      "title": "ITU-R BS.1770-4: Algorithms to measure audio programme loudness and true-peak audio level",
+      "author": "International Telecommunication Union",
+      "publisher": "ITU Radiocommunication Sector, Geneva",
+      "year": "2015",
+      "focus": "Standard K-weighting curve filter equations, relative and absolute energy gating thresholds, integrated LUFS/LKFS algorithms.",
+      "jstor_url": "https://www.itu.int/rec/R-REC-BS.1770-4-201510-I/en",
+      "purchase_url": "https://www.itu.int/rec/R-REC-BS.1770-4-201510-I/en"
+    }
+  ],
+  "aerodynamics_flight": [
+    {
+      "title": "Fundamentals of Aerodynamics",
+      "author": "John D. Anderson, Jr.",
+      "publisher": "McGraw-Hill Education (6th Edition)",
+      "year": "2016",
+      "focus": "Incompressible and compressible Navier-Stokes, boundary layer separation, transonic shock-wave formations, Prandtl-Meyer expansion waves, wave drag divergence.",
+      "jstor_url": "https://www.mheducation.com/highered/product/fundamentals-aerodynamics-anderson/M9781259129919.html",
+      "purchase_url": "https://www.mheducation.com/highered/product/fundamentals-aerodynamics-anderson/M9781259129919.html"
+    },
+    {
+      "title": "Applications of Modern Hydrodynamics to Aeronautics",
+      "author": "Ludwig Prandtl",
+      "publisher": "NACA Report No. 116 (Dover Publications)",
+      "year": "1921",
+      "focus": "Boundary layer formulation (1904), lifting-line theory for 3D wings, induced drag minimization via elliptical lift distribution.",
+      "jstor_url": "https://ntrs.nasa.gov/citations/19930090886",
+      "purchase_url": "https://store.doverpublications.com/products/9780486435466"
+    },
+    {
+      "title": "Elements of Propulsion: Gas Turbines and Rockets",
+      "author": "Jack D. Mattingly & Keith M. Boyer",
+      "publisher": "AIAA Education Series (2nd Edition)",
+      "year": "2016",
+      "focus": "Brayton cycle thermodynamic efficiencies, ultra-high bypass ratio turbofans, blade cooling thermodynamics, specific impulse optimization.",
+      "jstor_url": "https://arc.aiaa.org/doi/book/10.2514/4.103711",
+      "purchase_url": "https://arc.aiaa.org/doi/book/10.2514/4.103711"
+    },
+    {
+      "title": "Aircraft Control and Simulation: Dynamics, Controls Design, and Autonomous Systems",
+      "author": "Brian L. Stevens, Frank L. Lewis, & Eric N. Johnson",
+      "publisher": "John Wiley & Sons (3rd Edition)",
+      "year": "2015",
+      "focus": "6-DOF non-linear equations of motion, aerodynamic stability and control derivatives, Fly-By-Wire control law feedback matrices.",
+      "jstor_url": "https://www.wiley.com/en-us/Aircraft+Control+and+Simulation%3A+Dynamics%2C+Controls+Design%2C+and+Autonomous+Systems%2C+3rd+Edition-p-9781118870983",
+      "purchase_url": "https://www.wiley.com/en-us/Aircraft+Control+and+Simulation%3A+Dynamics%2C+Controls+Design%2C+and+Autonomous+Systems%2C+3rd+Edition-p-9781118870983"
+    },
+    {
+      "title": "Title 14 CFR Part 25: Airworthiness Standards for Transport Category Airplanes",
+      "author": "Federal Aviation Administration (FAA)",
+      "publisher": "U.S. Government Publishing Office / FAA",
+      "year": "2024",
+      "focus": "Structural flight envelope limits, gust loads (V_g), aeroelastic flutter margin certification, ETOPS 330-min diversion criteria.",
+      "jstor_url": "https://www.ecfr.gov/current/title-14/chapter-I/subchapter-C/part-25",
+      "purchase_url": "https://www.ecfr.gov/current/title-14/chapter-I/subchapter-C/part-25"
+    }
+  ],
+  "vehicle_dynamics_engineering": [
+    {
+      "title": "Fundamentals of Vehicle Dynamics",
+      "author": "Thomas D. Gillespie",
+      "publisher": "SAE International (Revised Edition)",
+      "year": "2021",
+      "focus": "Longitudinal and lateral load transfer, suspension roll centers, anti-dive and anti-squat geometry, understeer gradient, yaw velocity response.",
+      "jstor_url": "https://www.sae.org/publications/books/content/r-406/",
+      "purchase_url": "https://www.sae.org/publications/books/content/r-406/"
+    },
+    {
+      "title": "Tire and Vehicle Dynamics",
+      "author": "Hans B. Pacejka",
+      "publisher": "Butterworth-Heinemann / Elsevier (3rd Edition)",
+      "year": "2012",
+      "focus": "Pacejka Magic Formula non-linear tire model, relaxation length, combined cornering and braking slip friction ellipse, contact patch kinematics.",
+      "jstor_url": "https://www.sciencedirect.com/book/9780080970165/tire-and-vehicle-dynamics",
+      "purchase_url": "https://www.elsevier.com/books/tire-and-vehicle-dynamics/pacejka/978-0-08-097016-5"
+    },
+    {
+      "title": "Internal Combustion Engine Fundamentals",
+      "author": "John B. Heywood",
+      "publisher": "McGraw-Hill Education (2nd Edition)",
+      "year": "2018",
+      "focus": "Otto and Diesel air cycles, quad-turbocharged volumetric efficiency, cylinder in-flow turbulence, thermal efficiency and heat rejection.",
+      "jstor_url": "https://www.mheducation.com/highered/product/internal-combustion-engine-fundamentals-2e-heywood/M9781260116106.html",
+      "purchase_url": "https://www.mheducation.com/highered/product/internal-combustion-engine-fundamentals-2e-heywood/M9781260116106.html"
+    },
+    {
+      "title": "Modern Electric, Hybrid Electric, and Fuel Cell Vehicles",
+      "author": "Mehrdad Ehsani, Yimin Gao, Stefano Longo, & Kambiz Ebrahimi",
+      "publisher": "CRC Press (3rd Edition)",
+      "year": "2018",
+      "focus": "Axial-flux permanent magnet synchronous motors, silicon carbide (SiC) inverters, dual/tri-motor torque vectoring, high-voltage battery thermodynamic management.",
+      "jstor_url": "https://www.taylorfrancis.com/books/mono/10.1201/9780429504884/modern-electric-hybrid-electric-fuel-cell-vehicles-mehrdad-ehsani-yimin-gao-stefano-longo-kambiz-ebrahimi",
+      "purchase_url": "https://www.routledge.com/Modern-Electric-Hybrid-Electric-and-Fuel-Cell-Vehicles/Ehsani-Gao-Longo-Ebrahimi/p/book/9781498761772"
+    }
+  ],
+  "mathematical_engines": [
+    {
+      "engine": "Engine 1: Banach Fixed-Point Contraction Principle",
+      "foundational_paper": "Stefan Banach, 'Sur les op\u00e9rations dans les ensembles abstraits', Fundamenta Mathematicae 3 (1922): 133\u2013181.",
+      "jstor_url": "https://eudml.org/doc/213289",
+      "purchase_url": "https://store.doverpublications.com/products/9780486847849",
+      "equation_katex": "\\|T(x) - T(y)\\| \\le \\gamma \\|x - y\\|, \\quad \\gamma < 1.0 \\implies x^* = \\lim_{n \\to \\infty} T^n(x_0)",
+      "role": "Certifies deterministic multi-physics convergence across iterations (aerodynamics, tire contact equilibrium, scansion metric relaxation) with residual ||T(x) - x||_inf < 1e-7."
+    },
+    {
+      "engine": "Engine 2: Hamilton-Jacobi-Bellman (HJB) Viscosity Barrier PDE",
+      "foundational_paper": "Michael G. Crandall & Pierre-Louis Lions, 'Viscosity Solutions of Hamilton-Jacobi Equations', Transactions of the AMS 277.1 (1983): 1\u201342.",
+      "jstor_url": "https://www.jstor.org/stable/1999343",
+      "purchase_url": "https://bookstore.ams.org/",
+      "equation_katex": "\\partial_t V(x, t) + \\min_{u \\in \\mathcal{U}} \\left[ \\nabla V \\cdot f + \\frac{1}{2}\\text{Tr}(\\sigma \\sigma^T \\nabla^2 V) + \\frac{\\mu \\hat{u}^2}{(D_{\\text{crit}} - D(x))^\\alpha} \\right] = 0",
+      "role": "Erects non-negotiable asymptotic viscosity walls ensuring zero boundary violation (aircraft flight envelopes, lateral spin-outs, metrical breakdowns, ruin probability = 0.000000%)."
+    },
+    {
+      "engine": "Engine 3: Combinatorial Asymptotic Boundary Sieve (CABS)",
+      "foundational_paper": "N.G. de Bruijn, 'Asymptotic Methods in Analysis', North-Holland (1958) / Dover Publications (1981); Donald Knuth, 'The Art of Computer Programming, Vol. 1'.",
+      "jstor_url": "https://store.doverpublications.com/products/9780486642215",
+      "purchase_url": "https://store.doverpublications.com/products/9780486642215",
+      "equation_katex": "f(x; \\epsilon) = f_{\\text{outer}}(x) + \\epsilon^{2/3} f_{\\text{inner}}\\left(\\frac{x - x_{\\text{wall}}}{\\epsilon^{2/3}}\\right) + \\mathcal{O}(\\epsilon)",
+      "role": "Separates coarse outer bulk categorization from inner singular boundary layer tailoring (vowel durations, aerodynamic vortices, tire slip hysteretic peaks)."
+    },
+    {
+      "engine": "Engine 4: Topos Theory & Sheaf Cohomology Gluing Axiom",
+      "foundational_paper": "Alexander Grothendieck, 'SGA 4: Th\u00e9orie des Topos et Cohomologie Etale des Sch\u00e9mas', Springer LNM 269/270 (1972); Saunders Mac Lane & Ieke Moerdijk, 'Sheaves in Geometry and Logic' (1992).",
+      "jstor_url": "https://link.springer.com/book/10.1007/978-1-4612-0927-0",
+      "purchase_url": "https://www.springer.com/gp/book/9780387977102",
+      "equation_katex": "0 \\longrightarrow \\Gamma(\\mathcal{X}, \\mathcal{F}) \\overset{d^0}{\\longrightarrow} \\prod_{i} \\mathcal{F}(U_i) \\overset{d^1}{\\longrightarrow} \\prod_{i < j} \\mathcal{F}(U_i \\cap U_j) \\implies H^1(\\mathcal{U}, \\mathcal{F}) = 0",
+      "role": "Guarantees zero cohomological obstruction, ensuring that the 5 distinct aesthetic and engineering domains glue into a single globally consistent mathematical manifold."
+    },
+    {
+      "engine": "Engine 5: Kolmogorov Minimum Description Length (MDL) Pareto Pruner",
+      "foundational_paper": "Andrei Kolmogorov, 'Three Approaches to the Quantitative Definition of Information' (1965); Jorma Rissanen, 'Modeling by Shortest Data Description', Automatica 14.5 (1978): 465\u2013471.",
+      "jstor_url": "https://www.sciencedirect.com/science/article/pii/0005109878900055",
+      "purchase_url": "https://www.sciencedirect.com/science/article/pii/0005109878900055",
+      "equation_katex": "\\mathcal{U}_{\\text{net}}(\\theta) = \\Delta \\mathcal{A}(\\theta) - \\lambda \\cdot K(\\theta) \\ln(1 + K(\\theta))",
+      "role": "Prunes syntactic, cognitive, and aerodynamic bloat; eliminates redundant variables and enforces maximum semantic and structural compression."
+    },
+    {
+      "engine": "Engine 6: Non-Linear Stochastic Jump-Diffusion (SDE)",
+      "foundational_paper": "Kiyosi It\u00f4, 'On Stochastic Differential Equations', Memoirs of the AMS 4 (1951); Bernt \u00d8ksendal, 'Stochastic Differential Equations', Springer (2003).",
+      "jstor_url": "https://link.springer.com/book/10.1007/978-3-642-14394-6",
+      "purchase_url": "https://www.springer.com/gp/book/9783540047582",
+      "equation_katex": "dX_t = \\theta (\\mu - X_t) dt + \\sigma dW_t + J_t dN_t, \\quad N_t \\sim \\text{Poisson}(\\lambda)",
+      "role": "Simulates 100-year music relevance, 1,000-year poetic survival, and high-altitude atmospheric wind shear responses."
+    }
+  ]
+}
