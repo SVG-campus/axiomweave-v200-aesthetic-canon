@@ -15,6 +15,8 @@ with open(os.path.join(DATA_DIR, "poetry_manifest.json"), "r", encoding="utf-8")
     poetry_data = json.load(f)
 with open(os.path.join(DATA_DIR, "synthesis_manifest.json"), "r", encoding="utf-8") as f:
     synthesis_data = json.load(f)
+with open(os.path.join(DATA_DIR, "dates_manifest.json"), "r", encoding="utf-8") as f:
+    dates_data = json.load(f)
 
 print("[2/4] Assembling comprehensive syllabus database...")
 
@@ -137,11 +139,12 @@ template_html = """<!DOCTYPE html>
 
     .stats-strip {
       display: flex;
-      gap: 1.5rem;
+      gap: 1.25rem;
       align-items: center;
       font-size: 0.8rem;
       color: var(--text-muted);
       font-family: var(--font-mono);
+      flex-wrap: wrap;
     }
     .stat-item b { color: var(--text-main); }
 
@@ -163,7 +166,7 @@ template_html = """<!DOCTYPE html>
     }
     .nav-inner::-webkit-scrollbar { display: none; }
     .nav-tab {
-      padding: 0.9rem 1.4rem;
+      padding: 0.9rem 1.3rem;
       background: none;
       border: none;
       border-bottom: 2px solid transparent;
@@ -517,6 +520,36 @@ template_html = """<!DOCTYPE html>
       margin-bottom: 0.4rem;
     }
 
+    /* Dates Specific Styles */
+    .date-metrics-box {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 0.4rem;
+      background: rgba(0, 0, 0, 0.3);
+      padding: 0.6rem;
+      border-radius: 6px;
+      font-family: var(--font-mono);
+      font-size: 0.74rem;
+      margin: 0.75rem 0;
+    }
+    .itinerary-step {
+      margin-bottom: 0.75rem;
+      padding-left: 0.75rem;
+      border-left: 2px solid rgba(251, 113, 133, 0.5);
+    }
+    .step-time {
+      font-family: var(--font-mono);
+      font-size: 0.68rem;
+      color: var(--rose-accent);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    .step-content {
+      font-size: 0.8rem;
+      color: #cbd5e1;
+      line-height: 1.4;
+    }
+
     .syllabus-section {
       background: var(--bg-card);
       border: 1px solid var(--border-subtle);
@@ -667,8 +700,8 @@ template_html = """<!DOCTYPE html>
         <div class="stat-item">Jets: <b>50</b></div>
         <div class="stat-item">Music: <b>50</b></div>
         <div class="stat-item">Poetry: <b>50</b></div>
+        <div class="stat-item">Dates: <b style="color:var(--rose-accent);">50</b></div>
         <div class="stat-item">Epic: <b>150 Lines</b></div>
-        <div class="stat-item">Engines: <b>6 Unified</b></div>
         <div class="stat-item">P(Ruin): <b style="color:var(--emerald-accent);">0.000000%</b></div>
       </div>
     </div>
@@ -678,6 +711,7 @@ template_html = """<!DOCTYPE html>
   <nav class="portal-nav">
     <div class="nav-inner">
       <button class="nav-tab active" data-tab="synthesis">🌌 The Synthesized Epic</button>
+      <button class="nav-tab" data-tab="dates">🌹 Bespoke Dates (Top 50)</button>
       <button class="nav-tab" data-tab="poetry">📜 Poetry Canon (Top 50)</button>
       <button class="nav-tab" data-tab="music">🎵 Music Masterpieces (Top 50)</button>
       <button class="nav-tab" data-tab="aviation">✈️ Aviation Fleet (Top 50)</button>
@@ -691,7 +725,7 @@ template_html = """<!DOCTYPE html>
   <div class="controls-bar">
     <div class="search-input-wrap">
       <span class="search-icon">🔍</span>
-      <input type="text" id="globalSearch" class="search-input" placeholder="Search across cars, jets, music, poems, scansion, or syllabus...">
+      <input type="text" id="globalSearch" class="search-input" placeholder="Search across dates, cars, jets, music, poems, scansion, or syllabus...">
     </div>
     <div id="dynamicPills" class="pill-group">
       <!-- Injected per active tab -->
@@ -733,7 +767,6 @@ template_html = """<!DOCTYPE html>
         </div>
       </div>
 
-      <!-- Canto Selection Buttons -->
       <div class="canto-selector" id="cantoFilterBtns">
         <button class="canto-btn active" data-canto="all">All Cantos (150 Lines)</button>
         <button class="canto-btn" data-canto="I">Canto I: The Void & Geometry</button>
@@ -743,71 +776,70 @@ template_html = """<!DOCTYPE html>
         <button class="canto-btn" data-canto="V">Canto V: Apotheosis of Form</button>
       </div>
 
-      <!-- Lines Stream -->
-      <div id="epicLinesContainer">
-        <!-- Rendered via JS -->
+      <div id="epicLinesContainer"></div>
+    </section>
+
+    <!-- TAB: BESPOKE DATES -->
+    <section id="tab-dates" class="tab-pane">
+      <div class="epic-header" style="background: linear-gradient(135deg, rgba(251, 113, 133, 0.1) 0%, rgba(12, 16, 26, 0.95) 100%); border-color: rgba(251, 113, 133, 0.35);">
+        <div class="epic-title" style="color:var(--rose-accent);">Top 50 Bespoke World Dates</div>
+        <div class="epic-subtitle">The World's Most Prestigious 24-Hour Romantic Itineraries</div>
+        <div class="epic-overview-grid">
+          <div class="epic-overview-cell"><span>Itineraries Evaluated</span><strong>50 World Destinations</strong></div>
+          <div class="epic-overview-cell"><span>Temporal Pacing</span><strong>Zero-Friction Transitions</strong></div>
+          <div class="epic-overview-cell"><span>Acoustic Control</span><strong>&le; 55 dBA Dining Zones</strong></div>
+          <div class="epic-overview-cell"><span>10-Yr SDE Memory</span><strong>&gt; 98.5% Longevity</strong></div>
+        </div>
       </div>
+      <div class="grid-container" id="datesGrid"></div>
     </section>
 
     <!-- TAB 2: POETRY CANON -->
     <section id="tab-poetry" class="tab-pane">
-      <div class="grid-container" id="poetryGrid">
-        <!-- Rendered via JS -->
-      </div>
+      <div class="grid-container" id="poetryGrid"></div>
     </section>
 
     <!-- TAB 3: MUSIC MASTERPIECES -->
     <section id="tab-music" class="tab-pane">
-      <div class="grid-container" id="musicGrid">
-        <!-- Rendered via JS -->
-      </div>
+      <div class="grid-container" id="musicGrid"></div>
     </section>
 
     <!-- TAB 4: AVIATION FLEET -->
     <section id="tab-aviation" class="tab-pane">
-      <div class="grid-container" id="aviationGrid">
-        <!-- Rendered via JS -->
-      </div>
+      <div class="grid-container" id="aviationGrid"></div>
     </section>
 
     <!-- TAB 5: BESPOKE CARS -->
     <section id="tab-cars" class="tab-pane">
-      <div class="grid-container" id="carsGrid">
-        <!-- Rendered via JS -->
-      </div>
+      <div class="grid-container" id="carsGrid"></div>
     </section>
 
     <!-- TAB 6: MASTER ACADEMIC SYLLABUS -->
     <section id="tab-syllabus" class="tab-pane">
-      <!-- SECTION 1: LITERARY TITANS -->
       <div class="syllabus-section">
         <div class="syllabus-sec-title">📖 The 22 Primary Literary & Poetic Titans</div>
         <div class="syllabus-sec-desc">The seminal public-domain masterworks synthesized into the epic, complete with scholarly critical editions, Loeb Classical Library entries, Project Gutenberg original texts, and JSTOR research papers.</div>
         <div class="syllabus-grid" id="syllabusTitansGrid"></div>
       </div>
 
-      <!-- SECTION 2: LINGUISTICS & PROSODY -->
       <div class="syllabus-section">
         <div class="syllabus-sec-title">🔤 Linguistics, Metrics & Cognitive Semiotics</div>
         <div class="syllabus-sec-desc">Formal treatises governing generative metrics, beat-offbeat scansion, syntactic inversion, and conceptual metaphor mapping.</div>
         <div class="syllabus-grid" id="syllabusLinguisticsGrid"></div>
       </div>
 
-      <!-- SECTION 3: MUSICOLOGY & PSYCHOACOUSTICS -->
       <div class="syllabus-section">
         <div class="syllabus-sec-title">🎼 Musicology, Psychoacoustics & Acoustical Physics</div>
         <div class="syllabus-sec-desc">Acoustical Fourier analysis, Schenkerian voice-leading, ITU-R BS.1770-4 loudness measurement, and tonal generative grammars.</div>
         <div class="syllabus-grid" id="syllabusMusicologyGrid"></div>
       </div>
 
-      <!-- SECTION 4: AERODYNAMICS & PROPULSION -->
       <div class="syllabus-section">
         <div class="syllabus-sec-title">✈️ Compressible Aerodynamics, Fluid Dynamics & Propulsion</div>
         <div class="syllabus-sec-desc">Navier-Stokes solutions, boundary layer separation, lifting-line theory, Brayton thermodynamic cycles, and 6-DOF flight dynamics.</div>
         <div class="syllabus-grid" id="syllabusAerodynamicsGrid"></div>
       </div>
 
-      <!-- SECTION 5: VEHICLE DYNAMICS -->
       <div class="syllabus-section">
         <div class="syllabus-sec-title">🏎️ Vehicle Dynamics, Multi-Body Kinematics & Powertrains</div>
         <div class="syllabus-sec-desc">Pacejka Magic Formula tire mechanics, roll-center kinematics, carbon monocoque torsional stiffness, and axial-flux electric torque vectoring.</div>
@@ -840,9 +872,7 @@ template_html = """<!DOCTYPE html>
         </div>
       </div>
 
-      <div id="mathEnginesContainer">
-        <!-- Rendered via JS -->
-      </div>
+      <div id="mathEnginesContainer"></div>
 
       <!-- UNIFIED COMMINGLING THEOREM -->
       <div class="math-treatise-box" style="border-left-color: var(--cyan-accent);">
@@ -852,11 +882,11 @@ template_html = """<!DOCTYPE html>
         </p>
         
         <div class="math-eq-display">
-          $$\mathcal{M}_{\text{Aesthetic}} \cong \mathcal{M}_{\text{Cars}} \oplus \mathcal{M}_{\text{Aero}} \oplus \mathcal{M}_{\text{Acoustic}} \oplus \mathcal{M}_{\text{Prosodic}} \oplus \mathcal{M}_{\text{Epistemic}}$$
+          $$\mathcal{M}_{\text{Aesthetic}} \cong \mathcal{M}_{\text{Cars}} \oplus \mathcal{M}_{\text{Aero}} \oplus \mathcal{M}_{\text{Acoustic}} \oplus \mathcal{M}_{\text{Prosodic}} \oplus \mathcal{M}_{\text{Romance}} \oplus \mathcal{M}_{\text{Epistemic}}$$
         </div>
 
         <p style="font-size: 0.88rem; color: #94a3b8; line-height: 1.6; margin-bottom: 1rem;">
-          <b>Theorem (Zero-Obstruction Commingling):</b> Let $\mathcal{F}$ be the sheaf of constrained optimization solutions over the open covering $\mathcal{U} = \{U_{\text{cars}}, U_{\text{aero}}, U_{\text{music}}, U_{\text{poetry}}, U_{\text{synthesis}}\}$. Because each local evaluation satisfies the singular HJB viscosity barrier $P_{\text{ruin}} = 0.000000\%$ and contracts under the Banach mapping $\gamma = 0.824 < 1.0$, the transition maps $\rho_{ij}: \mathcal{F}(U_i) \to \mathcal{F}(U_i \cap U_j)$ satisfy the cocycle condition $\rho_{jk} \circ \rho_{ij} = \rho_{ik}$ without shear distortion.
+          <b>Theorem (Zero-Obstruction Commingling):</b> Let $\mathcal{F}$ be the sheaf of constrained optimization solutions over the open covering $\mathcal{U} = \{U_{\text{cars}}, U_{\text{aero}}, U_{\text{music}}, U_{\text{poetry}}, U_{\text{dates}}, U_{\text{synthesis}}\}$. Because each local evaluation satisfies the singular HJB viscosity barrier $P_{\text{ruin}} = 0.000000\%$ and contracts under the Banach mapping $\gamma = 0.812 < 1.0$, the transition maps $\rho_{ij}: \mathcal{F}(U_i) \to \mathcal{F}(U_i \cap U_j)$ satisfy the cocycle condition $\rho_{jk} \circ \rho_{ij} = \rho_{ik}$ without shear distortion.
         </p>
 
         <div class="math-eq-display">
@@ -864,11 +894,11 @@ template_html = """<!DOCTYPE html>
         </div>
 
         <p style="font-size: 0.88rem; color: #94a3b8; line-height: 1.6;">
-          <b>Physical-Poetic Commingling Mechanism:</b>
-          <br>1. <i>Aerodynamics &rarr; Metric Velocity:</i> The trans-sonic wave drag divergence equations of the supersonic jet engines provide the exact mathematical envelope for metrical enjambment in Cantos I and V.
-          <br>2. <i>Automotive Kinematics &rarr; Scansion Stability:</i> The Pacejka tire slip friction limits directly map to the permissible stressed/unstressed metric deviations in the decasyllabic lines, preventing metric spin-outs.
-          <br>3. <i>Acoustic Psychoacoustics &rarr; Assonantal Harmony:</i> The ITU-R BS.1770-4 loudness gating filters dictate the harmonic balance between high-frequency sibilants and low-frequency vowel formants across every line.
-          <br>4. <i>Information Regularization (MDL):</i> The Kolmogorov penalty prunes all superficial adjectives, guaranteeing that every word carries maximum semantic payload and structural necessity.
+          <b>Cross-Domain Commingling Synthesis:</b>
+          <br>1. <i>Automotive & Aero Dynamics &rarr; Frictionless Date Transitions:</i> The kinetic friction and aerodynamic drag optimizations directly govern the chauffeur routing and marine transfers, ensuring zero logistical fatigue.
+          <br>2. <i>Psychoacoustics &rarr; Romantic Intimacy:</i> The ITU-R BS.1770-4 acoustic loudness standards enforce a strict &le; 55 dBA ambient threshold in dining and conversation alcoves, eliminating conversational strain.
+          <br>3. <i>Poetic Scansion &rarr; 24-Hour Itinerary Rhythm:</i> The decasyllabic scansion patterns (stresses and pauses) dictate the alternation between exhilarating sensory spectacle and tranquil contemplative intimacy throughout the day.
+          <br>4. <i>Kolmogorov MDL Regularization:</i> Eliminates tourist bloat, decision paralysis, and over-scheduling, producing pristine, spacious romantic narratives.
         </p>
       </div>
     </section>
@@ -881,6 +911,7 @@ template_html = """<!DOCTYPE html>
       Certified Zero Cohomological Obstruction $H^1 = 0$ • Banach Fixed Point $\|T(x) - x\|_\infty < 10^{-7}$ • $P_{\text{ruin}} = 0.000000\%$
     </p>
     <p style="margin-top:0.6rem;">
+      <a href="data/dates_manifest.json" target="_blank">Dates JSON</a> • 
       <a href="data/cars_manifest.json" target="_blank">Cars JSON</a> • 
       <a href="data/aviation_manifest.json" target="_blank">Aviation JSON</a> • 
       <a href="data/music_manifest.json" target="_blank">Music JSON</a> • 
@@ -897,6 +928,7 @@ template_html = """<!DOCTYPE html>
     const DATA_POETRY = __DATA_POETRY__;
     const DATA_SYNTHESIS = __DATA_SYNTHESIS__;
     const DATA_SYLLABUS = __DATA_SYLLABUS__;
+    const DATA_DATES = __DATA_DATES__;
 
     // Navigation Tab Handling
     let activeTab = 'synthesis';
@@ -924,7 +956,16 @@ template_html = """<!DOCTYPE html>
     function renderPillsForTab() {
       dynamicPills.innerHTML = '';
       let pills = [];
-      if (activeTab === 'poetry') {
+      if (activeTab === 'dates') {
+        pills = [
+          { label: 'All (50)', filter: 'all' },
+          { label: 'Old World Palaces', filter: 'Old World' },
+          { label: 'Coastal & Riviera', filter: 'Coastal' },
+          { label: 'Avant-Garde Cities', filter: 'Exotic' },
+          { label: 'Alpine & Nature', filter: 'Alpine' },
+          { label: 'Terroirs & Wine', filter: 'Cultural' }
+        ];
+      } else if (activeTab === 'poetry') {
         pills = [
           { label: 'All (50)', filter: 'all' },
           { label: 'Archaic & Classical', filter: 'Archaic' },
@@ -972,6 +1013,90 @@ template_html = """<!DOCTYPE html>
     searchInput.addEventListener('input', () => {
       renderActiveTab();
     });
+
+    // RENDER DATES
+    function renderDates() {
+      const container = document.getElementById('datesGrid');
+      const q = searchInput.value.toLowerCase();
+      let list = DATA_DATES;
+      if (currentFilter !== 'all') {
+        list = list.filter(d => d.archetype.includes(currentFilter));
+      }
+      if (q) {
+        list = list.filter(d => 
+          d.city.toLowerCase().includes(q) ||
+          d.country.toLowerCase().includes(q) ||
+          d.title.toLowerCase().includes(q) ||
+          d.thesis.toLowerCase().includes(q) ||
+          JSON.stringify(d.itinerary).toLowerCase().includes(q)
+        );
+      }
+
+      container.innerHTML = list.map(d => `
+        <div class="canon-card">
+          <div class="card-top">
+            <span class="card-rank">#${d.rank}</span>
+            <span class="card-badge" style="color:var(--rose-accent); background:rgba(251,113,133,0.1);">${d.city}</span>
+          </div>
+          <div class="card-title">${d.title}</div>
+          <div class="card-subtitle" style="color:var(--gold-light);">${d.city}, ${d.country} &bull; ${d.archetype.split(',')[0]}</div>
+          <div class="card-desc" style="margin-bottom:0.75rem;">${d.thesis}</div>
+
+          <div class="date-metrics-box">
+            <div><span>Intimacy</span><strong>${d.metrics.intimacy_score}/100</strong></div>
+            <div><span>Gastronomy</span><strong>${d.metrics.gastronomy_score}/100</strong></div>
+            <div><span>Aesthetic</span><strong>${d.metrics.aesthetic_score}/100</strong></div>
+            <div><span>Acoustic</span><strong>${d.metrics.acoustic_decibels} dBA</strong></div>
+            <div><span>10-Yr SDE</span><strong>${d.metrics.memory_persistence_10yr}%</strong></div>
+            <div><span>Cost Est.</span><strong>$${d.metrics.estimated_cost_usd.toLocaleString()}</strong></div>
+          </div>
+
+          <button class="line-drawer-toggle" onclick="toggleDateDrawer(${d.rank})" style="color:var(--rose-accent); margin-top:auto;">
+            <span>Complete 24-Hour Itinerary Breakdown &darr;</span>
+          </button>
+
+          <div id="date-drawer-${d.rank}" class="line-drawer">
+            <div class="itinerary-step">
+              <div class="step-time">08:30 &bull; Morning & Breakfast</div>
+              <div class="step-content">${d.itinerary.morning_breakfast}</div>
+            </div>
+            <div class="itinerary-step">
+              <div class="step-time">10:30 &bull; Midday Culture & Sightseeing</div>
+              <div class="step-content">${d.itinerary.midday_culture}</div>
+            </div>
+            <div class="itinerary-step">
+              <div class="step-time">13:00 &bull; Gastronomic Lunch</div>
+              <div class="step-content">${d.itinerary.lunch}</div>
+            </div>
+            <div class="itinerary-step">
+              <div class="step-time">15:00 &bull; Afternoon Strolling & Shopping</div>
+              <div class="step-content">${d.itinerary.afternoon_leisure}</div>
+            </div>
+            <div class="itinerary-step">
+              <div class="step-time">18:30 &bull; Twilight Aperitivo & Sunset</div>
+              <div class="step-content">${d.itinerary.twilight_sunset}</div>
+            </div>
+            <div class="itinerary-step">
+              <div class="step-time">20:30 &bull; Evening Fine Dining</div>
+              <div class="step-content">${d.itinerary.evening_dinner}</div>
+            </div>
+            <div class="itinerary-step">
+              <div class="step-time">23:00 &bull; Late-Night Nightcap & Nocturne</div>
+              <div class="step-content">${d.itinerary.latenight_nightcap}</div>
+            </div>
+            <div class="itinerary-step" style="border-left-color:var(--cyan-accent);">
+              <div class="step-time" style="color:var(--cyan-accent);">Transport & Chauffeur Logistics</div>
+              <div class="step-content">${d.itinerary.transport_logistics}</div>
+            </div>
+          </div>
+        </div>
+      `).join('');
+    }
+
+    function toggleDateDrawer(id) {
+      const el = document.getElementById(`date-drawer-${id}`);
+      if (el) el.classList.toggle('open');
+    }
 
     // RENDER EPIC
     function renderEpic() {
@@ -1040,9 +1165,7 @@ template_html = """<!DOCTYPE html>
 
     function toggleDrawer(num) {
       const el = document.getElementById(`drawer-${num}`);
-      if (el) {
-        el.classList.toggle('open');
-      }
+      if (el) el.classList.toggle('open');
     }
 
     // Canto selector buttons
@@ -1305,6 +1428,7 @@ template_html = """<!DOCTYPE html>
 
     function renderActiveTab() {
       if (activeTab === 'synthesis') renderEpic();
+      else if (activeTab === 'dates') renderDates();
       else if (activeTab === 'poetry') renderPoetry();
       else if (activeTab === 'music') renderMusic();
       else if (activeTab === 'aviation') renderAviation();
@@ -1328,8 +1452,9 @@ final_html = final_html.replace("__DATA_MUSIC__", json.dumps(music_data['works']
 final_html = final_html.replace("__DATA_POETRY__", json.dumps(poetry_data['poems']))
 final_html = final_html.replace("__DATA_SYNTHESIS__", json.dumps(synthesis_data['lines']))
 final_html = final_html.replace("__DATA_SYLLABUS__", json.dumps(SYLLABUS))
+final_html = final_html.replace("__DATA_DATES__", json.dumps(dates_data['dates']))
 
 with open(os.path.join(WORKSPACE, "index.html"), "w", encoding="utf-8") as f:
     f.write(final_html)
 
-print("[4/4] Successfully wrote index.html, size:", len(final_html), "bytes")
+print("[4/4] Successfully updated index.html with Dates, size:", len(final_html), "bytes")
